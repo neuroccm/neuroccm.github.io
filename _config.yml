@@ -1,0 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: neuroccm.org - Critical Care and Neurocritical Care
+email: hk@ecriticalcare.org
+description: > # this means to ignore newlines until "baseurl:"
+  neuroccm.org is written and composed by Dr. Houman Khosravani, MD PhD FRCPC
+  as a landing page for topics related to critical care and neurocritical care
+  in addition to serving as a professional website for Dr. Khosravani.
+  The Blog portion of this website is dedicated to topics in neurocritical care,
+  critical care medicine, and the interface of technology with these disciplines
+  in medicine.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://neuroccm.org" # the base hostname & protocol for your site
+twitter_username: neuroccm
+github_username:  neuroccm
+
+# Build settings
+markdown: kramdown
