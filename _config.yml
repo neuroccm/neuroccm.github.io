@@ -6,14 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: neuroccm.org - Critical Care and Neurocritical Care
+title: neuroccm.org
 email: hk@ecriticalcare.org
 description: > # this means to ignore newlines until "baseurl:"
-  neuroccm.org is written and composed by Dr. Houman Khosravani, MD PhD FRCPC
-  as a landing page for topics related to critical care and neurocritical care
+  neuroccm.org is a resource dedicated to topics related to critical care and neurocritical care
   in addition to serving as a professional website for Dr. Khosravani.
   The Blog portion of this website is dedicated to topics in neurocritical care,
-  critical care medicine, and the interface of technology with these disciplines
+  critical care medicine, and the interface of computation with these disciplines
   in medicine.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://neuroccm.org" # the base hostname & protocol for your site
@@ -22,3 +21,10 @@ github_username:  neuroccm
 
 # Build settings
 markdown: kramdown
+
+# Other items of interest:
+# logo: img/logo-2x.png
+# timezone: America/Los_Angeles
+# gauges_id: 503c5af6613f5d0f19000027
+# google_analytics_id: UA-50755011-1
+# google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY

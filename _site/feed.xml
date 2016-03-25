@@ -1,40 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>neuroccm.org - Critical Care and Neurocritical Care</title>
-    <description>neuroccm.org is written and composed by Dr. Houman Khosravani, MD PhD FRCPC as a landing page for topics related to critical care and neurocritical care in addition to serving as a professional website for Dr. Khosravani. The Blog portion of this website is dedicated to topics in neurocritical care, critical care medicine, and the interface of technology with these disciplines in medicine.
+    <title>neuroccm.org</title>
+    <description>neuroccm.org is a resource dedicated to topics related to critical care and neurocritical care in addition to serving as a professional website for Dr. Khosravani. The Blog portion of this website is dedicated to topics in neurocritical care, critical care medicine, and the interface of computation with these disciplines in medicine.
 </description>
     <link>http://neuroccm.org/</link>
     <atom:link href="http://neuroccm.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Mar 2016 11:20:47 -0400</pubDate>
-    <lastBuildDate>Tue, 22 Mar 2016 11:20:47 -0400</lastBuildDate>
+    <pubDate>Fri, 25 Mar 2016 05:57:30 -0400</pubDate>
+    <lastBuildDate>Fri, 25 Mar 2016 05:57:30 -0400</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Frailty in the ICU</title>
+        <description>&lt;p&gt;[posted earlier on old neuroccm wordpress site]&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;It is no secret that ICUs across the world are admitting a greater proportion of older patients – some of these patients have poor baseline functional status. Emerging fields such as geriatric trauma in the critically ill are a testament to this. Some would say that the concept of a frail patient is one that applies only to older (geriatric) patients – but this is not necessarily true. The reason for this is that the frail individual can be defined as “any patient with diminished physiologic and cognitive reserve”. This is a well recognized concept in Geriatrics and therefore work has been done to identify and quantify the degree of frailty in that population of patients.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Broadly speaking, frail patients have a higher risk of falls, illness, unplanned hospital admissions, complications after surgery, disability and death. In the older frail patient, a major illness can be a catalyst for decline into a “new baseline” of function.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Therefore, this raises the notion that we should consider frail patients, and frailty as an entity, as part of our comprehensive approach to defining co-morbid risk factors in ICU patients. At present, frailty is not well captured by common critical care admission scores…and maybe it’s time that we consider this. How should we be quantifying this?&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To this effect a recent Canadian study by Bagshaw et al. titled “Association between frailty and short- and long-term outcomes among critically ill patients: a multicentre prospective cohort study” characterized the prevalence of frailty and used a well-established frailty score (developed originally in the outpatient setting) to look at outcomes in critically ill patients.&lt;/p&gt;
 
+&lt;h1 id=&quot;study-highlights&quot;&gt;Study Highlights&lt;/h1&gt;
+
+&lt;p&gt;Prevalence of frailty in ICU patients is ~ 33% (national average in Canada is ~ 7%)&lt;/p&gt;
+
+&lt;p&gt;Multi-centre, prospective, provincial study, 6 hospitals (2 tertiary, 4 community), with hospital and post-hospital follow-up&lt;/p&gt;
+
+&lt;p&gt;Included all patients with age greater or equal to 50, and frailty score of &amp;gt; 4.&lt;/p&gt;
+
+&lt;p&gt;Excluded moribund patients, previously enrolled in the study (those with more than once admission)&lt;/p&gt;
+
+&lt;p&gt;Primary outcome – all cause in-hospital mortality&lt;/p&gt;
+
+&lt;p&gt;Secondary outcomes: death, ICU or at 6 months, Health related quality @ 6, 12 months, Intensity of ICU Tx, ICU length of stay, re-admission, and serious events within the ICU (such as self extubations, re-intubations, CRBSI)&lt;/p&gt;
+
+&lt;p&gt;Mean age 67.1, ~40% women, mean APACHE II 19.5 (SD 7), mean ICU stay (~5 days, median IQR 2-10) – it is important to note that the patients who were categorized as frail had similar ICU illness severity scores (e.g. APACHE II scores)&lt;/p&gt;
+
+&lt;p&gt;Frail patients tended to be older, female, having experienced prior hospital admissions, and have more co-morbid conditions.&lt;/p&gt;
+
+&lt;h1 id=&quot;exciting-results&quot;&gt;Exciting results&lt;/h1&gt;
+
+&lt;p&gt;higher incidence of in-hospital mortality (~32% frail vs 16% non-frail)&lt;/p&gt;
+
+&lt;p&gt;longer ICU stays 7 (4-13) vs 6 (3-10) days, and also overall hospital stay&lt;/p&gt;
+
+&lt;p&gt;Much fewer patients made it back home to live independently 22% frail vs. 44% non-frail
+patients discharged with “new” dependent status ~71% frail vs. ~52% non-frail
+frail patients tended to have greater hospital readmissions&lt;/p&gt;
+
+&lt;h1 id=&quot;key-take-away-messages&quot;&gt;Key take-away messages&lt;/h1&gt;
+
+&lt;p&gt;Frailty is prevalent, at least ~30% or more of patients admitted to ICUs&lt;/p&gt;
+
+&lt;p&gt;Frailty is not just a geriatric condition
+Patients with similar ICU severity of illness but worse frailty status tend to do worse and we should actively consider such factors.&lt;/p&gt;
+
+&lt;p&gt;As the authors state eloquently “This suggests that an episode of critical illness in a frail patient may herald a momentous transition toward greater homeostatic instability, disability, and risk of death”&lt;/p&gt;
+
+&lt;h1 id=&quot;future-directions&quot;&gt;Future directions&lt;/h1&gt;
+
+&lt;p&gt;Do we need a combined score or one that considers frailty? Can this be used for prognostication? Can it help us speak with families when discussing their loved one’s trajectory?&lt;/p&gt;
+
+&lt;p&gt;Do we need a frailty score developed within the ICU setting for the ICU setting? (most current scores were developed in the out-patient setting)&lt;/p&gt;
 </description>
-        <pubDate>Tue, 22 Mar 2016 05:00:50 -0400</pubDate>
-        <link>http://neuroccm.org/jekyll/update/2016/03/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://neuroccm.org/jekyll/update/2016/03/22/welcome-to-jekyll.html</guid>
+        <pubDate>Fri, 28 Feb 2014 00:00:00 -0500</pubDate>
+        <link>http://neuroccm.org/outcomes/2014/02/28/Frailty.html</link>
+        <guid isPermaLink="true">http://neuroccm.org/outcomes/2014/02/28/Frailty.html</guid>
         
         
-        <category>jekyll</category>
+        <category>outcomes</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Therapeutic Hypothermia – 4 weeks after protocol-changing studies</title>
+        <description>&lt;p&gt;[posted earlier on old neuroccm wordpress site]&lt;/p&gt;
+
+&lt;p&gt;Nov. 17th saw the on-line publication of two important therapeutic hypothermia trials in the setting of cardiac arrest. These studies were well covered by several of the top intensive care blogs. Below is an organized (selected) summary, including Scott Weingart’s (emcrit.org) recent interview with Dr. Stephen Bernard who is one of the original protocol-establishing trial’s authors. Taken together, these studies are changing practice world-wide.&lt;/p&gt;
+
+&lt;p&gt;Overall, the message is that we should continue to cool patients, likely 36 deg C is sufficient for most patients, and probably, what is more important is the avoidance of fever. Some patients may still benefit from deeper cooling. Also very interesting that the PEA/Asystole group, now included Nielsen et al.’s study, did not see benefit (some say PEA is different than asystole in terms of perfusion and may respond differently to cooling).&lt;/p&gt;
+
+&lt;p&gt;Some commentators suggest that a brain “dose-response” curve exists – such that those with a suspected greater degree of neuronal injury may benefit from lower temperatures and/or longer cooling times – however, I think this will be difficult to show definitively while controlling for confounders. The post-arrest brain injury (and it’s extent) occurs acutely in a short amount of time and there are physiologic parameters that govern the secondary injury that ensues over the coming days – it will be challenging to assess those parameters in the acute setting. We likely need a focused physical exam (perhaps augmented by objective instruments such as pupillometry), brain imaging, and continuous EEG as parameters to study acutely that may provide us future insight on how to stratify patients.&lt;/p&gt;
+
+&lt;h1 id=&quot;reviewcommentary&quot;&gt;Review/Commentary&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nejm.org/doi/full/10.1056/NEJMe1312700&quot; target=&quot;_blank&quot;&gt;Rittenberger and Callaway’s NEJM commentary on Nielsen et al.’s article&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;interesting-blogs&quot;&gt;Interesting blogs&lt;/h1&gt;
+
+&lt;p&gt;*Emcrit.org – &lt;a href=&quot;http://emcrit.org/podcasts/emcrit-wee-targeted-temperature-trial-changes-everything/&quot; target=&quot;_blank&quot;&gt;Scott’s wee on TTM&lt;/a&gt; and &lt;a href=&quot;http://emcrit.org/podcasts/post-arrest-care-2013-i/&quot; target=&quot;_blank&quot;&gt;Interview with Dr. Stephen Bernard&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;*&lt;a href=&quot;http://medicalevidence.blogspot.com.au/2013/11/chill-out-homeopathic-hypothermia-after.html&quot; target=&quot;_blank&quot;&gt;Medical Evidence Blog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;*Intensive Care Network &lt;a href=&quot;http://intensivecarenetwork.com/index.php/icn-activities/icn-podcasts/796-niklas-nielsen-interview-1-week-post-ttm-publication&quot; target=&quot;_blank&quot;&gt;interview&lt;/a&gt; with Dr. Nielsen&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Original research articles:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nejm.org/doi/full/10.1056/NEJMoa1310519?query=featured_home#t=article&quot; target=&quot;_blank&quot;&gt;NEJM – Nielsen et al.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jama.jamanetwork.com/article.aspx?articleid=1778673&quot; target=&quot;_blank&quot;&gt;JAMA – Kim et al.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update [27 Dec. 2013]:&lt;/em&gt; Excellent panel discussion by several leaders in ED/CCM on new perspectives on TTM. See the new &lt;a href=&quot;http://ragepodcast.com/rage-session-one/&quot; target=&quot;_blank&quot;&gt;RAGE Podcast&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Jan 2014 00:00:00 -0500</pubDate>
+        <link>http://neuroccm.org/ttm/2014/01/24/TTM.html</link>
+        <guid isPermaLink="true">http://neuroccm.org/ttm/2014/01/24/TTM.html</guid>
+        
+        
+        <category>TTM</category>
         
       </item>
     

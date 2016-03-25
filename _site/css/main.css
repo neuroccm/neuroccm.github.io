@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #111;
-  background-color: #fdfdfd;
+  background-color: #f0f0f0;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -154,7 +154,7 @@ pre {
   position: relative; }
 
 .site-title {
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 300;
   line-height: 56px;
   letter-spacing: -1px;
@@ -178,7 +178,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #fdfdfd;
+      background-color: #f0f0f0;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
