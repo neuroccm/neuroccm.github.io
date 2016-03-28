@@ -2,6 +2,7 @@
 layout: page
 permalink: /posts.html
 title: Blog
+comments: FALSE
 ---
 
   <h1 class="page-heading">Posts</h1>
