@@ -10,7 +10,7 @@ title: neuroccm.org
 email: hk@ecriticalcare.org
 description: > # this means to ignore newlines until "baseurl:"
   neuroccm.org is a resource dedicated to topics related to critical care and neurocritical care
-  in addition to serving as a professional website for Dr. Khosravani.
+  in addition to serving as a professional website for Houman Khosravani.
   The Blog portion of this website is dedicated to topics in neurocritical care,
   critical care medicine, and the interface of computation with these disciplines
   in medicine.
@@ -21,6 +21,26 @@ github_username:  neuroccm
 
 # Build settings
 markdown: kramdown
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments :
+  provider : disqus
+  disqus :
+    short_name : houmankhosravani
+  livefyre :
+    site_id : 123
+  intensedebate :
+    account : 123abc
+  facebook :
+    appid : 123
+    num_posts: 5
+    width: 580
+    colorscheme: light
+
+
 
 # Other items of interest:
 # logo: img/logo-2x.png

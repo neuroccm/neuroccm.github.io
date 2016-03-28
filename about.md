@@ -24,9 +24,7 @@ For full details of neuroccm.org/ncrit.org’s disclaimer & disclosure statement
 
 # Site Development Environment #
 
-This site is hosted on GitHub and Developed using Jekyll. You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+This site is hosted on GitHub and Developed using Jekyll.
 
 You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
