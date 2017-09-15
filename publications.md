@@ -49,6 +49,8 @@ For a full listing of my publications in biology, medicine, computation, and ast
 
     * [Emergency Noninvasive Angiography for Acute Intracerebral Hemorrhage][ICH_Review]
 
+---
+
 * Graduate Thesis and Dissertation
 
     * Please see below for links to download my MSc and PhD thesis and dissertation:

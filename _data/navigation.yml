@@ -1,0 +1,17 @@
+- link: /index.html
+  name: NeroCCM
+
+- link: /about/index.html
+  name: About
+
+- link: /academics/index.html
+  name: Academics
+
+- link: /publications/index.html
+  name: Publications
+
+- link: /podcasts/index.html
+  name: Podcasts
+
+- link: /posts/index.html
+  name: Posts

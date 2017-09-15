@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>neuroccm.org</title>
-    <description>neuroccm.org is a resource dedicated to topics related to critical care and neurocritical care in addition to serving as a professional website for Houman Khosravani. The Blog portion of this website is dedicated to topics in neurocritical care, critical care medicine, and the interface of computation with these disciplines in medicine.
+    <description>neuroccm.org is a resource dedicated to topics related to critical care and neurocritical care. The Blog portion of this website is dedicated to topics in neurocritical care, critical care medicine, and the interface of computation with these disciplines in medicine.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Sep 2017 14:02:21 -0400</pubDate>
-    <lastBuildDate>Fri, 15 Sep 2017 14:02:21 -0400</lastBuildDate>
+    <pubDate>Fri, 15 Sep 2017 16:57:58 -0400</pubDate>
+    <lastBuildDate>Fri, 15 Sep 2017 16:57:58 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>

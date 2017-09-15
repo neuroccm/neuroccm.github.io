@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /posts.html
-title: Blog
+title: Posts
 comments: FALSE
 ---
 
