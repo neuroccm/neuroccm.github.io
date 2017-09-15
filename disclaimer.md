@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Disclaimer and Terms of Use Agreement 
+# Disclaimer
 
 This Terms of Use Agreement (this “Agreement”) is entered into by and between Houman Khosravani, M.D. (the “author”) and “you,” the user of this web site (the “site”). Access to, use of and/or browsing of the site is provided subject to the terms and conditions set forth herein. By accessing, using and/or browsing the site, you hereby agree to these terms and conditions.
 
