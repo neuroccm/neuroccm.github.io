@@ -4,10 +4,10 @@
     <title>neuroccm.org</title>
     <description>neuroccm.org is a resource dedicated to topics related to critical care and neurocritical care in addition to serving as a professional website for Houman Khosravani. The Blog portion of this website is dedicated to topics in neurocritical care, critical care medicine, and the interface of computation with these disciplines in medicine.
 </description>
-    <link>http://neuroccm.org/</link>
-    <atom:link href="http://neuroccm.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Sep 2017 20:29:17 -0400</pubDate>
-    <lastBuildDate>Thu, 14 Sep 2017 20:29:17 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Sep 2017 13:41:01 -0400</pubDate>
+    <lastBuildDate>Fri, 15 Sep 2017 13:41:01 -0400</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -66,8 +66,8 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
 &lt;p&gt;Do we need a frailty score developed within the ICU setting for the ICU setting? (most current scores were developed in the out-patient setting)&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Feb 2014 00:00:00 -0500</pubDate>
-        <link>http://neuroccm.org/outcomes/2014/02/28/Frailty.html</link>
-        <guid isPermaLink="true">http://neuroccm.org/outcomes/2014/02/28/Frailty.html</guid>
+        <link>http://localhost:4000/outcomes/2014/02/28/Frailty.html</link>
+        <guid isPermaLink="true">http://localhost:4000/outcomes/2014/02/28/Frailty.html</guid>
         
         
         <category>outcomes</category>
@@ -105,8 +105,8 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
 &lt;p&gt;&lt;em&gt;Update [27 Dec. 2013]:&lt;/em&gt; Excellent panel discussion by several leaders in ED/CCM on new perspectives on TTM. See the new &lt;a href=&quot;http://ragepodcast.com/rage-session-one/&quot; target=&quot;_blank&quot;&gt;RAGE Podcast&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://neuroccm.org/ttm/2014/01/24/TTM.html</link>
-        <guid isPermaLink="true">http://neuroccm.org/ttm/2014/01/24/TTM.html</guid>
+        <link>http://localhost:4000/ttm/2014/01/24/TTM.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ttm/2014/01/24/TTM.html</guid>
         
         
         <category>TTM</category>
