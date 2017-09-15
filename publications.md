@@ -6,11 +6,11 @@ permalink: /publications/
 
 For a full listing of my publications in biology, medicine, computation, and astronomy please see the following (database) links:
 
-* [Google Scholar][HKScholar] – Medicine, Physiology, and Computational Biology/Biophysics
+* [Google Scholar][HKScholar]{:target="_blank"} – Medicine, Physiology, and Computational Biology/Biophysics
 
-* [PubMed.com][HKPubmed]  – Medicine, Physiology, Neurobiology (Epilepsy)
+* [PubMed.com][HKPubmed]{:target="_blank"}  – Medicine, Physiology, Neurobiology (Epilepsy)
 
-* [SAO/NASA Astrophysics Data System (ADS)][HKADS] – Astrophysics and Computation
+* [SAO/NASA Astrophysics Data System (ADS)][HKADS]{:target="_blank"} – Astrophysics and Computation
 
 ---
 <p></p>
@@ -66,8 +66,8 @@ For a full listing of my publications in biology, medicine, computation, and ast
 ---
 
 <p></p>
-        
-        
+
+
 [westernsono]: http://westernsono.ca
 [ecriticalcare]: http://www.ecriticalcare.org
 [UWO]: http://www.uwo.ca
