@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /posts.html
+permalink: /posts/
 title: Posts
 comments: FALSE
 ---

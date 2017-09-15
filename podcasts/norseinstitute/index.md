@@ -20,7 +20,6 @@ We discuss "what is NORSE" for a medical/scientific audience.
 Interview with Dr. Tobias Loddenkemper, MD. He is Director, Clinical Epilepsy Research and Associate Professor of Neurology, Harvard Medical School.
 We discuss NORSE, pre-hospital care for status epilepticus and future developments and challenges in this field.
 <iframe width="50%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/342541757&amp;color=%2300aabb&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-
-
+---
 
 Return to the [NORSE Institute](http://http://www.norseinstitute.org/){:target="_blank"}.
