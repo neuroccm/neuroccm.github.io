@@ -4,17 +4,17 @@ title: Academics
 permalink: /academics/
 ---
 
-# Academic and Research Projects
+# Current Academic Projects/Activity
 
 # NORSE (New Onset Refractory Status Epilepticus)
 
 Advocacy/Clinical Care Guidance/Research - [NORSEINSTITUTE.ORG](http://norseinstitute.org)
 
-I am a member of the [Advisory Board](http://www.norseinstitute.org/medical-advisory-board/) at the NORSE Institute. We are a group of individuals spanning families, physicians in pediatric & adult neurology and also intensive care physicians dedicated to raising awareness for NORSE. We want to also build a foundation where other providers are able to diagnose, treat, and seek consultation from expert centres when managing NORSE patients. In addition, we have developed a registry for such patients in order to improve understanding of NORSE and associated conditions.
+I am a member of the [Advisory Board](http://www.norseinstitute.org/medical-advisory-board/) at the NORSE Institute. We are a group of individuals spanning families, physicians (Pediatric & Adult Neurology, Neurocritical Care) dedicated to raising awareness for NORSE. We are building a foundation where other providers are able to diagnose, treat, and seek consultation from expert and expert-centers when managing NORSE patients. In addition, we have developed a registry for these pateints and soon their families. Our goal is to raise awareness of NORSE and associated conditions and to work toward a cure.
 
-Vision of the NORSE Institute: TO FIND AN EFFECTIVE TREATMENT FOR NORSE
+"Vision of the NORSE Institute: TO FIND AN EFFECTIVE TREATMENT FOR NORSE
 
-Effective treatment for this rare and poorly understood disorder is currently elusive. Finding it requires new thinking from multiple medical disciplines and integration of these ideas and research. We hope to stimulate this thinking and explore both the conceptual boundaries of NORSE as well as the practical boundaries of NORSE treatment: long-term critical care, ICU and epilepsy coordination, palliative care, and immune treatments.
+Effective treatment for this rare and poorly understood disorder is currently elusive. Finding it requires new thinking from multiple medical disciplines and integration of these ideas and research. We hope to stimulate this thinking and explore both the conceptual boundaries of NORSE as well as the practical boundaries of NORSE treatment: long-term critical care, ICU and epilepsy coordination, palliative care, and immune treatments."
 
 # Extubation Pathway – [extubate.ecriticalcare.org](http://extubate.ecriticalcare.org)
 
@@ -28,12 +28,18 @@ We developed ICU Boot Camp as a course and mobile-platform using Google Classroo
 
 # Medical Education – [torontocriticalcare.org](http://torontocriticalcare.org) - Sr Resident and Fellow education in the intensive care unit at University of Toronto
 
-Based on positive reception and uptake by users at Western and the increasing utilization of mobile devices for content consumption in medical education (and life in general!), I developed the Educational portal for the Interdepartmental Division of Critical Care at the University of Toronto. This website is being used for ICU Sr residents and clinical fellows for educational use and organization by the program.
+Based on positive reception and uptake by users at Western and the increasing utilization of mobile devices for content consumption in medical education (and life in general!), we developed the Educational portal for the Interdepartmental Division of Critical Care at the University of Toronto. This website is being used for ICU Sr residents and clinical fellows for educational use and organization by the program.
 
 # Future Directions
 
-I am interested in the interface between computational solutions and medical challenges in caring for acute medically-ill and critically-ill patients. If you are a Principle Investigator with a computational focus and seek a clinical partner to work on such initiatives please do not hesitate to contact me.
+Areas of interest:
 
+* Stroke and quality of care/improvement in stroke pathways; specifically peri-tPA and EVT and how they interact with critical care systems.
+* *status epileptius*, refractory SE, NORSE
+* Delirium in the ICU, EEG to study mechanisms of delirium in the ICU, including occult seizure activity.
+* Interface between computational solutions and medical challenges in caring for acute medically-ill and critically-ill patients. My specific interest, based on my PhD work, is time-series analysis and utilizing both linear and nonlinear tools to analyze physiologic signals for classifying and predicting disease processes.
+
+If you are a Principle Investigator and seek collaboration please do not hesitate to contact me.
 
 [ecriticalcare]:http://ecriticalcare.org
 [extubate]:http://extubate.ecriticalcare.org

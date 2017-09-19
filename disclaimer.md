@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Disclaimer
-exclude_from_nav: true
 ---
 
 # Disclaimer
