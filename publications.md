@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-The following are select publications reflecting my areas of interest and previous work. For a full listing of my publications in biology, medicine, computation, and astronomy please see the following (database) links:
+The following are select publications reflecting my areas of interest and previous work. For a full listing please see the following (database) links:
 
 * [Google Scholar][HKScholar] – Medicine, Physiology, and Computational Biology/Biophysics
 
@@ -15,7 +15,7 @@ The following are select publications reflecting my areas of interest and previo
 ---
 <p></p>
 
-* The following publications highlight articles of interest and highlight my research expertise:
+* The following are a series of highlighted publications:
 
     * Time-series analysis, Non-linear Systems Theory, Computational Neuroscience, Computational Medicine
 
@@ -55,9 +55,9 @@ The following are select publications reflecting my areas of interest and previo
 
     * Please see below for links to download my MSc and PhD thesis and dissertation:
 
-        * [MSc in Physiology from the University of Toronto, Nonlinear Time-series Analysis of in vitro and Human Electroencephalographic recordings for Seizure Anticipation and in vitro Seizure Control.][Houman_MSc]
+        * [MSc in Physiology from the University of Toronto, "Nonlinear Time-series Analysis of in vitro and Human Electroencephalographic recordings for Seizure Anticipation and in vitro Seizure Control"][Houman_MSc]
 
-        * [PhD in Neuroscience from the University of Calgary, Cellular and Network Substrates of Neuronal Excitability in Relation to Epileptic Seizures][Houman_PhD]
+        * [PhD in Neuroscience from the University of Calgary, "Cellular and Network Substrates of Neuronal Excitability in Relation to Epileptic Seizures"][Houman_PhD]
 
 <p></p>
 
