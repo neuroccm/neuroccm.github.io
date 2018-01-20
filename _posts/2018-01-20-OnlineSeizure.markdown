@@ -7,9 +7,9 @@ comments: TRUE
 ---
 [Back to posts...](/posts/index.html)
 
-They say it's never too late...4 years later (lots of call nights and after completing critical care and a neurocritical care/EEG fellowships) back to writing (hopefully!)
+They say it's never too late...4 years later (and many call nights later) back to writing (hopefully!)
 
-As a critical care provider, with a background in seizures & epilepsy, and an avid follower of technology I saw something unique on one of my favorite tech sites - [theverge.com](https://www.theverge.com/2018/1/19/16911408/vr-chat-virtual-reality-seizure). I am also a strong proponent of epilepsy awareness through my work with the [NORSE Institute](https://www.norseinstitute.org/) and felt the need to write about this.
+As a critical care provider, with a background in epilepsy & seizures, and an avid follower of technology I saw something unique on one of my favorite tech sites - [theverge.com](https://www.theverge.com/2018/1/19/16911408/vr-chat-virtual-reality-seizure), written by [Megan Farokhmanesh](https://twitter.com/Megan_Nicolett). I am also a strong proponent of epilepsy awareness through my work with the [NORSE Institute](https://www.norseinstitute.org/) and felt the need to write about this.
 
 It turns out that a group of players using VR chat noted that one member of the virtual group was having a seizure. Kudos to the group and YouTuber Rogue Shadow VR for noticing this fairly quickly as it started occurring. It also turns out that the player was wearing more than the usual VR gear, which allowed for whole-body tracking. This, in part, is what alerted the other players that this member of the chat had collapsed.
 
