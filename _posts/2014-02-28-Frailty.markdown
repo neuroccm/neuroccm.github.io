@@ -5,6 +5,7 @@ date: 2014-02-28 00:00:00 -0500
 categories: outcomes
 comments: TRUE
 ---
+[Back to posts...](/posts/index.html)
 
 [posted earlier on old neuroccm wordpress site]
 
@@ -58,3 +59,5 @@ As the authors state eloquently “This suggests that an episode of critical ill
 Do we need a combined score or one that considers frailty? Can this be used for prognostication? Can it help us speak with families when discussing their loved one’s trajectory?
 
 Do we need a frailty score developed within the ICU setting for the ICU setting? (most current scores were developed in the out-patient setting)
+
+[Back to posts...](/posts/index.html)

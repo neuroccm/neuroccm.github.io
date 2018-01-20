@@ -6,13 +6,55 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jan 2018 12:10:59 -0500</pubDate>
-    <lastBuildDate>Fri, 19 Jan 2018 12:10:59 -0500</lastBuildDate>
+    <pubDate>Sat, 20 Jan 2018 09:51:59 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Jan 2018 09:51:59 -0500</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
+        <title>A Seizure captured on VR</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;They say it’s never too late…4 years later (lots of call nights and after completing critical care and a neurocritical care/EEG fellowships) back to writing (hopefully!)&lt;/p&gt;
+
+&lt;p&gt;As a critical care provider, with a background in seizures &amp;amp; epilepsy, and an avid follower of technology I saw something unique on one of my favorite tech sites - &lt;a href=&quot;https://www.theverge.com/2018/1/19/16911408/vr-chat-virtual-reality-seizure&quot;&gt;theverge.com&lt;/a&gt;. I am also a strong proponent of epilepsy awareness through my work with the &lt;a href=&quot;https://www.norseinstitute.org/&quot;&gt;NORSE Institute&lt;/a&gt; and felt the need to write about this.&lt;/p&gt;
+
+&lt;p&gt;It turns out that a group of players using VR chat noted that one member of the virtual group was having a seizure. Kudos to the group and YouTuber Rogue Shadow VR for noticing this fairly quickly as it started occurring. It also turns out that the player was wearing more than the usual VR gear, which allowed for whole-body tracking. This, in part, is what alerted the other players that this member of the chat had collapsed.&lt;/p&gt;
+
+&lt;p&gt;The challenge was that none of the players were able to notify the user’s friends/family or place a 911 call - many of them were expressing concern and wanting to help. As one of the players on the VR Chat noted, these episodes can be self-limiting. However at times there can be cardiopulmonary compromise caused by either loss of the airway due to emesis/secretions in the post-ictal period (with decreased level of alertness) and also due to the cardiac consequences of a prolonged seizure (such as severe bradycardia, and others). In this case the player is likely young and without other co-morbidities, however the situation could be very different at other times. Moreover, given that this individual likely has epilepsy, there is a risk that this seizure would be prolonged or reoccur in a condition called &lt;a href=&quot;https://en.wikipedia.org/wiki/Status_epilepticus&quot;&gt;status epilepitcus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This event raises a number of issues:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Greater awareness of epilepsy - please visit &lt;a href=&quot;https://epilepsy.org/&quot;&gt;epilepsy.org&lt;/a&gt; and other societies such as &lt;a href=&quot;http://www.epilepsy.ca/&quot;&gt;Epilepsy Canada&lt;/a&gt;, &lt;a href=&quot;http://epilepsyontario.org/&quot;&gt;Epilepsy Ontario&lt;/a&gt;, and also the &lt;a href=&quot;https://www.epilepsy.com/&quot;&gt;Epilepsy Foundation&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Greater knowledge and awareness of Photic- and pattern-induced seizures, for a scientific review see &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/16146439&quot;&gt;Fisher RS et al.&lt;/a&gt;, and for a more lay audience, &lt;a href=&quot;http://epilepsyontario.org/epileptic-syndromes-and-visually-induced-seizures/&quot;&gt;Epilepsy Ontario&lt;/a&gt; has some good information.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;As pointed out by the YouTuber Rogue Shadow VR, not only do users need to be more aware of this risk in VR for visual stimulus-induced seizures, for those with epilepsy, but so do the manufactures of VR gear. There might be a tech solution here with altered patterns, refresh rates, or other parameters.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lastly, it would be great if platforms such as VR Chat, had a mechanism of accessing emergency services for users that may have a medical emergency while in VR. This could start by users, when they sign-up, to have on their account emergency contact information, and list of medical conditions (they are willing to disclose to the platform Only!) - such that in the event of an on-line emergency in VR, other users could ask for a moderator to join the chat and observe that is going on and then trigger the appropriate action. Of course this comes with a hornet’s nest of medical-legal implications for several of the involved parties - however, there is something to be said about safety and accountability as more activity is conducted online and a broader audience may be witness to a medical emergency.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Jan 2018 08:44:00 -0500</pubDate>
+        <link>http://localhost:4000/tech/2018/01/20/OnlineSeizure.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/2018/01/20/OnlineSeizure.html</guid>
+        
+        
+        <category>Tech</category>
+        
+      </item>
+    
+      <item>
         <title>Frailty in the ICU</title>
-        <description>&lt;p&gt;[posted earlier on old neuroccm wordpress site]&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[posted earlier on old neuroccm wordpress site]&lt;/p&gt;
 
 &lt;p&gt;It is no secret that ICUs across the world are admitting a greater proportion of older patients – some of these patients have poor baseline functional status. Emerging fields such as geriatric trauma in the critically ill are a testament to this. Some would say that the concept of a frail patient is one that applies only to older (geriatric) patients – but this is not necessarily true. The reason for this is that the frail individual can be defined as “any patient with diminished physiologic and cognitive reserve”. This is a well recognized concept in Geriatrics and therefore work has been done to identify and quantify the degree of frailty in that population of patients.&lt;/p&gt;
 
@@ -64,6 +106,8 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
 &lt;p&gt;Do we need a combined score or one that considers frailty? Can this be used for prognostication? Can it help us speak with families when discussing their loved one’s trajectory?&lt;/p&gt;
 
 &lt;p&gt;Do we need a frailty score developed within the ICU setting for the ICU setting? (most current scores were developed in the out-patient setting)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Feb 2014 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/outcomes/2014/02/28/Frailty.html</link>
@@ -76,7 +120,8 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
     
       <item>
         <title>Therapeutic Hypothermia – 4 weeks after protocol-changing studies</title>
-        <description>&lt;p&gt;[posted earlier on old neuroccm wordpress site]&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;
+[posted earlier on old neuroccm wordpress site]&lt;/p&gt;
 
 &lt;p&gt;Nov. 17th saw the on-line publication of two important therapeutic hypothermia trials in the setting of cardiac arrest. These studies were well covered by several of the top intensive care blogs. Below is an organized (selected) summary, including Scott Weingart’s (emcrit.org) recent interview with Dr. Stephen Bernard who is one of the original protocol-establishing trial’s authors. Taken together, these studies are changing practice world-wide.&lt;/p&gt;
 
@@ -86,23 +131,38 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
 
 &lt;h1 id=&quot;reviewcommentary&quot;&gt;Review/Commentary&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.nejm.org/doi/full/10.1056/NEJMe1312700&quot; target=&quot;_blank&quot;&gt;Rittenberger and Callaway’s NEJM commentary on Nielsen et al.’s article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.nejm.org/doi/full/10.1056/NEJMe1312700&quot;&gt;Rittenberger and Callaway’s NEJM commentary on Nielsen et al.’s article&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;interesting-blogs&quot;&gt;Interesting blogs&lt;/h1&gt;
 
-&lt;p&gt;*Emcrit.org – &lt;a href=&quot;http://emcrit.org/podcasts/emcrit-wee-targeted-temperature-trial-changes-everything/&quot; target=&quot;_blank&quot;&gt;Scott’s wee on TTM&lt;/a&gt; and &lt;a href=&quot;http://emcrit.org/podcasts/post-arrest-care-2013-i/&quot; target=&quot;_blank&quot;&gt;Interview with Dr. Stephen Bernard&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Emcrit.org – [Scott’s wee on TTM] (http://emcrit.org/podcasts/emcrit-wee-targeted-temperature-trial-changes-everything/) and &lt;a href=&quot;http://emcrit.org/podcasts/post-arrest-care-2013-i/&quot;&gt;Interview with Dr. Stephen Bernard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;*&lt;a href=&quot;http://medicalevidence.blogspot.com.au/2013/11/chill-out-homeopathic-hypothermia-after.html&quot; target=&quot;_blank&quot;&gt;Medical Evidence Blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://medicalevidence.blogspot.com.au/2013/11/chill-out-homeopathic-hypothermia-after.html&quot;&gt;Medical Evidence Blog&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;*Intensive Care Network &lt;a href=&quot;http://intensivecarenetwork.com/index.php/icn-activities/icn-podcasts/796-niklas-nielsen-interview-1-week-post-ttm-publication&quot; target=&quot;_blank&quot;&gt;interview&lt;/a&gt; with Dr. Nielsen&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Intensive Care Network &lt;a href=&quot;http://intensivecarenetwork.com/index.php/icn-activities/icn-podcasts/796-niklas-nielsen-interview-1-week-post-ttm-publication&quot;&gt;interview&lt;/a&gt; with Dr. Nielsen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Original research articles:*&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Original research articles:&lt;/em&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;a href=&quot;http://www.nejm.org/doi/full/10.1056/NEJMoa1310519?query=featured_home#t=article&quot;&gt;NEJM – Nielsen et al.&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;a href=&quot;http://jama.jamanetwork.com/article.aspx?articleid=1778673&quot;&gt;JAMA – Kim et al.&lt;/a&gt;&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Update [27 Dec. 2013]:* Excellent panel discussion by several leaders in ED/CCM on new perspectives on TTM. See the new [RAGE Podcast]{http://ragepodcast.com/rage-session-one/)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.nejm.org/doi/full/10.1056/NEJMoa1310519?query=featured_home#t=article&quot; target=&quot;_blank&quot;&gt;NEJM – Nielsen et al.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://jama.jamanetwork.com/article.aspx?articleid=1778673&quot; target=&quot;_blank&quot;&gt;JAMA – Kim et al.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Update [27 Dec. 2013]:&lt;/em&gt; Excellent panel discussion by several leaders in ED/CCM on new perspectives on TTM. See the new &lt;a href=&quot;http://ragepodcast.com/rage-session-one/&quot; target=&quot;_blank&quot;&gt;RAGE Podcast&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Jan 2014 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/ttm/2014/01/24/TTM.html</link>

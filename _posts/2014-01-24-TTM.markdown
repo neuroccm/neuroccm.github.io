@@ -5,7 +5,7 @@ date: 2014-01-24 00:00:00 -0500
 categories: TTM
 comments: TRUE
 ---
-
+[Back to posts...](/posts/index.html)
 [posted earlier on old neuroccm wordpress site]
 
 Nov. 17th saw the on-line publication of two important therapeutic hypothermia trials in the setting of cardiac arrest. These studies were well covered by several of the top intensive care blogs. Below is an organized (selected) summary, including Scott Weingart’s (emcrit.org) recent interview with Dr. Stephen Bernard who is one of the original protocol-establishing trial’s authors. Taken together, these studies are changing practice world-wide.
@@ -16,21 +16,23 @@ Some commentators suggest that a brain “dose-response” curve exists – such
 
 # Review/Commentary #
 
-[Rittenberger and Callaway’s NEJM commentary on Nielsen et al.’s article](http://www.nejm.org/doi/full/10.1056/NEJMe1312700){:target="_blank"}
+[Rittenberger and Callaway’s NEJM commentary on Nielsen et al.’s article](http://www.nejm.org/doi/full/10.1056/NEJMe1312700)
 
 
 # Interesting blogs #
 
-*Emcrit.org – [Scott’s wee on TTM](http://emcrit.org/podcasts/emcrit-wee-targeted-temperature-trial-changes-everything/){:target="_blank"} and [Interview with Dr. Stephen Bernard](http://emcrit.org/podcasts/post-arrest-care-2013-i/){:target="_blank"}
+* Emcrit.org – [Scott’s wee on TTM] (http://emcrit.org/podcasts/emcrit-wee-targeted-temperature-trial-changes-everything/) and [Interview with Dr. Stephen Bernard](http://emcrit.org/podcasts/post-arrest-care-2013-i/)
 
-*[Medical Evidence Blog](http://medicalevidence.blogspot.com.au/2013/11/chill-out-homeopathic-hypothermia-after.html){:target="_blank"}
+[Medical Evidence Blog](http://medicalevidence.blogspot.com.au/2013/11/chill-out-homeopathic-hypothermia-after.html)
 
-*Intensive Care Network [interview](http://intensivecarenetwork.com/index.php/icn-activities/icn-podcasts/796-niklas-nielsen-interview-1-week-post-ttm-publication){:target="_blank"} with Dr. Nielsen
+* Intensive Care Network [interview](http://intensivecarenetwork.com/index.php/icn-activities/icn-podcasts/796-niklas-nielsen-interview-1-week-post-ttm-publication) with Dr. Nielsen
 
-*Original research articles:*
+* Original research articles:*
 
-[NEJM – Nielsen et al.](http://www.nejm.org/doi/full/10.1056/NEJMoa1310519?query=featured_home#t=article){:target="_blank"}
+  * [NEJM – Nielsen et al.](http://www.nejm.org/doi/full/10.1056/NEJMoa1310519?query=featured_home#t=article)
 
-[JAMA – Kim et al.](http://jama.jamanetwork.com/article.aspx?articleid=1778673){:target="_blank"}
+  * [JAMA – Kim et al.](http://jama.jamanetwork.com/article.aspx?articleid=1778673)
 
-*Update [27 Dec. 2013]:* Excellent panel discussion by several leaders in ED/CCM on new perspectives on TTM. See the new [RAGE Podcast](http://ragepodcast.com/rage-session-one/){:target="_blank"}.
+* Update [27 Dec. 2013]:* Excellent panel discussion by several leaders in ED/CCM on new perspectives on TTM. See the new [RAGE Podcast]{http://ragepodcast.com/rage-session-one/)
+
+[Back to posts...](/posts/index.html)
