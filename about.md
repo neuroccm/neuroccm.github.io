@@ -6,9 +6,9 @@ permalink: /about/
 
 # About neuroccm.org | ncrit.org #
 
-neuroccm.org is a resource site, blog site, and personal landing page, developed by Houman Khosravani. The aim of neuroccm.org is to enhance discussion around topics related to stroke, neurointesive care, and critical care. Associated topics within neurology include status epilepticus.
+neuroccm.org [ncrit.org] is a resource site, blog site, and personal landing page, developed by Houman Khosravani. The aim of neuroccm.org is to enhance discussion around topics related to stroke, neurointesive care, and critical care. Associated topics within neurology include status epilepticus.
 
-I have an interest in medical education. In the ICU setting, I have developed the on-line educational portal for Western University (formerly ecriticalcare.org - now archieved) and most recently for University of Toronto's Critical Care program.
+I have an interest in medical education. In the ICU setting, I have developed the on-line educational portal for Western University (formerly ecriticalcare.org - now achieved) and most recently for University of Toronto's Critical Care program.
 
 * Checkout the web-portal: [torontocriticalcare.org](http://www.torontocriticalcare.org/).
 * Checkout this white-paper: [Resident Education using a Cloud-based Mobile App in a Flipped Classroom](/manuscripts/Khosravani_Scholar_Project_Public.pdf)
@@ -17,9 +17,9 @@ I have an interest in medical education. In the ICU setting, I have developed th
 
 I completed my MSc in Physiology (neuroscience) at the University of Toronto with Dr. Peter Carlen. My MSc work focused on computational neuroscience, specifically time-series analysis and the application of nonlinear systems theory to anticipating and controlling seizures using electrical stimuli (see [Publications](/publications/index.html) for some of the manuscripts.).
 
-My PhD work was in Neuroscience, labs of Dr. G. Zamponi and P. Federico. The focus of my work was on understanding the generation of abnormal neuronal activity and synchrony at both cellular and neuronal network levels. I explored neuronal hyperexcitability in the context of normal physiology and that of seizures. My PhD had three areas of focus leading to the following findings:
+My PhD work was in Neuroscience, labs of Dr. G. Zamponi and P. Federico. The focus of my work was on understanding the generation of abnormal neuronal activity and synchrony at both cellular and neuronal network levels. I explored neuronal hyper-excitability in the context of normal physiology and that of seizures. My PhD had three areas of focus leading to the following findings:
 * Exploring and defining the functional role of novel T-type Calcium Channel mutations in Primary Generalized Epilepsy. We showed that several of these SNPs (single nucleotide polymorphisms) had functional consequences that resulted in a gain of function and increased putative neuronal excitability.
-* Prion protein's role in excitability and neuronal death - interaction between endogenous prion protein and NMDA receptors as a mechanism of excitotoxic neuronal death and hyperexcitability.
+* Prion protein's role in excitability and neuronal death - interaction between endogenous prion protein and NMDA receptors as a mechanism of excitotoxic neuronal death and hyper-excitability.
 * Defining the role of high-frequency oscillations in intracranial EEG recordings of patients with epilepsy, as precursors to the ictal onset zone both temporally and spatially.
 
 After graduate work and medical school I entered Neurology training at the University of Toronto for PGY1 and PGY2 before transitioning to Internal Medicine at the same institution. I completed my my PGY4 and PGY5 training in (adult) Critical Care Medicine (Western University). I completed a fellowship in Neurocritical Care (Sunnybrook Health Science, University of Toronto) as well as ICU EEG (supervisor: Dr. Bryan Young) in June 2017. Presently, as a Clinical Associate, I am undergoing further training as a Stroke Physician at Sunnybrook Health Sciences, University of Toronto. In addition, I am on staff for Internal Medicine/Critical Care at Cambridge Memorial Hospital and Internal Medicine at Southlake Regional Health Centre.
