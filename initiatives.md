@@ -29,7 +29,7 @@ There are many excellent airway management strategies, checklists, and guideline
 For a full description of this project, please see eCriticalCare.org (see Education and ICU Boot Camp).
 The ICU rotation for junior and off-service residents can be challenging in many ways. These include: ICU as a complex environment with multiple teams and multi-modal monitoring, there are competing schedules (call,vacation,teaching schedules), there are different knowledge gaps and starting points for the residents, and there is significant anxiety associated with managing acute situations and procedures.
 We developed ICU Boot Camp as a course and mobile-platform using Google Classroom for students so that they can start their rotation ready to start taking care of critically-ill patients.
-* this site is now retired.
+* this site is now retired - [ccw.ecriticalcare.org](http://ccw.ecriticalcare.org/)
 
 # Future Directions
 
