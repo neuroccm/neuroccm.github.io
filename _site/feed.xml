@@ -5,11 +5,57 @@
     <description>neuroccm.org is a resource dedicated to topics related to stroke and neurocritical care. The Blog portion of this website is dedicated to topics in stroke, neurocritical care,
  and general critical care, and the interface of these disciplines with computational neuroscience.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Aug 2018 06:59:24 -0400</pubDate>
-    <lastBuildDate>Wed, 01 Aug 2018 06:59:24 -0400</lastBuildDate>
+    <link>http://neuroccm.org/</link>
+    <atom:link href="http://neuroccm.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 21 Aug 2018 08:51:59 -0400</pubDate>
+    <lastBuildDate>Tue, 21 Aug 2018 08:51:59 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Re-working the AHA 2018 Stroke Guidelines</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2018 has been very exciting year for stroke.  There have been a number of trials that have pushed the envelope with regards to thrombectomy, and many other exciting developments such as studies extending the TPA window in addition to investigating tenecteplase as an alternate to alteplase.&lt;/p&gt;
+
+&lt;p&gt;As the world was watching, in April 2018, the American Heart Association released the stroke guidelines for the United States.  Subsequently several important portions of this guideline where removed temporarily which is an unprecedented event.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;a href=&quot;https://journals.lww.com/neurotodayonline/Fulltext/2018/06210/For_Your_Patients_Stroke_Guidelines__AHA_ASA.2.aspx&quot;&gt;June addition of Neurology Today, Gina Shaw&lt;/a&gt;, interviews Dr. William Powers, who is the chair of the writing group, and discusses the challenges that the group has faced with regards to the withdrawal and the rewriting process.  The correction published in April/May, states that based on feedback from the clinical stroke community the AHA guidelines had to be revised.  In the interview with Dr. Powers, it seems that due to the summer break, the latest we can expect these guidelines to be resubmitted is in September 2018.&lt;/p&gt;
+
+&lt;p&gt;Of note the revisions are not going to be limited to just the sections that were withdrawn, but the entire document is going to be re-reviewed.  It seems like the writing committee has its work cut out for them, and they are going to be very careful with this revision given the high steaks.&lt;/p&gt;
+
+&lt;p&gt;Myself and others in the stroke community look forward to the revised document in the meantime this article in Neurology Today provides a glimpse into the complex world of guideline writing and its implications.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Aug 2018 09:44:00 -0400</pubDate>
+        <link>http://neuroccm.org/tech/2018/08/20/Stroke_Guidelines_2018AHA.html</link>
+        <guid isPermaLink="true">http://neuroccm.org/tech/2018/08/20/Stroke_Guidelines_2018AHA.html</guid>
+        
+        
+        <category>Tech</category>
+        
+      </item>
+    
+      <item>
+        <title>Predicting Renal Replacement Therapy in the ICU</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This interesting letter published in the recent publication of the journal Critical Care by &lt;a href=&quot;/eResources/Predicting who needs RRT.pdf&quot;&gt;Nierhaus et al. Critical Care (2018) 22:201&lt;/a&gt;, highlights some important and interesting findings with regards to biomarkers and how they can predict the need for renal replacement therapy in critically ill patients.&lt;/p&gt;
+
+&lt;p&gt;What is more interesting is how eloquently they referred to the fact that renal dysfunction represents likely one of the facets that forecast the progression towards multiple organ dysfunction syndrome.  This very much is what we see in the intensive care unit where renal replacement therapy if used, only addresses one aspect of the ensuing multiorgan dysfunction in patients with septic shock.  It also is an important educational point when discussing with families because renal replacement therapy only offers 1 modality of correcting the complex multiorgan dysfunction that often on its own is not able to reverse the patient’s trajectory.&lt;/p&gt;
+
+&lt;p&gt;In this letter, they discuss a secondary analysis of the SISPCT trial, which interestingly shows that renal replacement therapy was initiated and approximately 30% of patients with severe sepsis and septic shock within the first 21 days.  Furthermore the mortality in this patient group is striking approximately at 50% on average.  Even though the article discusses the potential role for MR-proADM as a biomarker, these findings and overall percentages are sobering due to the fact that they reflect how challenging this patient population is and how renal replacement therapy not only can be helpful but also unfortunately likely heralds multiorgan dysfunction and comes with an unwelcome companion, that being a high mortality risk.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Aug 2018 09:44:00 -0400</pubDate>
+        <link>http://neuroccm.org/tech/2018/08/20/RRT_in_sepsis.html</link>
+        <guid isPermaLink="true">http://neuroccm.org/tech/2018/08/20/RRT_in_sepsis.html</guid>
+        
+        
+        <category>Tech</category>
+        
+      </item>
     
       <item>
         <title>A Seizure captured on VR</title>
@@ -43,8 +89,8 @@
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Jan 2018 08:44:00 -0500</pubDate>
-        <link>http://localhost:4000/tech/2018/01/20/OnlineSeizure.html</link>
-        <guid isPermaLink="true">http://localhost:4000/tech/2018/01/20/OnlineSeizure.html</guid>
+        <link>http://neuroccm.org/tech/2018/01/20/OnlineSeizure.html</link>
+        <guid isPermaLink="true">http://neuroccm.org/tech/2018/01/20/OnlineSeizure.html</guid>
         
         
         <category>Tech</category>
@@ -111,8 +157,8 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Feb 2014 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/outcomes/2014/02/28/Frailty.html</link>
-        <guid isPermaLink="true">http://localhost:4000/outcomes/2014/02/28/Frailty.html</guid>
+        <link>http://neuroccm.org/outcomes/2014/02/28/Frailty.html</link>
+        <guid isPermaLink="true">http://neuroccm.org/outcomes/2014/02/28/Frailty.html</guid>
         
         
         <category>outcomes</category>
@@ -166,8 +212,8 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/ttm/2014/01/24/TTM.html</link>
-        <guid isPermaLink="true">http://localhost:4000/ttm/2014/01/24/TTM.html</guid>
+        <link>http://neuroccm.org/ttm/2014/01/24/TTM.html</link>
+        <guid isPermaLink="true">http://neuroccm.org/ttm/2014/01/24/TTM.html</guid>
         
         
         <category>TTM</category>
