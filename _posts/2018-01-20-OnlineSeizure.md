@@ -17,9 +17,9 @@ The challenge was that none of the players were able to notify the user's friend
 
 This event raises a number of issues:
 
-* Greater awareness of epilepsy - please visit [epilepsy.org](https://epilepsy.org/) and other societies such as [Epilepsy Canada](http://www.epilepsy.ca/), [Epilepsy Ontario](http://epilepsyontario.org/), and also the [Epilepsy Foundation](https://www.epilepsy.com/)
+* Greater awareness of epilepsy - please visit [epilepsy.org](https://epilepsy.org/) and other societies such as [Epilepsy Canada](https://www.epilepsy.ca/), [Epilepsy Ontario](https://epilepsyontario.org/), and also the [Epilepsy Foundation](https://www.epilepsy.com/)
 
-* Greater knowledge and awareness of Photic- and pattern-induced seizures, for a scientific review see [Fisher RS et al.](https://www.ncbi.nlm.nih.gov/pubmed/16146439), and for a more lay audience, [Epilepsy Ontario](http://epilepsyontario.org/epileptic-syndromes-and-visually-induced-seizures/) has some good information.
+* Greater knowledge and awareness of Photic- and pattern-induced seizures, for a scientific review see [Fisher RS et al.](https://www.ncbi.nlm.nih.gov/pubmed/16146439), and for a more lay audience, [Epilepsy Ontario](https://epilepsyontario.org/epileptic-syndromes-and-visually-induced-seizures/) has some good information.
 
 * As pointed out by the YouTuber Rogue Shadow VR, not only do users need to be more aware of this risk in VR for visual stimulus-induced seizures, for those with epilepsy, but so do the manufactures of VR gear. There might be a tech solution here with altered patterns, refresh rates, or other parameters.
 

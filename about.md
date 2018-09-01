@@ -10,8 +10,8 @@ neuroccm.org [ncrit.org] is a resource site, blog site, and personal landing pag
 
 I have an interest in medical education. In the ICU setting, I have developed the on-line educational portal for Western University (formerly ecriticalcare.org - now achieved) and most recently for University of Toronto's Critical Care program.
 
-* Checkout the web-portal: [torontocriticalcare.org](http://www.torontocriticalcare.org/)
-* checkout the web-portal: [ccw.ecriticalcare.org](http://ccw.ecriticalcare.org/)
+* Checkout the web-portal: [torontocriticalcare.org](https://www.torontocriticalcare.org/)
+* checkout the web-portal: [ccw.ecriticalcare.org](https://ccw.ecriticalcare.org/)
 * Checkout this white-paper: [Resident Education using a Cloud-based Mobile App in a Flipped Classroom](/manuscripts/Khosravani_Scholar_Project_Public.pdf)
 
 # About Houman Khosravani #
@@ -46,10 +46,10 @@ You can find the source code for Jekyll at
 [jekyll](https://github.com/jekyll/jekyll)
 
 
-[westernsono]: http://westernsono.ca
-[UWO]: http://www.uwo.ca
+[westernsono]: https://westernsono.ca
+[UWO]: https://www.uwo.ca
 [NORSE]: https://rarediseases.org/rare-diseases/new-onset-refractory-status-epilepticus-norse/
-[NORSEINST]:http://norseinstitute.org/
-[HKScholar]:http://scholar.google.ca/citations?user=qzhk98YAAAAJ&hl=en
-[HKPubmed]:http://www.ncbi.nlm.nih.gov/pubmed/?term=khosravani+h
-[HKADS]:http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Khosravani,%20Houman
+[NORSEINST]:https://norseinstitute.org/
+[HKScholar]:https://scholar.google.ca/citations?user=qzhk98YAAAAJ&hl=en
+[HKPubmed]:https://www.ncbi.nlm.nih.gov/pubmed/?term=khosravani+h
+[HKADS]:https://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Khosravani,%20Houman

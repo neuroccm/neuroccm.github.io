@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>neuroccm.org</title>
     <description>neuroccm.org is a resource dedicated to topics related to stroke and neurocritical care. The Blog portion of this website is dedicated to topics in stroke, neurocritical care,
  and general critical care, and the interface of these disciplines with computational neuroscience.
 </description>
-    <link>http://neuroccm.org/</link>
-    <atom:link href="http://neuroccm.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Aug 2018 08:51:59 -0400</pubDate>
-    <lastBuildDate>Tue, 21 Aug 2018 08:51:59 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 31 Aug 2018 22:03:09 -0400</pubDate>
+    <lastBuildDate>Fri, 31 Aug 2018 22:03:09 -0400</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Aug 2018 09:44:00 -0400</pubDate>
-        <link>http://neuroccm.org/tech/2018/08/20/Stroke_Guidelines_2018AHA.html</link>
-        <guid isPermaLink="true">http://neuroccm.org/tech/2018/08/20/Stroke_Guidelines_2018AHA.html</guid>
+        <link>http://localhost:4000/tech/2018/08/20/Stroke_Guidelines_2018AHA.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/2018/08/20/Stroke_Guidelines_2018AHA.html</guid>
         
         
         <category>Tech</category>
@@ -44,13 +44,13 @@
 
 &lt;p&gt;What is more interesting is how eloquently they referred to the fact that renal dysfunction represents likely one of the facets that forecast the progression towards multiple organ dysfunction syndrome.  This very much is what we see in the intensive care unit where renal replacement therapy if used, only addresses one aspect of the ensuing multiorgan dysfunction in patients with septic shock.  It also is an important educational point when discussing with families because renal replacement therapy only offers 1 modality of correcting the complex multiorgan dysfunction that often on its own is not able to reverse the patient’s trajectory.&lt;/p&gt;
 
-&lt;p&gt;In this letter, they discuss a secondary analysis of the SISPCT trial, which interestingly shows that renal replacement therapy was initiated and approximately 30% of patients with severe sepsis and septic shock within the first 21 days.  Furthermore the mortality in this patient group is striking approximately at 50% on average.  Even though the article discusses the potential role for MR-proADM as a biomarker, these findings and overall percentages are sobering due to the fact that they reflect how challenging this patient population is and how renal replacement therapy not only can be helpful but also unfortunately likely heralds multiorgan dysfunction and comes with an unwelcome companion, that being a high mortality risk.&lt;/p&gt;
+&lt;p&gt;In this letter, they discuss a secondary analysis of the SISPCT trial, which interestingly shows that renal replacement therapy was initiated and approximately 30% of patients with severe sepsis and septic shock within the first 21 days.  Furthermore the mortality in this patient group is striking approximately at 50% on average.  Even though the article discusses the potential role for MR-proADM as a biomarker, these findings and overall percentages are sobering due to the fact that they reflect how challenging this patient population is and how renal replacement therapy not only can be helpful but also unfortunately likely heralds multi-organ dysfunction and comes with an unwelcome companion, that being a high mortality risk.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Aug 2018 09:44:00 -0400</pubDate>
-        <link>http://neuroccm.org/tech/2018/08/20/RRT_in_sepsis.html</link>
-        <guid isPermaLink="true">http://neuroccm.org/tech/2018/08/20/RRT_in_sepsis.html</guid>
+        <link>http://localhost:4000/tech/2018/08/20/RRT_in_sepsis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/2018/08/20/RRT_in_sepsis.html</guid>
         
         
         <category>Tech</category>
@@ -73,10 +73,10 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Greater awareness of epilepsy - please visit &lt;a href=&quot;https://epilepsy.org/&quot;&gt;epilepsy.org&lt;/a&gt; and other societies such as &lt;a href=&quot;http://www.epilepsy.ca/&quot;&gt;Epilepsy Canada&lt;/a&gt;, &lt;a href=&quot;http://epilepsyontario.org/&quot;&gt;Epilepsy Ontario&lt;/a&gt;, and also the &lt;a href=&quot;https://www.epilepsy.com/&quot;&gt;Epilepsy Foundation&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Greater awareness of epilepsy - please visit &lt;a href=&quot;https://epilepsy.org/&quot;&gt;epilepsy.org&lt;/a&gt; and other societies such as &lt;a href=&quot;https://www.epilepsy.ca/&quot;&gt;Epilepsy Canada&lt;/a&gt;, &lt;a href=&quot;https://epilepsyontario.org/&quot;&gt;Epilepsy Ontario&lt;/a&gt;, and also the &lt;a href=&quot;https://www.epilepsy.com/&quot;&gt;Epilepsy Foundation&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Greater knowledge and awareness of Photic- and pattern-induced seizures, for a scientific review see &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/16146439&quot;&gt;Fisher RS et al.&lt;/a&gt;, and for a more lay audience, &lt;a href=&quot;http://epilepsyontario.org/epileptic-syndromes-and-visually-induced-seizures/&quot;&gt;Epilepsy Ontario&lt;/a&gt; has some good information.&lt;/p&gt;
+    &lt;p&gt;Greater knowledge and awareness of Photic- and pattern-induced seizures, for a scientific review see &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/16146439&quot;&gt;Fisher RS et al.&lt;/a&gt;, and for a more lay audience, &lt;a href=&quot;https://epilepsyontario.org/epileptic-syndromes-and-visually-induced-seizures/&quot;&gt;Epilepsy Ontario&lt;/a&gt; has some good information.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;As pointed out by the YouTuber Rogue Shadow VR, not only do users need to be more aware of this risk in VR for visual stimulus-induced seizures, for those with epilepsy, but so do the manufactures of VR gear. There might be a tech solution here with altered patterns, refresh rates, or other parameters.&lt;/p&gt;
@@ -89,8 +89,8 @@
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Jan 2018 08:44:00 -0500</pubDate>
-        <link>http://neuroccm.org/tech/2018/01/20/OnlineSeizure.html</link>
-        <guid isPermaLink="true">http://neuroccm.org/tech/2018/01/20/OnlineSeizure.html</guid>
+        <link>http://localhost:4000/tech/2018/01/20/OnlineSeizure.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/2018/01/20/OnlineSeizure.html</guid>
         
         
         <category>Tech</category>
@@ -157,8 +157,8 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Feb 2014 00:00:00 -0500</pubDate>
-        <link>http://neuroccm.org/outcomes/2014/02/28/Frailty.html</link>
-        <guid isPermaLink="true">http://neuroccm.org/outcomes/2014/02/28/Frailty.html</guid>
+        <link>http://localhost:4000/outcomes/2014/02/28/Frailty.html</link>
+        <guid isPermaLink="true">http://localhost:4000/outcomes/2014/02/28/Frailty.html</guid>
         
         
         <category>outcomes</category>
@@ -178,42 +178,42 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
 
 &lt;h1 id=&quot;reviewcommentary&quot;&gt;Review/Commentary&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.nejm.org/doi/full/10.1056/NEJMe1312700&quot;&gt;Rittenberger and Callaway’s NEJM commentary on Nielsen et al.’s article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nejm.org/doi/full/10.1056/NEJMe1312700&quot;&gt;Rittenberger and Callaway’s NEJM commentary on Nielsen et al.’s article&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;interesting-blogs&quot;&gt;Interesting blogs&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Emcrit.org – [Scott’s wee on TTM] (http://emcrit.org/podcasts/emcrit-wee-targeted-temperature-trial-changes-everything/) and &lt;a href=&quot;http://emcrit.org/podcasts/post-arrest-care-2013-i/&quot;&gt;Interview with Dr. Stephen Bernard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Emcrit.org – [Scott’s wee on TTM] (https://emcrit.org/podcasts/emcrit-wee-targeted-temperature-trial-changes-everything/) and &lt;a href=&quot;https://emcrit.org/podcasts/post-arrest-care-2013-i/&quot;&gt;Interview with Dr. Stephen Bernard&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://medicalevidence.blogspot.com.au/2013/11/chill-out-homeopathic-hypothermia-after.html&quot;&gt;Medical Evidence Blog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://medicalevidence.blogspot.com.au/2013/11/chill-out-homeopathic-hypothermia-after.html&quot;&gt;Medical Evidence Blog&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Intensive Care Network &lt;a href=&quot;http://intensivecarenetwork.com/index.php/icn-activities/icn-podcasts/796-niklas-nielsen-interview-1-week-post-ttm-publication&quot;&gt;interview&lt;/a&gt; with Dr. Nielsen&lt;/p&gt;
+    &lt;p&gt;Intensive Care Network &lt;a href=&quot;https://intensivecarenetwork.com/index.php/icn-activities/icn-podcasts/796-niklas-nielsen-interview-1-week-post-ttm-publication&quot;&gt;interview&lt;/a&gt; with Dr. Nielsen&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Original research articles:*&lt;/p&gt;
 
     &lt;ul&gt;
       &lt;li&gt;
-        &lt;p&gt;&lt;a href=&quot;http://www.nejm.org/doi/full/10.1056/NEJMoa1310519?query=featured_home#t=article&quot;&gt;NEJM – Nielsen et al.&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&quot;https://www.nejm.org/doi/full/10.1056/NEJMoa1310519?query=featured_home#t=article&quot;&gt;NEJM – Nielsen et al.&lt;/a&gt;&lt;/p&gt;
       &lt;/li&gt;
       &lt;li&gt;
-        &lt;p&gt;&lt;a href=&quot;http://jama.jamanetwork.com/article.aspx?articleid=1778673&quot;&gt;JAMA – Kim et al.&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&quot;https://jama.jamanetwork.com/article.aspx?articleid=1778673&quot;&gt;JAMA – Kim et al.&lt;/a&gt;&lt;/p&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Update [27 Dec. 2013]:* Excellent panel discussion by several leaders in ED/CCM on new perspectives on TTM. See the new [RAGE Podcast]{http://ragepodcast.com/rage-session-one/)&lt;/p&gt;
+    &lt;p&gt;Update [27 Dec. 2013]:* Excellent panel discussion by several leaders in ED/CCM on new perspectives on TTM. See the new [RAGE Podcast]{https://ragepodcast.com/rage-session-one/)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Jan 2014 00:00:00 -0500</pubDate>
-        <link>http://neuroccm.org/ttm/2014/01/24/TTM.html</link>
-        <guid isPermaLink="true">http://neuroccm.org/ttm/2014/01/24/TTM.html</guid>
+        <link>http://localhost:4000/ttm/2014/01/24/TTM.html</link>
+        <guid isPermaLink="true">http://localhost:4000/ttm/2014/01/24/TTM.html</guid>
         
         
         <category>TTM</category>
