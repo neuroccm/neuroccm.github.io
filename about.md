@@ -25,10 +25,9 @@ My PhD work was in Neuroscience, labs of Dr. G. Zamponi and P. Federico. The foc
 
 After graduate work and medical school I entered Neurology training at the University of Toronto for PGY1 and PGY2 before transitioning to Internal Medicine at the same institution. I completed my my PGY4 and PGY5 training in (adult) Critical Care Medicine (Western University). I completed a fellowship in Neurocritical Care (Sunnybrook Health Science, University of Toronto) as well as ICU EEG (supervisor: Dr. Bryan Young) in June 2017.
 
-Presently, I am a Clinical Associate in Neurology (Sunnybrook Health Sciences, University of Toronto) working as a Stroke Physician with an in-folded stroke fellowship. I practice Critical Care Medicine at Cambridge Memorial Hospital/Grand River Hospital/St. Mary's Hospital in the Tri-city area.
+Presently, I am a Clinical Associate in Neurology (Sunnybrook Health Sciences, University of Toronto) working as a Stroke Physician with an in-folded stroke fellowship. I practice Critical Care Medicine at Southlake Regional Health Centre and Grand River Hospital.
 
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/houman-khosravani-4a1a949a" data-format="inline" data-related="false"></script>
+[LinkedIn Profile](/pResources/Profile.pdf)
 
 
 # Disclaimer #
