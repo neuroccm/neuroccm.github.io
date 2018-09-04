@@ -16,19 +16,11 @@ I am a member of the [Advisory Board](https://www.norseinstitute.org/medical-adv
 
 Effective treatment for this rare and poorly understood disorder is currently elusive. Finding it requires new thinking from multiple medical disciplines and integration of these ideas and research. We hope to stimulate this thinking and explore both the conceptual boundaries of NORSE as well as the practical boundaries of NORSE treatment: long-term critical care, ICU and epilepsy coordination, palliative care, and immune treatments."
 
-<<<<<<< HEAD
 # Medical Education – [torontocriticalcare.org](http://www.torontocriticalcare.org/) - Sr Resident and Fellow education in the intensive care unit at University of Toronto
 
 Based on positive reception and uptake by users at Western and the increasing utilization of mobile devices for content consumption in medical education (and life in general!), we developed the Educational portal for the Interdepartmental Division of Critical Care at the University of Toronto. This website is being used for ICU Sr residents and clinical fellows for educational use and organization by the program.
 
 # Extubation Pathway – [extubate.ecriticalcare.org](http://extubate.ecriticalcare.org/)
-=======
-# Medical Education – [torontocriticalcare.org](https://torontocriticalcare.org) - Sr Resident and Fellow education in the intensive care unit at University of Toronto
-
-Based on positive reception and uptake by users at Western and the increasing utilization of mobile devices for content consumption in medical education (and life in general!), we developed the Educational portal for the Interdepartmental Division of Critical Care at the University of Toronto. This website is being used for ICU Sr residents and clinical fellows for educational use and organization by the program.
-
-# Extubation Pathway – [extubate.ecriticalcare.org](https://extubate.ecriticalcare.org)
->>>>>>> e597ad24ab90406568f459631be64b17577f35fd
 
 There are many excellent airway management strategies, checklists, and guidelines. The same cannot be said about extubation pathways and preparedness for acute extubation failure in general medical/surgical ICUs. I am working with Dr. John Fuller at Western University where we have developed and evidence-informed extubation pathway that can be utilized by Respiratory Therapists to assist in safe extubation practices. We are studying extubation safety pre- and post- pathway introduction to assess its impact on aspects of patient safety.
 
@@ -37,7 +29,7 @@ There are many excellent airway management strategies, checklists, and guideline
 For a full description of this project, please see eCriticalCare.org (see Education and ICU Boot Camp).
 The ICU rotation for junior and off-service residents can be challenging in many ways. These include: ICU as a complex environment with multiple teams and multi-modal monitoring, there are competing schedules (call,vacation,teaching schedules), there are different knowledge gaps and starting points for the residents, and there is significant anxiety associated with managing acute situations and procedures.
 We developed ICU Boot Camp as a course and mobile-platform using Google Classroom for students so that they can start their rotation ready to start taking care of critically-ill patients.
-* this site is now retired - [ccw.ecriticalcare.org](https://ccw.ecriticalcare.org/)
+* this site is now retired - [ccw.ecriticalcare.org](http://ccw.ecriticalcare.org/)
 
 # Future Directions
 
