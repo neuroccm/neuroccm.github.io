@@ -70,14 +70,14 @@ The following are select publications reflecting my areas of interest and previo
 <p></p>
 
 
-[westernsono]: http://westernsono.ca
-[ecriticalcare]: http://www.ecriticalcare.org
-[UWO]: http://www.uwo.ca
+[westernsono]: https://westernsono.ca
+[ecriticalcare]: https://www.ecriticalcare.org
+[UWO]: https://www.uwo.ca
 [NORSE]: https://rarediseases.org/rare-diseases/new-onset-refractory-status-epilepticus-norse/
-[NORSEINST]:http://norseinstitute.org/
-[HKScholar]:http://scholar.google.ca/citations?user=qzhk98YAAAAJ&hl=en
-[HKPubmed]:http://www.ncbi.nlm.nih.gov/pubmed/?term=khosravani+h
-[HKADS]:http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Khosravani,%20Houman
+[NORSEINST]:https://norseinstitute.org/
+[HKScholar]:https://scholar.google.ca/citations?user=qzhk98YAAAAJ&hl=en
+[HKPubmed]:https://www.ncbi.nlm.nih.gov/pubmed/?term=khosravani+h
+[HKADS]:https://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Khosravani,%20Houman
 
 [AllQuiet]:/manuscripts/All-quiet-on-the-neuronal-front-NMDA-receptor-inhibition-by-prion-protein.pdf
 [PrionNMDA_AMPA]:/manuscripts/Cellular-prion-protein-null-mice-display-normal-AMPA-receptor-mediated-long-term-depression.pdf

@@ -30,6 +30,6 @@ The following podcasts were recorded for educational purposes and are presented 
 
 <hr>
 
-Return to the <a href="http://www.norseinstitute.org/" target="blank">NORSE Institute</a>.
+Return to the <a href="https://www.norseinstitute.org/" target="blank">NORSE Institute</a>.
 <p>
-Return to the <a href="http://www.neuroccm.org/podcasts/">NeuroCCM</a>.
+Return to the <a href="https://www.neuroccm.org/podcasts/">NeuroCCM</a>.

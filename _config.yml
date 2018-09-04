@@ -9,12 +9,11 @@
 title: neuroccm.org
 email: houman@ccmd.io
 description: > # this means to ignore newlines until "baseurl:"
-  neuroccm.org is a resource dedicated to topics related to critical care and neurocritical care.
-  The Blog portion of this website is dedicated to topics in neurocritical care,
-  critical care medicine, and the interface of computation with these disciplines
-  in medicine.
+  neuroccm.org is a resource dedicated to topics related to stroke and neurocritical care.
+  The Blog portion of this website is dedicated to topics in stroke, neurocritical care,
+   and general critical care, and the interface of these disciplines with computational neuroscience.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://neuroccm.org" # the base hostname & protocol for your site
+url: "https://neuroccm.org" # the base hostname & protocol for your site
 twitter_username: neuroccm
 github_username:  neuroccm
 

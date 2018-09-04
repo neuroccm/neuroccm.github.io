@@ -1,17 +1,17 @@
 - link: /index.html
   name: ncrit.org
 
-- link: /about/index.html
-  name: About
-
 - link: /initiatives/index.html
   name: Initiatives
 
 - link: /publications/index.html
   name: Publications
 
+- link: /posts/index.html
+  name: Posts
+
 - link: /podcasts/index.html
   name: Podcasts
 
-- link: /posts/index.html
-  name: Posts
+- link: /about/index.html
+  name: About
