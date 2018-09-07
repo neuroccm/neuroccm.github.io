@@ -7,8 +7,18 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Sat, 01 Sep 2018 15:15:55 -0400</pubDate>
     <lastBuildDate>Sat, 01 Sep 2018 15:15:55 -0400</lastBuildDate>
+=======
+<<<<<<< HEAD
+    <pubDate>Mon, 03 Sep 2018 23:03:57 -0400</pubDate>
+    <lastBuildDate>Mon, 03 Sep 2018 23:03:57 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+=======
+    <pubDate>Sat, 01 Sep 2018 12:38:54 -0400</pubDate>
+    <lastBuildDate>Sat, 01 Sep 2018 12:38:54 -0400</lastBuildDate>
+>>>>>>> 906e1a1bc8b3a154b008c17324c196d26fb435e6
     <generator>Jekyll v3.8.3</generator>
     
       <item>
@@ -85,6 +95,7 @@
         <category>ICU</category>
         
       </item>
+>>>>>>> e597ad24ab90406568f459631be64b17577f35fd
     
       <item>
         <title>A Seizure captured on VR</title>

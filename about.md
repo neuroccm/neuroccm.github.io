@@ -10,8 +10,8 @@ neuroccm.org [ncrit.org] is a resource site, blog site, and personal landing pag
 
 I have an interest in medical education. In the ICU setting, I have developed the on-line educational portal for Western University (formerly ecriticalcare.org - now achieved) and most recently for University of Toronto's Critical Care program.
 
-* Checkout the web-portal: [torontocriticalcare.org](https://www.torontocriticalcare.org/)
-* checkout the web-portal: [ccw.ecriticalcare.org](https://ccw.ecriticalcare.org/)
+* Checkout the web-portal: [torontocriticalcare.org](http://www.torontocriticalcare.org/)
+* checkout the web-portal: [ccw.ecriticalcare.org](http://ccw.ecriticalcare.org/)
 * Checkout this white-paper: [Resident Education using a Cloud-based Mobile App in a Flipped Classroom](/manuscripts/Khosravani_Scholar_Project_Public.pdf)
 
 # About Houman Khosravani #
