@@ -8,4 +8,4 @@ Welcome to [ncrit.org/neuroccm.org](https://ncrit.org) by Houman Khosravani. Thi
 
 Links, topics, and posts discussed on this site are by no means the end-all or definitive write-up of a topic and do not reflect anything other than personal opinion and perspective (of a critical care physician/neuroscientist). If you are interest in collaborating or contributing to neuroccm.org as a contributing author - please contact me: houman[at]ccmd[dot]io
 
--[GitHub] - for the purpose of Authentication for Andrew-
+-[GitHub] - for the purpose of Authentication for Andrew-Jan 21, 2019 - 14:20
