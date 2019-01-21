@@ -7,19 +7,53 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Sat, 01 Sep 2018 15:15:55 -0400</pubDate>
-    <lastBuildDate>Sat, 01 Sep 2018 15:15:55 -0400</lastBuildDate>
-=======
-<<<<<<< HEAD
-    <pubDate>Mon, 03 Sep 2018 23:03:57 -0400</pubDate>
-    <lastBuildDate>Mon, 03 Sep 2018 23:03:57 -0400</lastBuildDate>
+    <pubDate>Mon, 21 Jan 2019 14:18:19 -0500</pubDate>
+    <lastBuildDate>Mon, 21 Jan 2019 14:18:19 -0500</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
-=======
-    <pubDate>Sat, 01 Sep 2018 12:38:54 -0400</pubDate>
-    <lastBuildDate>Sat, 01 Sep 2018 12:38:54 -0400</lastBuildDate>
->>>>>>> 906e1a1bc8b3a154b008c17324c196d26fb435e6
-    <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>The Devil is in the Details - Understanding CT Perfusion in the late EVT windows</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;CT perfusion (CTP) is a powerful imaging technique that can be utilized in order to distinguish the region of infarction from the ischemic penumbra.  CT perfusion algorithms are typically proprietary, and are always dependent on hemodynamic factors.  Such factors include presence of extracranial stenosis, presence of sinus rhythm (perfusion may be affected by atrial fibrillation), systemic factors such as hypoperfusion/shock, and more technical factors such as accuracy by which contrast is given, location of selection for both the arterial and venous phase functions, and patient motion during the scan.  In an ideal study, CT perfusion is able to demonstrate the 3 typical maps that are used to make decisions, including his cerebral blood flow map [CBF], mean transit time [MTT], and the cerebral blood volume [CBV].&lt;/p&gt;
+
+&lt;p&gt;With thrombectomy now occurring in extended time windows (DEFUSE3 and DAWN trials), the role of CT perfusion has been markedly expanded as CT perfusion, when used appropriately, can provide insight into what brain regions can be salvageable from an ischemia and penumbra perspective.&lt;/p&gt;
+
+&lt;p&gt;As usual the devil is in the details.&lt;/p&gt;
+
+&lt;p&gt;With regards to DEFUSE3 and DAWN, the following table from a topical review by Dr. Alberts, outlines the criteria used to distinguish ischemic core and mismatch volume and the presence of a large vessel occlusion.  Similar criteria can be used an MRI imaging (perfusion imaging), however this article will focus on CTP.&lt;/p&gt;
+
+&lt;p&gt;Of note, median ischemic core volumes in both trials, are approximately 10 cc, and as evident in the table below, DEFUSE3 included ischemic core volumes up to 70 cc, with a graded approach, dependent on age and NIH stroke scale, as utilized in the DAWN trial.&lt;/p&gt;
+
+&lt;p&gt;The ischemic core volume is felt to be estimated by cerebral blood flow less than 30% of normal.  This value is felt to correlate to perfusion at the cellular level being less than 20cc/100g/min of brain were critical ischemia occurs.  Recall that normal cerebral blood flow is on the order of 50-60cc/100g/min.&lt;/p&gt;
+
+&lt;p&gt;Campbell et al., showed that 30% of normal CBF was the optimal threshold to define the ischemic core within a Tmax &amp;gt; 6s (penumbra region), when CT perfusion was processed by standard singular value decomposition.  It should be noted that this decomposition mathematically assumes no delay in blood flow from proximal arteries to the ischemic brain tissue whereas T-max and CBF are measured. The threshold of using CBF &amp;lt; 30%, is further supported by data from the SWIFT PRIME trials, where the RAPID software was used, with this threshold of CBF strongly correlating with the final infarct volume at 27 hours inpatient to achieved reperfusion. In the study by Cereda et al., as CBF threshold of less than 38% of normal predicted DWI volumes.  However in some patients this threshold significantly overestimated the size of the DWI lesion, and therefore threshold of 30% has been used in the late window EVT trials. Cereda et al., show that a threshold of approximately 38% showed the least mean volume difference (DWI-CTP in cc), of the ischemic core.  It should be noted that if a lower percentage is selected such as 25% of normal CBF, that this underestimates the core vs. DWI (i.w. DWI-CTP becomes a larger positive number with lowering of CBF threshold under 38% -&amp;gt; towards 2%).&lt;/p&gt;
+
+&lt;p&gt;Similarly T-max greater than 6 seconds has been used to define the ischemic penumbra.&lt;/p&gt;
+
+&lt;p&gt;Aside from the fact that these computations are hemodynamic in nature, T-max also provides information with regards to collaterals.  And regions of brain with T-max greater than 10 seconds are felt to correlate with regions of poor collateral flow.&lt;/p&gt;
+
+&lt;p&gt;The ratio of tissue volume with T-max greater than 10 seconds compared to T-max greater than 6 seconds is referred to as the hypoperfusion intensity ratio, and it is notable that the high rations, greater than 0.5 (i.e. 50%) correlate with poor angiographic collaterals and these patients likely have a March larger ischemic core then visualized, and the score is more likely to rapidly grow.&lt;/p&gt;
+
+&lt;p&gt;Therefore in order to use CTP effectively, not only the fact that it is a hemodynamic calculation needs to be considered, the patient has to meet various factors as outlined, but also the details of these thresholds whereby the ischemic core and collateral status are approximated, need to be considered in order to make proper decisions with regards to the information provided by the RAPID software.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Albers, Use of Imaging to Select Patients for Late Window Endovascular Therapy,Stroke. 2018;49:00-00. DOI: 10.1161/STROKEAHA.118.021011.&lt;/li&gt;
+  &lt;li&gt;Cereda CW, Christensen S, Campbell BC, Mishra NK, Mlynash M, Levi C, et al. A benchmarking tool to evaluate computer tomography perfu- sion infarct core predictions against a DWI standard. J Cereb Blood Flow Metab. 2016;36:1780–1789. doi: 10.1177/0271678X15610586&lt;/li&gt;
+  &lt;li&gt;Campbell BC, Christensen S, Levi CR, Desmond PM, Donnan GA, Davis SM, et al. Cerebral blood flow is the optimal CT perfusion param- eter for assessing infarct core. Stroke. 2011;42:3435–3440. doi: 10.1161/ STROKEAHA.111.618355.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Sep 2018 14:11:00 -0400</pubDate>
+        <link>http://localhost:4000/stroke/2018/09/12/Details_of_CTP.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stroke/2018/09/12/Details_of_CTP.html</guid>
+        
+        
+        <category>Stroke</category>
+        
+      </item>
     
       <item>
         <title>WAKE-UP - who can get TPA outside of the 4.5 hr time-window?</title>
@@ -27,17 +61,38 @@
 
 &lt;p&gt;A proportion of patients wake up with a stroke and it is believed that in a significant fraction of these patients, the stroke occurs close to the waking hour.  Such patients, are traditionally excluded from thrombolytic treatment given that they are outside of the standard window for delivery of TPA, this being 4.5 hours (i.e. last seen normal beyond 4.5 hrs).&lt;/p&gt;
 
-&lt;p&gt;In a study published in May in the New England Journal, the authors of the WAKE-UP trial, tested a hypothesis that some of these patients can be candidates for TPA, when guided by MRI imaging, specifically mismatch between DWI and FLAIR.&lt;/p&gt;
+&lt;p&gt;In a study published in May Thomalla et al. (2018) in the New England Journal of Medicine, the authors of the WAKE-UP trial tested a hypothesis that some of these patients can be candidates for TPA, when guided by MRI imaging, specifically mismatch between DWI and FLAIR.&lt;/p&gt;
+
+&lt;p&gt;Patient that met inclusion criteria had to be, at minimum, outside of the 4.5hrs from last seen normal. The median interval was approximately 7 hrs in both the TPA and placebo groups (from last known to be well). This was a prospective, investigator-initiated multi-center, randomized, double-blind, placebo-controlled clinical trial. Patients could undergo randomization if in the judgment of the investigator MRI showed an acute ischemic lesion on DWI imaging but not parenchymal hyperintensity (using standard) FLAIR windows. Below I have linked to the paper (imaging-based) where the scientific rational for looking beyond 4.5hrs comes from in way of DWI FLAIR mismatch (Thomalla et al. 2011).&lt;/p&gt;
+
+&lt;p&gt;In this study, 503 suitable imaging results, were randomly assigned to alteplase or placebo, and most of the patient’s in the study had mild to moderate strokes.  Primary endpoint was favorable outcome mRS at 90 days of 0 or 1. This occurred 53.3% (TPA) vs. 41.8% (Placebo group) - (adjusted odds ratio, 1.61; 95% confidence interval [CI], 1.09 ­ 2.36; p = 0.02).&lt;/p&gt;
+
+&lt;p&gt;It is important to note that this trial stopped early due to funding (approx. 2/3 of target enrollment).&lt;/p&gt;
+
+&lt;p&gt;There was a trend towards increased mortality in the TPA group, but that it did not achieve statistical significance (4.1% vs. 1.2%, p=0.07). Of the 10 patients that died, 4 were due to symptomatic ICH. Rate of parenchymal hemorrhage type 2 was 4% vs 0.4% (p=0.03).&lt;/p&gt;
+
+&lt;p&gt;Challenges in implementation include the fact that obtaining MRI imaging in a timely manner is difficult and most centers. Also a large proportion of the patients in this trial were also eligible for EVT as per DAWN and DIFFUSE3 criteria  - approximately 20% of patients, which raises the possibility (unknown) of better outcome with EVT vs. late-window TPA administration.&lt;/p&gt;
+
+&lt;p&gt;Taken together, the findings of WAKE-UP push the boundaries of TPA administration in acute stroke care beyond the 4.5hr time window. This especially benefits those who may have had their stroke close to waking without known a “last seen normal” time - these patients may be then identified via imaging. For now, my personal opinion (comfort) is to stay within the ascribed 4.5hrs (reserving out of window TPA for special circumstances, off-label with open disclosure to the patient/SDM). It’s great however that such studies exist providing additional scientific basis for out of window TPA. Collectively some criticisms of the trial include: early termination/lack of full enrollment, large fraction of patients were EVT candidates, signal towards higher mortality, and high risk of bleeding.&lt;/p&gt;
 
 &lt;p&gt;The researchers discovered that in patients who received TPA, they had an increased chance of a favorable outcome (mRS 0-1), at 90 days.  Indeed, this was the first positive trial for IV thrombolysis and strokes of unknown time, however there are many important aspects to the study to consider.&lt;/p&gt;
 
-&lt;p&gt;Nonetheless, studies such as WAKE-UP, emphasize the notion that when identifying brain tissue at risk/ammenable to being saved, its less about time and more about the state of the underlying tissue.  In other words, are we attempt to understand more about areas of brain at risk versus areas that have completed infarction, the science is leading us to think about tissue health (perfusion, cellular energentics) rather than time windows based on the clinical history.&lt;/p&gt;
+&lt;p&gt;Nonetheless, studies such as WAKE-UP emphasize the notion that when identifying brain tissue at risk/amenable to being saved, it’s less about time and more about the state of the underlying tissue.  In other words, we are on a journey to better understand the ischemic penumbra about areas of brain at risk versus areas that have completed infarction -  Tissue window (perfusion, cellular energetics, collaterals) rather than time windows based on the clinical history.&lt;/p&gt;
 
-&lt;p&gt;In this study, 503 suitable imaging results, were randomly assigned to alteplase or placebo, and most of the patient’s in the study had mild to moderate strokes.  Primary endpoint was favorable outcome mRS at 90 days of 0 or 1. This occurred 53.3% (TPA) vs. 41.8% (Placebo group) - (adjusted odds ratio, 1.61; 95% confidence interval [CI], 1.09 ­ 2.36; p = .02). It is important to note that this trial stopped early due to funding.&lt;/p&gt;
+&lt;p&gt;Until next time…more on collaterals!&lt;/p&gt;
 
-&lt;p&gt;It is important to note that there was a trend towards increased mortality in the TPA group, but that it did not achieve statistical significance (4.1% vs. 1.2%, p=0.07). Of the 10 patients that died, 4 were due to symptomatic ICH. Rate of symptomatic ICH was 2% vs 0.4%&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nejm.org/doi/full/10.1056/NEJMoa1804355&quot;&gt;WAKE-UP NEJM Trial, Thomalla et al.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.medscape.com/viewarticle/896775&quot;&gt;WAKE-UP Medscape Editorial by Sue Hughes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pubmed/21978972&quot;&gt;Science behind the 4.5hr time-window for DWI/FLAIR mismatch, Thomalla et al.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Challenges in implementation include the fact that obtaining MRI imaging in a timely manner is difficult and most centers. Also a large proportion of the patients in this trial were also eligible for EVT as per DAWN and DIFFUSE3 criteria.&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Thomalla, G., Simonsen, C. Z., Boutitie, F., Andersen, G., Berthezene, Y., Cheng, B., et al. (2018). MRI-Guided Thrombolysis for Stroke with Unknown Time of Onset. The New England Journal of Medicine, 379(7), 611–622.&lt;/li&gt;
+  &lt;li&gt;(editorial NEJM on WAKE-UP) Jovin, T. G. (2018). MRI-Guided Intravenous Alteplase for Stroke — Still Stuck in Time. The New England Journal of Medicine, 379(7), 682–683.&lt;/li&gt;
+  &lt;li&gt;Thomalla, G., Cheng, B., Ebinger, M., Lancet, Q. H. T., 2011. (n.d.). DWI-FLAIR mismatch for the identification of patients with acute ischaemic stroke within 4· 5 h of symptom onset (PRE-FLAIR): a multicentre observational study. Elsevier.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -95,7 +150,6 @@
         <category>ICU</category>
         
       </item>
->>>>>>> e597ad24ab90406568f459631be64b17577f35fd
     
       <item>
         <title>A Seizure captured on VR</title>
