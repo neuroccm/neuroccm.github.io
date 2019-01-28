@@ -6,6 +6,12 @@ permalink: /initiatives/
 
 # Current Academic Projects/Activity
 
+**Attention prospective Summer Students or Residents** - if you are looking to collaborate or start an academic project please get in touch [houman {at} ccmd.io]. Current projects include:
+* Door-to-Needle quality improvement project
+* stroke education curriculum and podcast
+* analysis of acute stroke EEG
+* machine learning as applied to stroke care
+
 # NORSE (New Onset Refractory Status Epilepticus)
 
 Advocacy/Clinical Care Guidance/Research - [NORSEINSTITUTE.ORG](https://norseinstitute.org)

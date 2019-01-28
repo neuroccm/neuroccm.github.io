@@ -16,16 +16,18 @@ I have an interest in medical education. In the ICU setting, I have developed th
 
 # About Houman Khosravani #
 
-I completed my MSc in Physiology (neuroscience) at the University of Toronto with Dr. Peter Carlen. My MSc work focused on computational neuroscience, specifically time-series analysis and the application of nonlinear systems theory to anticipating and controlling seizures using electrical stimuli (see [Publications](/publications/index.html) for some of the manuscripts.).
+I'm an academic Stroke physician with training in Internal Medicine, Critical Care/Neurocritical Care, and Stroke. My academic focus is Quality Improvement and patient safety in the care of acute stroke patients at a comprehensive stroke centre.
+
+I completed my MSc in Physiology (neuroscience) at the University of Toronto with Dr. Peter Carlen. My MSc work focused on computational neuroscience, specifically time-series analysis and the application of nonlinear systems theory to anticipating and controlling seizures using electrical stimuli.
 
 My PhD work was in Neuroscience, labs of Dr. G. Zamponi and P. Federico. The focus of my work was on understanding the generation of abnormal neuronal activity and synchrony at both cellular and neuronal network levels. I explored neuronal hyper-excitability in the context of normal physiology and that of seizures. My PhD had three areas of focus leading to the following findings:
 * Exploring and defining the functional role of novel T-type Calcium Channel mutations in Primary Generalized Epilepsy. We showed that several of these SNPs (single nucleotide polymorphisms) had functional consequences that resulted in a gain of function and increased putative neuronal excitability.
 * Prion protein's role in excitability and neuronal death - interaction between endogenous prion protein and NMDA receptors as a mechanism of excitotoxic neuronal death and hyper-excitability.
 * Defining the role of high-frequency oscillations in intracranial EEG recordings of patients with epilepsy, as precursors to the ictal onset zone both temporally and spatially.
 
-After graduate work and medical school I entered Neurology training at the University of Toronto for PGY1 and PGY2 before transitioning to Internal Medicine at the same institution. I completed my my PGY4 and PGY5 training in (adult) Critical Care Medicine (Western University). I completed a fellowship in Neurocritical Care (Sunnybrook Health Science, University of Toronto) as well as ICU EEG (supervisor: Dr. Bryan Young) in June 2017.
+After graduate work and medical school I entered Neurology training at the University of Toronto for PGY1 and PGY2 before transitioning to Internal Medicine at the same institution. I completed my PGY4 and PGY5 training in Critical Care Medicine (Western University), followed by a a fellowship in Neurocritical Care (Sunnybrook Health Sciences Centre, University of Toronto) as well as ICU EEG (supervisor: Dr. Bryan Young). Subsequently, I completed a Stroke fellowship at Sunnybrook Health Sciences Centre.
 
-My clinical focus is stroke medicine and I am a Clinical Associate in Neurology (Sunnybrook Health Sciences, University of Toronto) where I am doing an in-folded fellowship. I practice Internal Medicine and Critical Care Medicine at Southlake Regional Health Centre and Grand River Hospitals.
+My main clinical focus is Stroke Neurology. I also continue to practice Internal Medicine and Neuro/Critical Care Medicine.
 
 [LinkedIn Profile](/pResources/Profile.pdf)
 
