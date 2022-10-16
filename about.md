@@ -29,7 +29,7 @@ After graduate work and medical school I entered Neurology training at the Unive
 
 My main clinical focus is Stroke Neurology. I also continue to practice Internal Medicine and Neuro/Critical Care Medicine.
 
-[LinkedIn Profile](/pResources/Profile.pdf)
+[LinkedIn Profile](/pResources/Profile.pdf)xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 # Disclaimer #
