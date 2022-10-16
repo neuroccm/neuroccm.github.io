@@ -36,6 +36,8 @@ My main clinical focus is Stroke Neurology. I also continue to practice Internal
 
 In brief: the views and opinions expressed within this website are purely mine and do not reflect those of other authors or institutions. I have no financial conflicts of interest. In addition, information listed, obtained, disseminated, or referenced in this blog is never to be used as a substitute for expert medical opinion or decision-making. The topics discussed within neuroccm.org are personal opinions and not a peer-reviewed discussion of a topic. Thus, the main point of the postings here are to generate discussion, spread information, and a way to contribute to the online FOAM community with regards to topics in stroke, critical care, with a special focus on neurocritical care. I have no conflicts of interest and this website does not receive funding from any source. In addition, all efforts will be taken to use public-domain images, articles, and resources. Otherwise, images, PDFs, etc. belong to their rightful owner as cited. If you see anything posted that is not properly referenced, then please contact me and I will fix it in a timely manner.
 
+There is no implied or actual duty of care - all content on this website is for educational purposes only.
+
 For full details of neuroccm.org/ncrit.org’s disclaimer & disclosure statement, please see [Full disclaimer](/disclaimer.html)
 
 # Site Development Environment #

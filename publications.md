@@ -76,7 +76,7 @@ The following are select publications reflecting my areas of interest and previo
 [NORSE]: https://rarediseases.org/rare-diseases/new-onset-refractory-status-epilepticus-norse/
 [NORSEINST]:https://norseinstitute.org/
 [HKScholar]:https://scholar.google.ca/citations?user=qzhk98YAAAAJ&hl=en
-[HKPubmed]:https://www.ncbi.nlm.nih.gov/pubmed/?term=khosravani+h
+[HKPubmed]:https://pubmed.ncbi.nlm.nih.gov/?term=khosravani+h&sort=pubdate
 [HKADS]:https://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Khosravani,%20Houman
 
 [AllQuiet]:/manuscripts/All-quiet-on-the-neuronal-front-NMDA-receptor-inhibition-by-prion-protein.pdf

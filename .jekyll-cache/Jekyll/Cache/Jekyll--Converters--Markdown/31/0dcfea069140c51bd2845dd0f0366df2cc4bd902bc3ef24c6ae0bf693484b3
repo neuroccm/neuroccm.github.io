@@ -1,0 +1,39 @@
+I"�<p><a href="/posts/index.html">Back to posts…</a></p>
+
+<p>A proportion of patients wake up with a stroke and it is believed that in a significant fraction of these patients, the stroke occurs close to the waking hour.  Such patients, are traditionally excluded from thrombolytic treatment given that they are outside of the standard window for delivery of TPA, this being 4.5 hours (i.e. last seen normal beyond 4.5 hrs).</p>
+
+<p>In a study published in May Thomalla et al. (2018) in the New England Journal of Medicine, the authors of the WAKE-UP trial tested a hypothesis that some of these patients can be candidates for TPA, when guided by MRI imaging, specifically mismatch between DWI and FLAIR.</p>
+
+<p>Patient that met inclusion criteria had to be, at minimum, outside of the 4.5hrs from last seen normal. The median interval was approximately 7 hrs in both the TPA and placebo groups (from last known to be well). This was a prospective, investigator-initiated multi-center, randomized, double-blind, placebo-controlled clinical trial. Patients could undergo randomization if in the judgment of the investigator MRI showed an acute ischemic lesion on DWI imaging but not parenchymal hyperintensity (using standard) FLAIR windows. Below I have linked to the paper (imaging-based) where the scientific rational for looking beyond 4.5hrs comes from in way of DWI FLAIR mismatch (Thomalla et al. 2011).</p>
+
+<p>In this study, 503 suitable imaging results, were randomly assigned to alteplase or placebo, and most of the patient’s in the study had mild to moderate strokes.  Primary endpoint was favorable outcome mRS at 90 days of 0 or 1. This occurred 53.3% (TPA) vs. 41.8% (Placebo group) - (adjusted odds ratio, 1.61; 95% confidence interval [CI], 1.09 ­ 2.36; p = 0.02).</p>
+
+<p>It is important to note that this trial stopped early due to funding (approx. 2/3 of target enrollment).</p>
+
+<p>There was a trend towards increased mortality in the TPA group, but that it did not achieve statistical significance (4.1% vs. 1.2%, p=0.07). Of the 10 patients that died, 4 were due to symptomatic ICH. Rate of parenchymal hemorrhage type 2 was 4% vs 0.4% (p=0.03).</p>
+
+<p>Challenges in implementation include the fact that obtaining MRI imaging in a timely manner is difficult and most centers. Also a large proportion of the patients in this trial were also eligible for EVT as per DAWN and DIFFUSE3 criteria  - approximately 20% of patients, which raises the possibility (unknown) of better outcome with EVT vs. late-window TPA administration.</p>
+
+<p>Taken together, the findings of WAKE-UP push the boundaries of TPA administration in acute stroke care beyond the 4.5hr time window. This especially benefits those who may have had their stroke close to waking without known a “last seen normal” time - these patients may be then identified via imaging. For now, my personal opinion (comfort) is to stay within the ascribed 4.5hrs (reserving out of window TPA for special circumstances, off-label with open disclosure to the patient/SDM). It’s great however that such studies exist providing additional scientific basis for out of window TPA. Collectively some criticisms of the trial include: early termination/lack of full enrollment, large fraction of patients were EVT candidates, signal towards higher mortality, and high risk of bleeding.</p>
+
+<p>The researchers discovered that in patients who received TPA, they had an increased chance of a favorable outcome (mRS 0-1), at 90 days.  Indeed, this was the first positive trial for IV thrombolysis and strokes of unknown time, however there are many important aspects to the study to consider.</p>
+
+<p>Nonetheless, studies such as WAKE-UP emphasize the notion that when identifying brain tissue at risk/amenable to being saved, it’s less about time and more about the state of the underlying tissue.  In other words, we are on a journey to better understand the ischemic penumbra about areas of brain at risk versus areas that have completed infarction -  Tissue window (perfusion, cellular energetics, collaterals) rather than time windows based on the clinical history.</p>
+
+<p>Until next time…more on collaterals!</p>
+
+<ul>
+  <li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa1804355">WAKE-UP NEJM Trial, Thomalla et al.</a></li>
+  <li><a href="https://www.medscape.com/viewarticle/896775">WAKE-UP Medscape Editorial by Sue Hughes</a></li>
+  <li><a href="https://www.ncbi.nlm.nih.gov/pubmed/21978972">Science behind the 4.5hr time-window for DWI/FLAIR mismatch, Thomalla et al.</a></li>
+</ul>
+
+<p>References:</p>
+<ul>
+  <li>Thomalla, G., Simonsen, C. Z., Boutitie, F., Andersen, G., Berthezene, Y., Cheng, B., et al. (2018). MRI-Guided Thrombolysis for Stroke with Unknown Time of Onset. The New England Journal of Medicine, 379(7), 611–622.</li>
+  <li>(editorial NEJM on WAKE-UP) Jovin, T. G. (2018). MRI-Guided Intravenous Alteplase for Stroke — Still Stuck in Time. The New England Journal of Medicine, 379(7), 682–683.</li>
+  <li>Thomalla, G., Cheng, B., Ebinger, M., Lancet, Q. H. T., 2011. (n.d.). DWI-FLAIR mismatch for the identification of patients with acute ischaemic stroke within 4· 5 h of symptom onset (PRE-FLAIR): a multicentre observational study. Elsevier.</li>
+</ul>
+
+<p><a href="/posts/index.html">Back to posts…</a></p>
+:ET
