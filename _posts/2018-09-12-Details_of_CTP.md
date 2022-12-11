@@ -3,7 +3,7 @@ layout: post
 title:  "The Devil is in the Details - Understanding CT Perfusion in the late EVT windows"
 date: 2018-09-12 13:11:00 -0500  
 categories: Stroke
-comments: TRUE
+comments: FALSE
 ---
 
 [Back to posts...](/posts/index.html)

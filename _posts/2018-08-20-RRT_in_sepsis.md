@@ -3,7 +3,7 @@ layout: post
 title:  "Predicting Renal Replacement Therapy in the ICU"
 date: 2018-08-20 08:44:00 -0500  
 categories: ICU
-comments: TRUE
+comments: FALSE
 ---
 
 [Back to posts...](/posts/index.html)

@@ -3,7 +3,7 @@ layout: post
 title:  "A Seizure captured on VR"
 date: 2018-01-20 08:44:00 -0500  
 categories: Tech
-comments: TRUE
+comments: FALSE
 ---
 [Back to posts...](/posts/index.html)
 

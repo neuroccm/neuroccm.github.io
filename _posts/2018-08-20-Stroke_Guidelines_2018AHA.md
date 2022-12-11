@@ -3,7 +3,7 @@ layout: post
 title:  "Re-working the AHA 2018 Stroke Guidelines"
 date: 2018-08-20 08:44:00 -0500  
 categories: Stroke
-comments: TRUE
+comments: FALSE
 ---
 
 [Back to posts...](/posts/index.html)
