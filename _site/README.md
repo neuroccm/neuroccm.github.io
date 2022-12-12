@@ -1,2 +1,2 @@
 # neuroccm.github.io
-Welcome to neuroccm.org – developed by Houman Khosravani. This site is dedicated to fostering learning, discussion, and interest in all things stroke and neurocritical care.
+Welcome to neuroccm.org – developed by Dr. Houman Khosravani. This site is the lab's site, also educational site and references to stroke and neurocritical care. All material is included for educational purposes only.
