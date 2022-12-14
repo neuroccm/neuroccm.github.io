@@ -15,6 +15,46 @@ The following are select publications reflecting my areas of interest and previo
 ---
 <p></p>
 
+* [** Recent publications - PubMed **](https://pubmed.ncbi.nlm.nih.gov/?term=khosravani+h&sort=pubdate)
+
+
+    1.Khosravani, H. The Dysfunction is in the Details: Neurovascular Changes in COVID-19. Can J Neurological Sci J Can Des Sci Neurologiques 48, 1–2 (2021).
+  
+  
+    2.Carlin, S., Geerts, W. & Khosravani, H. The clot thickens—enhanced integration of stroke and thrombosis training. J Thromb Thrombolys 53, 17–19 (2022).
+  
+  
+    3.Perri, G.-A., Lewin, W. H. & Khosravani, H. Team debriefs during the COVID-19 pandemic in long-term care homes: Essential elements. Can Fam Physician 67, 908–910 (2021).
+  
+  
+    4.Fitzpatrick, T. et al. Quality of anticoagulation using intravenous unfractionated heparin for cerebrovascular indications. Thromb Res 199, 79–81 (2021).
+  
+  
+    5.Nogueira, R. G. et al. Global Impact of COVID-19 on Stroke Care and IV Thrombolysis. Neurology 96, e2824–e2838 (2021).
+  
+  
+    6.Nogueira, R. G. et al. Global impact of COVID-19 on stroke care. Int J Stroke 16, 573–584 (2021).
+  
+  
+    7.Bazzigaluppi, P. et al. Frequency selective neuronal modulation triggers spreading depolarizations in the rat endothelin-1 model of stroke. J Cereb Blood Flow Metabolism 41, 2756–2768 (2021).
+  
+  
+    8.Perri, G.-A. et al. Cholinesterase Inhibitor Use in Patients With Dementia Admitted to a Palliative Care Unit. Am J Hospice Palliat Medicine 38, 1356–1360 (2021).
+  
+  
+    9.Ganesh, A. et al. Assessment of Discrepancies Between Follow-up Infarct Volume and 90-Day Outcomes Among Patients With Ischemic Stroke Who Received Endovascular Therapy. Jama Netw Open 4, e2132376 (2021).
+  
+  
+    10.Menon, B. K. et al. Intravenous tenecteplase compared with alteplase for acute ischaemic stroke in Canada (AcT): a pragmatic, multicentre, open-label, registry-linked, randomised, controlled, non-inferiority trial. Lancet 400, 161–169 (2022).
+  
+  
+    11.Sajobi, T. et al. Alteplase Compared to Tenecteplase in patients with Acute Ischemic Stroke (AcT) Trial: Protocol for a Pragmatic Registry linked Randomized Clinical Trial. Stroke Vasc Interventional Neurology (2022) doi:10.1161/svin.121.000447.
+  
+  
+    12.Sajobi, T. et al. AcT Trial: Protocol for a Pragmatic Registry‐Linked Randomized Clinical Trial. Stroke Vasc Interventional Neurology 2, (2022).
+  
+
+
 * The following are a series of highlighted publications:
 
     * Time-series analysis, Non-linear Systems Theory, Computational Neuroscience, Computational Medicine

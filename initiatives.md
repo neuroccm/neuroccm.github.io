@@ -8,9 +8,9 @@ permalink: /initiatives/
 
 **1) Quality improvement in hyper-acute stroke care:** - seeking interested students and trainees in the below topics; if you are looking to collaborate or start an academic project please get in touch [houman {at} neurovascular.ca]. Current projects include:
 * Door-to-Needle quality improvement project
-* stroke education curriculum and podcast
+* stroke education curriculum and podcast | [Stroke FM - Apple Podcasts](https://podcasts.apple.com/ca/podcast/stroke-fm/id1507174650) [Stroke FM - Spotify](https://open.spotify.com/show/68E5WtnyWRHnLizKIKJDw8)
 * analysis of acute stroke EEG
-* machine learning as applied to stroke care
+* machine learning as applied to stroke care (see T-CAIREM Summer Program)
 
 Areas of interest:
 
