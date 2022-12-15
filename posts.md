@@ -19,6 +19,6 @@ comments: FALSE
     {% endfor %}
   </ul>
 
-Links, topics, and posts discussed on this site are by no means the end-all or definitive write-up of a topic and do not reflect anything other than personal opinion and perspective of a critical care physician/neuroscientist. If you are interest in contributing to neuroccm.org as a contributing author for future blog posts, then please contact me: houman[at]ccmd[dot]io
+These posts are a work in progress. Will be trying to post more regularly, post more often! Links, topics, and posts discussed on this site are for educational purposes only. There is no duty of care and none of the content is meant to be used for or instead of expert clinical advice. Also these reflect personal opinion and perspective of a stroke/critical care physician/neuroscientist and not of my place of employment or academic affiliation.
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
