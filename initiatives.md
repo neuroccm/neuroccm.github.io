@@ -7,21 +7,34 @@ permalink: /initiatives/
 # Current Academic Projects/Activity
 
 **1) Quality improvement in hyper-acute stroke care:** - seeking interested students and trainees in the below topics; if you are looking to collaborate or start an academic project please get in touch [houman {at} neurovascular.ca]. Current projects include:
-* Door-to-Needle quality improvement project
-* stroke education curriculum and podcast | [Stroke FM - Apple Podcasts](https://podcasts.apple.com/ca/podcast/stroke-fm/id1507174650) [Stroke FM - Spotify](https://open.spotify.com/show/68E5WtnyWRHnLizKIKJDw8)
-* analysis of acute stroke EEG
-* machine learning as applied to stroke care (see T-CAIREM Summer Program)
+* Door-to-Needle/Door-to-Intervention quality improvement project
+    * winner of our institution's QI project - we have put into practice a durable process for QI in hyperacute stroke with a multidisciplinary and collaborative team, with our colleagues in our departments as stakeholders.
+    * Stroke and quality of care/improvement in stroke pathways; specifically peri-thrombolysis and EVT, and how they interact with critical care systems.
+        * Collaborative project with multiple members of the stroke program and the regional stroke program where we have improved the door to needle time at our local center, with change ideas that are focused on human factors, checklists, and direct to CT scanner, with measurable and durable improvements and/or intervention time.
+* Stroke Podcast - Official CSC (Canadian Stroke Consortium) Podcast
+    * stroke education curriculum (CodeStroke website) and podcast:
+    * [Stroke FM - Apple Podcasts](https://podcasts.apple.com/ca/podcast/stroke-fm/id1507174650)
+    * [Stroke FM - Spotify](https://open.spotify.com/show/68E5WtnyWRHnLizKIKJDw8)
+* Analysis of acute stroke EEG
+    * collaboration with Dr. M. Boulos - for acute EEG during stroke assessment.
+* Enhanced Integration of Stroke and Thrombosis Training - [Stroke and Thrombosis](https://sites.google.com/strokeandthrombosis.org/theclotthickens/home/)
+    * Reference list and podcast
+    * ["The Clot Thickens"](https://pubmed.ncbi.nlm.nih.gov/34232455/)
+* Machine learning as applied to stroke care (see T-CAIREM Summer Program)
 
-Areas of interest:
-
-* Stroke and quality of care/improvement in stroke pathways; specifically peri-tPA and EVT and how they interact with critical care systems.
-* *status epileptius*, refractory SE, NORSE
+Additional areas of interest:
+* Neurocritical care EEG - *status epileptius*, refractory SE, NORSE
 * Delirium in the ICU, EEG to study mechanisms of delirium in the ICU, including occult seizure activity.
 * Interface between computational solutions and medical challenges in caring for acute medically-ill and critically-ill patients. My specific interest, based on my PhD work, is time-series analysis and utilizing both linear and nonlinear tools to analyze physiologic signals for classifying and predicting disease processes.
 
 If you are a Principle Investigator and seek collaboration please do not hesitate to contact me.
 
-**2) Advocacy for better outcomes in NORSE**
+**2) [NQIL](https://sites.google.com/nqil.ca/nqil/?pli=1) the Neurology Quality and Innovation Lab**
+
+* The Neurology Quality and Innovation Lab (NQIL) was founded by three U of T Neurologists (Dr. Charles Kassardjian, Dr. Houman Khosravani and Dr. Sara Mitchell) as a hub for collaboration and implementation of city-wide quality improvement, patient safety, and innovation projects. The recently published videos on the Virtual Neurologic Examination can be found on this website as well.
+* [Virtual Neurologic Exam](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7347716/)
+
+**3) Advocacy for better outcomes in NORSE**
 
 NORSE (New Onset Refractory Status Epilepticus) - [NORSEINSTITUTE.ORG](https://norseinstitute.org)
 

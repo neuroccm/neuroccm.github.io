@@ -22,6 +22,6 @@ In addition, rapid presentation to the hospital can also help to prevent further
 
 Overall, rapid presentation to the hospital is important for acute stroke care because it allows doctors to quickly diagnose the type of stroke and provide the appropriate treatment to minimize the damage and prevent further complications.
 
-__Well written, the future is bright for AI aiding in public messaging and compaigns that require documents, advertizing, and messaging for healthcare.__
+__Well written, the future is bright for AI aiding in public messaging ad campaigns that require documents, advertising, and messaging for healthcare.__
 
 [Back to posts...](/posts/index.html)
