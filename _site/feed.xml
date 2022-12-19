@@ -5,11 +5,32 @@
     <description>neuroccm.org is a resource dedicated to topics related to stroke and neurocritical care. The Blog portion of this website is dedicated to topics in stroke, neurocritical care,
  and general critical care, and the interface of these disciplines with computational neuroscience.
 </description>
-    <link>https://neuroccm.org/</link>
-    <atom:link href="https://neuroccm.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Dec 2022 22:51:20 -0500</pubDate>
-    <lastBuildDate>Wed, 14 Dec 2022 22:51:20 -0500</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Dec 2022 01:14:33 -0500</pubDate>
+    <lastBuildDate>Mon, 19 Dec 2022 01:14:33 -0500</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
+    
+      <item>
+        <title>Musings on ChatGPT and its future use case(s): medicine and beyond</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With the dawn of AI technologies and the fast pace of development in this field, there is often fear, hesitation, and concern that human jobs will be lost or replaced. That said, there are fundamental ethical and legal considerations with AI systems in general and healthcare in particular. There are also implications for medical education and our trainees.&lt;/p&gt;
+
+&lt;p&gt;With the recent advancement of large language models and OpenAI’s public beta of ChatGPT, we are seeing a real glimpse into some of the capabilities. In this specific context, it is more likely that the jobs impacted are not the so-called blue-collar jobs or service jobs but rather white-collar jobs that deal with news services, advertisement, communication, copyright, and writing in various domains. Anything that deals with caring for people (such as in medicine) is likely safe for some time in the near future - but I digress. Of course, this is merely a supposition, and yet this is shared and commented on by several technology journalists covering recent advances in these large language models. The other aspect that requires some consideration is how these tools affect education, specifically in early education, entrance essays, and academic settings. There are already tools that detect plagiarism, and the fact that these language models can compose lengthy written works with simple typed instruction brings into light some concerns about ensuring a good quality of education for our undergraduate and early-year trainees. Will we see the return of in-person tests, with pen and paper, to ensure that a human rather than a language model (some call these stochastic parrots) is not writing an essay, composition, or report? Perhaps - we will see. These are tremendous advances, and their appropriate use is likely in the setting of augmenting and aiding humans in their writing and composition. Possibly, the reasonable use case for these language models is to develop an outline or a series of paragraphs to expand on, with original human content and writing prowess, to create an excellent composition.&lt;/p&gt;
+
+&lt;p&gt;For now, let us take this moment to celebrate this advancement in AI/machine learning as the series of paragraphs written in response to my question/input to ChatGPT, “Write several paragraphs on why rapid presentation to hospital is important for acute stroke care” is, in fact, quite remarkable!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Dec 2022 01:10:00 -0500</pubDate>
+        <link>http://localhost:4000/stroke/2022/12/19/Musings_on_ChatGPT.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stroke/2022/12/19/Musings_on_ChatGPT.html</guid>
+        
+        
+        <category>Stroke</category>
+        
+      </item>
     
       <item>
         <title>ChatGPT is asked - Write several paragraphs on why rapid presentation to hospital is important for acute stroke care</title>
@@ -34,8 +55,8 @@
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Dec 2022 01:00:00 -0500</pubDate>
-        <link>https://neuroccm.org/stroke/2022/12/11/ChatGPT_Stroke.html</link>
-        <guid isPermaLink="true">https://neuroccm.org/stroke/2022/12/11/ChatGPT_Stroke.html</guid>
+        <link>http://localhost:4000/stroke/2022/12/11/ChatGPT_Stroke.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stroke/2022/12/11/ChatGPT_Stroke.html</guid>
         
         
         <category>Stroke</category>
@@ -78,8 +99,8 @@
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Sep 2018 14:11:00 -0400</pubDate>
-        <link>https://neuroccm.org/stroke/2018/09/12/Details_of_CTP.html</link>
-        <guid isPermaLink="true">https://neuroccm.org/stroke/2018/09/12/Details_of_CTP.html</guid>
+        <link>http://localhost:4000/stroke/2018/09/12/Details_of_CTP.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stroke/2018/09/12/Details_of_CTP.html</guid>
         
         
         <category>Stroke</category>
@@ -128,8 +149,8 @@
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Sep 2018 14:11:00 -0400</pubDate>
-        <link>https://neuroccm.org/stroke/2018/09/01/WAKE_UP.html</link>
-        <guid isPermaLink="true">https://neuroccm.org/stroke/2018/09/01/WAKE_UP.html</guid>
+        <link>http://localhost:4000/stroke/2018/09/01/WAKE_UP.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stroke/2018/09/01/WAKE_UP.html</guid>
         
         
         <category>Stroke</category>
@@ -153,8 +174,8 @@
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Aug 2018 09:44:00 -0400</pubDate>
-        <link>https://neuroccm.org/stroke/2018/08/20/Stroke_Guidelines_2018AHA.html</link>
-        <guid isPermaLink="true">https://neuroccm.org/stroke/2018/08/20/Stroke_Guidelines_2018AHA.html</guid>
+        <link>http://localhost:4000/stroke/2018/08/20/Stroke_Guidelines_2018AHA.html</link>
+        <guid isPermaLink="true">http://localhost:4000/stroke/2018/08/20/Stroke_Guidelines_2018AHA.html</guid>
         
         
         <category>Stroke</category>
@@ -174,8 +195,8 @@
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Aug 2018 09:44:00 -0400</pubDate>
-        <link>https://neuroccm.org/icu/2018/08/20/RRT_in_sepsis.html</link>
-        <guid isPermaLink="true">https://neuroccm.org/icu/2018/08/20/RRT_in_sepsis.html</guid>
+        <link>http://localhost:4000/icu/2018/08/20/RRT_in_sepsis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/icu/2018/08/20/RRT_in_sepsis.html</guid>
         
         
         <category>ICU</category>
@@ -214,8 +235,8 @@
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Jan 2018 08:44:00 -0500</pubDate>
-        <link>https://neuroccm.org/tech/2018/01/20/OnlineSeizure.html</link>
-        <guid isPermaLink="true">https://neuroccm.org/tech/2018/01/20/OnlineSeizure.html</guid>
+        <link>http://localhost:4000/tech/2018/01/20/OnlineSeizure.html</link>
+        <guid isPermaLink="true">http://localhost:4000/tech/2018/01/20/OnlineSeizure.html</guid>
         
         
         <category>Tech</category>
@@ -282,8 +303,8 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Feb 2014 00:00:00 -0500</pubDate>
-        <link>https://neuroccm.org/icu/2014/02/28/Frailty.html</link>
-        <guid isPermaLink="true">https://neuroccm.org/icu/2014/02/28/Frailty.html</guid>
+        <link>http://localhost:4000/icu/2014/02/28/Frailty.html</link>
+        <guid isPermaLink="true">http://localhost:4000/icu/2014/02/28/Frailty.html</guid>
         
         
         <category>ICU</category>
@@ -337,8 +358,8 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
 &lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Jan 2014 00:00:00 -0500</pubDate>
-        <link>https://neuroccm.org/icu/2014/01/24/TTM.html</link>
-        <guid isPermaLink="true">https://neuroccm.org/icu/2014/01/24/TTM.html</guid>
+        <link>http://localhost:4000/icu/2014/01/24/TTM.html</link>
+        <guid isPermaLink="true">http://localhost:4000/icu/2014/01/24/TTM.html</guid>
         
         
         <category>ICU</category>
