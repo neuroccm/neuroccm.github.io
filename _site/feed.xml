@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
-    <title>neuroccm.org</title>
-    <description>neuroccm.org is a resource dedicated to topics related to stroke and neurocritical care. The Blog portion of this website is dedicated to topics in stroke, neurocritical care,
- and general critical care, and the interface of these disciplines with computational neuroscience.
+    <title>SiLab</title>
+    <description>SiLab (Stroke Innovation Lab) is the lab website of Dr. Khosravani, highlighting our initiatives, projects, and blog site related to stroke and critical care/neurocritical care.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Dec 2022 01:14:33 -0500</pubDate>
-    <lastBuildDate>Mon, 19 Dec 2022 01:14:33 -0500</lastBuildDate>
+    <pubDate>Tue, 20 Dec 2022 00:04:44 -0500</pubDate>
+    <lastBuildDate>Tue, 20 Dec 2022 00:04:44 -0500</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
     
       <item>

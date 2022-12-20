@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About neuroccm.org | ncrit.org #
+# About SINL (Stroke Innovation Lab) neuroccm.org | ncrit.org #
 
 neuroccm.org [ncrit.org] is a resource site, blog site, and research laboratory site of Dr. Houman Khosravani. The aim of neuroccm.org is to enhance discussion around topics related to stroke, neurointesive care, and critical care. Associated topics within neurology include status epilepticus.
 

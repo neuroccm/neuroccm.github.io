@@ -6,12 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: neuroccm.org
+title: SiLab
 email: houman@neurovascular.ca
 description: > # this means to ignore newlines until "baseurl:"
-  neuroccm.org is a resource dedicated to topics related to stroke and neurocritical care.
-  The Blog portion of this website is dedicated to topics in stroke, neurocritical care,
-   and general critical care, and the interface of these disciplines with computational neuroscience.
+  SiLab (Stroke Innovation Lab) is the lab website of Dr. Khosravani, highlighting our initiatives, projects, and blog site related to stroke and critical care/neurocritical care.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://neuroccm.org" # the base hostname & protocol for your site
 twitter_username: neuroccm
