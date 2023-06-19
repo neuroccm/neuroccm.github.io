@@ -7,32 +7,49 @@ permalink: /initiatives/
 # Current Academic Projects/Activity
 
 **Quality improvement in hyper-acute stroke care:** - seeking interested students and trainees in the below topics; if you are looking to collaborate or start an academic project please get in touch [houman {at} neurovascular.ca]. Current projects include:
-* Door-to-Needle/Door-to-Intervention quality improvement project
-    * winner of our institution's QI project - we have put into practice a durable process for QI in hyperacute stroke with a multidisciplinary and collaborative team, with our colleagues in our departments as stakeholders.
-    * Stroke and quality of care/improvement in stroke pathways; specifically peri-thrombolysis and EVT, and how they interact with critical care systems.
-        * Collaborative project with multiple members of the stroke program and the regional stroke program where we have improved the door to needle time at our local center, with change ideas that are focused on human factors, checklists, and direct to CT scanner, with measurable and durable improvements and/or intervention time.
-* Stroke Podcast - Official CSC (Canadian Stroke Consortium) Podcast
+* **Crisis Resource Management and Simulation in Code Stroke, Collaboration between ED and Stroke Neurology - Drs. Kester-Greene and Khosravani**
+    * PGY 1s - Pre-residency start stroke simulation
+        * 2021
+        * 2022
+        * 2023
+    * Joint ED (Dr. Kester-Greene) - Stroke (Dr. Khosravani) Simulations
+        * Every 3-4 months, applying CRM in stroke care
+* **NICE, the Neurovascular Innovations CollaborativE (NICE), Drs. Hawkes and Khosravani**
+* **StrokeFM Podcast - Official CSC (Canadian Stroke Consortium) Podcast**
     * stroke education curriculum (CodeStroke website) and podcast:
     * [Stroke FM - Apple Podcasts](https://podcasts.apple.com/ca/podcast/stroke-fm/id1507174650)
     * [Stroke FM - Spotify](https://open.spotify.com/show/68E5WtnyWRHnLizKIKJDw8)
-* Analysis of acute stroke EEG
-    * collaboration with Dr. M. Boulos - for acute EEG during stroke assessment.
-* Enhanced Integration of Stroke and Thrombosis Training - [Stroke and Thrombosis](https://sites.google.com/strokeandthrombosis.org/theclotthickens/home/)
+* **QI for Computation - Machine learning as applied to quality improvement in stroke**
+    * 2023
+        * Lab Members:
+            * Dr. A. Balachandar, Neurology, U of T, PGY4 Project
+            * R. Saab, U of T Med
+            * H. Mahdi, Western University, Med
+            * E. Nashnoush, U of T Data Science
+    * 2022
+        * Lab Members:
+            * Dr. A. Balachandar, Neurology, U of T
+            * R. Saab, U of T Med
+            * M. Panchal, U of T Med
+* **Palliative Care in Stroke**
+    * 2023
+        * Lab Members:
+            * Dr. B. Sivanandan, Neurology, U of T, PGY4 Project
+            * Dr. M. Mahendiran, U of T, Family Medicine (graduated)
+* **Enhanced Integration of Stroke and Thrombosis Training**
+    * [Stroke and Thrombosis](https://sites.google.com/strokeandthrombosis.org/theclotthickens/home/)
     * Reference list and podcast
     * ["The Clot Thickens"](https://pubmed.ncbi.nlm.nih.gov/34232455/)
-* Machine learning as applied to stroke care (see T-CAIREM)
 
-Additional areas of interest:
+Additional areas of active interest:
 * Neurocritical care EEG - *status epileptius*, refractory SE, NORSE
-* Delirium in the ICU, EEG to study mechanisms of delirium in the ICU, including occult seizure activity.
 * Interface between computational solutions and medical challenges in caring for acute medically-ill and critically-ill patients. My specific interest, based on my PhD work, is time-series analysis and utilizing both linear and nonlinear tools to analyze physiologic signals for classifying and predicting disease processes.
-
-If you are a Principle Investigator and seek collaboration please do not hesitate to contact me.
 
 **[NQIL](https://sites.google.com/nqil.ca/nqil/?pli=1) the Neurology Quality and Innovation Lab**
 
-* The Neurology Quality and Innovation Lab (NQIL) was founded by three U of T Neurologists (Dr. Charles Kassardjian, Dr. Houman Khosravani and Dr. Sara Mitchell) as a hub for collaboration and implementation of city-wide quality improvement, patient safety, and innovation projects. The recently published videos on the Virtual Neurologic Examination can be found on this website as well.
-* [Virtual Neurologic Exam](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7347716/)
+* The Neurology Quality and Innovation Lab (NQIL) was founded by three U of T Neurologists (Dr. Charles Kassardjian, Dr. Sara Mitchell, and Dr. Houman Khosravani) as a hub for collaboration and implementation of city-wide quality improvement, patient safety, and innovation projects. The recently published videos on the Virtual Neurologic Examination can be found on this website as well.
+    * [Empowering Clinical Neurosciences for Optimal Patient Care - Quality improvement and Advocacy Workshop](https://www.eventscribe.net/2023/cnsfcongress/fsPopup.asp?Mode=sessionInfo&PresentationID=1257771)
+    * [Virtual Neurologic Exam](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7347716/)
 
 **Advocacy for better outcomes in NORSE**
 
@@ -40,13 +57,19 @@ NORSE (New Onset Refractory Status Epilepticus) - [NORSEINSTITUTE.ORG](https://n
 
 Serving as a member of the [Advisory Board](https://www.norseinstitute.org/medical-advisory-board/) at the NORSE Institute. We are a group of individuals spanning families, physicians (Pediatric & Adult Neurology, Neurocritical Care) dedicated to raising awareness for NORSE. We are building a foundation where other providers are able to diagnose, treat, and seek consultation from expert and expert-centers when managing NORSE patients. In addition, we have developed a registry for these pateints and soon their families. Our goal is to raise awareness of NORSE and associated conditions and to work toward a cure.
 
-"Vision of the NORSE Institute: TO FIND AN EFFECTIVE TREATMENT FOR NORSE
+Vision of the NORSE Institute:
 
-Effective treatment for this rare and poorly understood disorder is currently elusive. Finding it requires new thinking from multiple medical disciplines and integration of these ideas and research. We hope to stimulate this thinking and explore both the conceptual boundaries of NORSE as well as the practical boundaries of NORSE treatment: long-term critical care, ICU and epilepsy coordination, palliative care, and immune treatments."
+"Effective treatment for this rare and poorly understood disorder is currently elusive. Finding it requires new thinking from multiple medical disciplines and integration of these ideas and research. We hope to stimulate this thinking and explore both the conceptual boundaries of NORSE as well as the practical boundaries of NORSE treatment: long-term critical care, ICU and epilepsy coordination, palliative care, and immune treatments."
 
 # Previous initiatives and completed projects
 
 The following projects were aimed at quality improvement and education.
+
+**Door-to-Needle/Door-to-Intervention quality improvement project**
+   * Winner of our institution's QI project 2019 - we have put into practice a durable process for QI in hyperacute stroke with a multidisciplinary and collaborative team, with our colleagues in our departments as stakeholders.
+   * Stroke and quality of care/improvement in stroke pathways; specifically peri-thrombolysis and EVT, and critical care interaction
+   * Collaborative project with multiple members of the stroke program and the regional stroke program where we have improved the door to needle time at our local center, with change ideas that are focused on human factors, checklists, and direct to CT scanner, with measurable and durable improvements and/or intervention time.
+   * This work continues but the key ingredients are in place and showing durable benefit.
 
 **Medical Education – [torontocriticalcare.org](http://www.torontocriticalcare.org/) - Sr Resident and Fellow education in the intensive care unit at University of Toronto**
 
