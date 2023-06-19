@@ -6,109 +6,85 @@ permalink: /publications/
 
 The following are select publications reflecting my areas of interest and previous work. For a full listing please see the following (database) links:
 
-* [Google Scholar][HKScholar] – Medicine, Physiology, and Computational Biology/Biophysics
+* [Google Scholar Profile](https://scholar.google.com/citations?user=qzhk98YAAAAJ&hl=en)
 
-* [PubMed.com][HKPubmed] – Medicine, Physiology, Neurobiology (Epilepsy)
+* [PubMed.com][HKPubmed] – Medicine, Physiology, Neurobiology (Stroke, Epilepsy, Neurocritical care)
 
 * [SAO/NASA Astrophysics Data System (ADS)][HKADS] – Astrophysics and Computation
 
 ---
 <p></p>
 
-* [** Recent publications - PubMed **](https://pubmed.ncbi.nlm.nih.gov/?term=khosravani+h&sort=pubdate)
+[** Recent publications - PubMed **](https://pubmed.ncbi.nlm.nih.gov/?term=khosravani+h&sort=pubdate)
 
+1. [Effect of Time to Thrombolysis on Clinical Outcomes in Patients with Acute Ischemic Stroke Treated with Tenecteplase Compared to Alteplase: Analysis from the AcT Randomized Controlled Trial](https://dx.doi.org/10.1101/2023.05.17.23290141) - Published on May 19, 2023.
 
-    1.Khosravani, H. The Dysfunction is in the Details: Neurovascular Changes in COVID-19. Can J Neurological Sci J Can Des Sci Neurologiques 48, 1–2 (2021).
-  
-  
-    2.Carlin, S., Geerts, W. & Khosravani, H. The clot thickens—enhanced integration of stroke and thrombosis training. J Thromb Thrombolys 53, 17–19 (2022).
-  
-  
-    3.Perri, G.-A., Lewin, W. H. & Khosravani, H. Team debriefs during the COVID-19 pandemic in long-term care homes: Essential elements. Can Fam Physician 67, 908–910 (2021).
-  
-  
-    4.Fitzpatrick, T. et al. Quality of anticoagulation using intravenous unfractionated heparin for cerebrovascular indications. Thromb Res 199, 79–81 (2021).
-  
-  
-    5.Nogueira, R. G. et al. Global Impact of COVID-19 on Stroke Care and IV Thrombolysis. Neurology 96, e2824–e2838 (2021).
-  
-  
-    6.Nogueira, R. G. et al. Global impact of COVID-19 on stroke care. Int J Stroke 16, 573–584 (2021).
-  
-  
-    7.Bazzigaluppi, P. et al. Frequency selective neuronal modulation triggers spreading depolarizations in the rat endothelin-1 model of stroke. J Cereb Blood Flow Metabolism 41, 2756–2768 (2021).
-  
-  
-    8.Perri, G.-A. et al. Cholinesterase Inhibitor Use in Patients With Dementia Admitted to a Palliative Care Unit. Am J Hospice Palliat Medicine 38, 1356–1360 (2021).
-  
-  
-    9.Ganesh, A. et al. Assessment of Discrepancies Between Follow-up Infarct Volume and 90-Day Outcomes Among Patients With Ischemic Stroke Who Received Endovascular Therapy. Jama Netw Open 4, e2132376 (2021).
-  
-  
-    10.Menon, B. K. et al. Intravenous tenecteplase compared with alteplase for acute ischaemic stroke in Canada (AcT): a pragmatic, multicentre, open-label, registry-linked, randomised, controlled, non-inferiority trial. Lancet 400, 161–169 (2022).
-  
-  
-    11.Sajobi, T. et al. Alteplase Compared to Tenecteplase in patients with Acute Ischemic Stroke (AcT) Trial: Protocol for a Pragmatic Registry linked Randomized Clinical Trial. Stroke Vasc Interventional Neurology (2022) doi:10.1161/svin.121.000447.
-  
-  
-    12.Sajobi, T. et al. AcT Trial: Protocol for a Pragmatic Registry‐Linked Randomized Clinical Trial. Stroke Vasc Interventional Neurology 2, (2022).
-  
+2. [Early identification of NORSE and transfer to care setting with appropriate supports: A proposed algorithm](https://dx.doi.org/10.3389/fneur.2023.1072020) - Published on April 11, 2023.
 
+3. [AcT Trial: Protocol for a Pragmatic Registry-Linked Randomized Clinical Trial](https://dx.doi.org/10.1161/svin.122.000447) - Published on September 1, 2022.
 
-* The following are a series of highlighted publications:
+4. [Alteplase Compared to Tenecteplase in patients with Acute Ischemic Stroke (AcT) Trial: Protocol for a Pragmatic Registry linked Randomized Clinical Trial](https://dx.doi.org/10.1161/svin.121.000447) - Published on May 6, 2022.
+
+5. [Team debriefs during the COVID-19 pandemic in long-term care homes](https://dx.doi.org/10.46747/cfp.6712908) - Published on December 1, 2021.
+
+6. [Frequency selective neuronal modulation triggers spreading depolarizations in the rat endothelin-1 model of stroke](https://dx.doi.org/10.1177/0271678X211013656) - Published on May 9, 2021.
+
+7. [Integrating New Staff into Endovascular Stroke-Treatment Workflows in the COVID-19 Pandemic](https://dx.doi.org/10.3174/ajnr.A6854) - Published on October 8, 2020.
+
+8. [Crisis Resource Management and High-Performing Teams in Hyperacute Stroke Care](https://dx.doi.org/10.1007/s12028-020-01057-4) - Published on August 13, 2020.
+
+9. [The Dysfunction is in the Details: Neurovascular Changes in COVID-19](https://dx.doi.org/10.1017/cjn.2020.150) - Published on July 15, 2020.
+
+10. [Pandemic Guidance for Stroke Centers Aiding COVID-19 Treatment Teams](https://dx.doi.org/10.1161/STROKEAHA.120.030749) - Published on June 23, 2020.
+
+11. [Modification to Neurology Residency Training: The Toronto Neurology COVID-19 Pandemic Experience](https://dx.doi.org/10.1212/cpj.0000000000000894) - Published on June 19, 2020.
+
+12. [The Virtual Neurologic Exam: Instructional Videos and Guidance for the COVID-19 Era](https://dx.doi.org/10.1017/cjn.2020.96) - Published on May 21, 2020.
+
+13. [Protected Code Stroke](https://dx.doi.org/10.1161/STROKEAHA.120.029838) - Published on April 1, 2020.
+
+* The following are a series of highlighted previous publications (with their titles, see above PubMed link for details)
 
     * Time-series analysis, Non-linear Systems Theory, Computational Neuroscience, Computational Medicine
 
-        * [Spatial localization and time-dependant changes of electrographic high frequency oscillations in human temporal lobe epilepsy][HFO_iEEG]
-        * [Increased high-frequency oscillations precede in vitro low-Mg+2 seizures][HFO_LowMg2+]
-        * [Time response of interstitial fluid pressure measurements in cervix cancer][Tumor_IP]
-        * [The Control of Seizure-Like Activity in the Rat Hippocampal Slice][Slice_SeizureControl]
+        * Spatial localization and time-dependant changes of electrographic high frequency oscillations in human temporal lobe epilepsy
+        * Increased high-frequency oscillations precede in vitro low-Mg+2 seizures
+        * Time response of interstitial fluid pressure measurements in cervix cancer
+        * The Control of Seizure-Like Activity in the Rat Hippocampal Slice
 
     * Molecular Biology and Cellular Physiology – cellular excitability, seizures/epilepsy
 
         * T-type Voltage-gated Calcium Channels and their role in Seizure-genesis via Thalamocortical Circuits
 
-            * [Voltage-gated calcium channels and idiopathic generalized epilepsies (concise review)][T-Type_Review]
-
-            * [Gating Effects of Mutations in the Cav3.2 T-type Calcium Channel Associated with Childhood Absence Epilepsy][Cav32]
+            * Voltage-gated calcium channels and idiopathic generalized epilepsies (concise review)
+            * Gating Effects of Mutations in the Cav3.2 T-type Calcium Channel Associated with Childhood Absence Epilepsy
 
         * Prion protein attenuates excitotoxicity by inhibiting NMDA receptors
 
-            * [Role of Native Prion Protein in modulating neuronal excitability][Prion_NMDA]
-            * [commentary: Prions show their good side][Prion_GoodSide]
-            * [commentary: All quiet on the neuronal front – NMDA receptor inhibition by prion protein][AllQuiet]
-            * [Cellular prion protein null mice display normal AMPA receptor mediated long term depression][PrionNMDA_AMPA]
+            * Role of Native Prion Protein in modulating neuronal excitability
+            * commentary: Prions show their good side
+            * commentary: All quiet on the neuronal front – NMDA receptor inhibition by prion protein
+            * Cellular prion protein null mice display normal AMPA receptor mediated long term depression
 
 
 * Critical Care Medicine
-
-    * [Occurrence and adverse effect on outcome of hyperlactatemia in the critically ill (designated highly accessed on Critical Care)][Lactate]
-        * [commentary: The Riddle of Hyperlactatemia][Lactate_Comment]
+    * Occurrence and adverse effect on outcome of hyperlactatemia in the critically ill, designated highly accessed on Critical Care; commentary: The Riddle of Hyperlactatemia
 
 * Imaging
-
-    * [Emergency Noninvasive Angiography for Acute Intracerebral Hemorrhage][ICH_Review]
+    * Emergency Noninvasive Angiography for Acute Intracerebral Hemorrhage
 
 ---
 
 * Graduate Thesis and Dissertation
-
     * Please see below for links to download my MSc and PhD thesis and dissertation:
-
         * [MSc in Physiology from the University of Toronto, "Nonlinear Time-series Analysis of in vitro and Human Electroencephalographic recordings for Seizure Anticipation and in vitro Seizure Control"][Houman_MSc]
-
         * [PhD in Neuroscience from the University of Calgary, "Cellular and Network Substrates of Neuronal Excitability in Relation to Epileptic Seizures"][Houman_PhD]
 
-<p></p>
-
----
-
-{% include icon-github.html username=site.github_username %} - [GitHub Repository for HFO Analysis of EEG](https://github.com/neuroccm/eeghfo.git){:target="_blank"}
-
----
+* [GitHub Repository for HFO Analysis of EEG](https://github.com/neuroccm/eeghfo.git)
 
 <p></p>
 
+---
 
 [westernsono]: https://westernsono.ca
 [ecriticalcare]: https://www.ecriticalcare.org

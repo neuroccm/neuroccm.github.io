@@ -20,7 +20,7 @@ permalink: /initiatives/
 * Enhanced Integration of Stroke and Thrombosis Training - [Stroke and Thrombosis](https://sites.google.com/strokeandthrombosis.org/theclotthickens/home/)
     * Reference list and podcast
     * ["The Clot Thickens"](https://pubmed.ncbi.nlm.nih.gov/34232455/)
-* Machine learning as applied to stroke care (see T-CAIREM Summer Program)
+* Machine learning as applied to stroke care (see T-CAIREM)
 
 Additional areas of interest:
 * Neurocritical care EEG - *status epileptius*, refractory SE, NORSE
@@ -44,7 +44,7 @@ Serving as a member of the [Advisory Board](https://www.norseinstitute.org/medic
 
 Effective treatment for this rare and poorly understood disorder is currently elusive. Finding it requires new thinking from multiple medical disciplines and integration of these ideas and research. We hope to stimulate this thinking and explore both the conceptual boundaries of NORSE as well as the practical boundaries of NORSE treatment: long-term critical care, ICU and epilepsy coordination, palliative care, and immune treatments."
 
-# Former and completed academic projects
+# Previous initiatives and completed projects
 
 The following projects were aimed at quality improvement and education.
 
