@@ -7,14 +7,16 @@ comments: FALSE
 
 </p>
 
-Welcome to Dr. Khosravani's Lab (SiLab), the **Stroke Innovation Lab** [ncrit.org/neuroccm.org](https://ncrit.org) the QI (quality improvement and innovation) lab of Dr. Houman Khosravani (Assistant Professor, Division of Neurology, University of Toronto). This is the lab's website and dedicated to providing information on active projects, fostering interest in our lab's clinical neuroscience projects that focus on quality improvement in acute stroke care, neurocritical care, and palliative medicine as applied to the acute clinical neurosciences.
+Dr. Khosravani's Stroke Innovation Lab, also known as SiLab, is centered on Quality Improvement (QI) in acute stroke care, which is conducted under the Division of Neurology at the University of Toronto. The lab focuses on the implementation of crisis resource management and stroke simulation to improve "door-to-needle" times and other door-to-intervention metrics. The work is aimed at enhancing care pathways and human performance factors for acute stroke patients through simulation. The lab also leverages machine learning for QI in addition to how it applies to not only acute stroke but also palliative care in the context of stroke.
 
-Our lab's academic areas of focus are Quality Improvement in acute Stroke and the intersection with neurocritical care. A focus of our lab is research on human performance factors, implementation of crisis resource management in stroke and simulation in stroke care. We are working on door-to-needle times and leveraging this QI work to enhance acute stroke care pathways for all door-to-intervention metrics. Our focus on human performance factors through code stroke simulation has been a focus. My academic group is also engaged in medical education for stroke patients, we have a podcast called StrokeFM. In 2021 StrokeFM was selected to be the Canadian Stroke Consortium's official podcast with a mission toward knowledge translation using multimedia and web-based technologies. Two additional areas of special interest are using machine learning to improve stroke care with a specific focus on quality improvement. This work is being conducted in affiliation with T-CAIREM, and SHSC.
+The lab is actively involved in medical education, featuring a podcast called StrokeFM. This podcast is dedicated to disseminating knowledge about stroke care, using multimedia and web-based technologies.
 
-From a machine learning perspective we are working on improving acute stroke care with leveraging machine learning to take bedside physiologic recordings towards improving the quality of care.
+The lab is also engaged in cutting-edge research in machine learning, where they leverage bedside physiologic recordings to enhance acute stroke care quality. This work is carried out in affiliation with T-CAIREM and SHSC.
 
-With my colleage Dr. Christine Hawkes, we co-founded NICE, the Neurovascular Innovations CollaborativE (NICE) - we look forward to sharing more information in the near future.
+In collaboration with Dr. Christine Hawkes, Dr. Khosravani co-founded the Neurovascular Innovations CollaborativE (NICE). Although the details are yet to be shared, it's anticipated that NICE will contribute significantly to their mission.
 
-My critical care interest are human factors, continuous EEG (cEEG), and medical resuscitation of stroke patients in a clinical neurosciences environment.
+In terms of neurocritical care, Dr. Khosravani has a particular interest in human factors, continuous EEG (cEEG).
 
-Disclaimer: Links, topics, and posts discussed on this site for educational purposes only, there is no duty of care, reflect personal opinions, and do not reflect or replace expert advice. Please get in touch if interested in collaborating on any stroke/neurovascular or neurocritical care initiatives.
+Our lab has coined the term "neurovascular resuscitation" translating concepts from medical and trauma resusciation to stroke.
+
+Disclaimer: Links, topics, and posts discussed on this site are for educational purposes only, there is no duty of care and not for medical advice or expert consultation. The site reflects personal opinions, and do not reflect or replace expert advice or the institution, place or work, or any other organization. Please get in touch if interested in machine learning, QI, human factors, and simulation, and collaborating on any stroke/neurovascular or neurocritical care initiatives.
