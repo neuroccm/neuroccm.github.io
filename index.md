@@ -13,7 +13,7 @@ The lab is actively involved in medical education, featuring a podcast called St
 
 The lab is also engaged in cutting-edge research in machine learning, where they leverage bedside physiologic recordings to enhance acute stroke care quality. This work is carried out in affiliation with T-CAIREM and SHSC.
 
-In collaboration with Dr. Christine Hawkes, Dr. Khosravani co-founded the Neurovascular Innovations CollaborativE (NICE). Although the details are yet to be shared, it's anticipated that NICE will contribute significantly to their mission.
+Dr. Khosravani co-founded the Neurovascular Innovations CollaborativE (NICE), in collaboration with Dr. Christine Hawkes. Although the details are yet to be shared, it's anticipated that NICE will contribute significantly to a joint mission of leveling-up education in neurovascular care.
 
 In terms of neurocritical care, Dr. Khosravani has a particular interest in human factors, continuous EEG (cEEG).
 
