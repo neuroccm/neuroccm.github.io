@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
     <title>SiLab</title>
-    <description>SiLab (Stroke Innovation Lab) is the lab website of Dr. Khosravani, highlighting our initiatives, projects, and blog site related to stroke and critical care/neurocritical care.
+    <description>Stroke Innovation Lab is the lab website of Dr. Khosravani, highlighting our initiatives, projects, and blog site related to stroke and critical care/neurocritical care.
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jul 2023 06:32:27 -0500</pubDate>
-    <lastBuildDate>Wed, 05 Jul 2023 06:32:27 -0500</lastBuildDate>
+    <pubDate>Sun, 09 Jul 2023 15:46:34 -0500</pubDate>
+    <lastBuildDate>Sun, 09 Jul 2023 15:46:34 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>

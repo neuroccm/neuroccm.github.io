@@ -7,7 +7,7 @@ permalink: /initiatives/
 # Current Academic Projects/Activity
 
 **Quality improvement in hyper-acute stroke care:** - seeking interested students and trainees in the below topics; if you are looking to collaborate or start an academic project please get in touch [houman {at} neurovascular.ca]. Current projects include:
-* **Crisis Resource Management and Simulation in Code Stroke, Collaboration between ED and Stroke Neurology - Drs. Kester-Greene and Khosravani**
+* **Crisis Resource Management and Simulation in Code Stroke, Collaboration between ED and Stroke Neurology - Co-leads: Dr. Khosravani (stroke) and Dr. Kester-Greene (ED)**
     * PGY 1s - Pre-residency start stroke simulation
         * 2021
         * 2022
@@ -86,9 +86,4 @@ The ICU rotation for junior and off-service residents can be challenging in many
 We developed ICU Boot Camp as a course and mobile-platform using Google Classroom for students so that they can start their rotation ready to start taking care of critically-ill patients.
 * this site is now retired - [ccw.ecriticalcare.org](http://ccw.ecriticalcare.org/)
 * Western University Critical Care Extubation Protocol [extubate](http://extubate.ecriticalcare.org/)
-* **ICU BootCamp Videos**
-  * [Introduction to ICU BootCamp](https://drive.google.com/open?id=0B3AhnibNqy2gWHMzaGJxQ3R4U1U)
-  * [Basic introduction to airway management](https://drive.google.com/open?id=0B3AhnibNqy2gdkQ1M2wwcWFISDg)
-  * [Basics of sepsis and septic shock](https://drive.google.com/open?id=0B3AhnibNqy2gVmU4akhmN3FNeW8)
-  * [Basics of vascular access](https://drive.google.com/open?id=0B3AhnibNqy2gSkp5NE5lZHZFTUk)
-  * [Basics of sedation in the ICU](https://drive.google.com/open?id=0B3AhnibNqy2gSU9WZTJTc19IeW8)
+* ICU BootCamp Videos, these can now by found on [silab.ca](https://sites.google.com/ncrit.org/silab/), see CRM tab
