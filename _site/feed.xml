@@ -6,9 +6,55 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Jul 2023 15:46:34 -0500</pubDate>
-    <lastBuildDate>Sun, 09 Jul 2023 15:46:34 -0500</lastBuildDate>
+    <pubDate>Sun, 09 Jul 2023 20:53:06 -0500</pubDate>
+    <lastBuildDate>Sun, 09 Jul 2023 20:53:06 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Watch the beta-blockers</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;
+  &lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;...&lt;/p&gt;&amp;mdash; ...
+  &lt;a href=&quot;https://twitter.com/neuroccm/status/1629906707005440014&quot;&gt;...&lt;/a&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I tweeted about this previously - did not get much traction :)
+I am sure someone will go ahead and prove this in a trial or looking back at the data.
+Nonetheless, my clinical observation has been that the presence of beta-blockers, used for another indication (e.g. HTN), lowers the probability of detecting A Fib in a patient that presents with ESUS. Therefore, given the results of the recent ARCADIA trial &lt;a href=&quot;https://www.medscape.com/viewarticle/992525&quot;&gt;read more here&lt;/a&gt;, there is a suggestion that some markers of atrialcardiopathy are not sufficient to detect the propensity of identifying those that may benefit from anticoagulation. However, I suspect, the presence of BBs also modulates the detection of A Fib, and those with LA dilatation (best via the LAVI, volume index), and embolic stroke, who are on BB, I suspect these patients actually have a high probability of A fib, and thus the search should be on to find it. BB can reduce the probability of detection - I cannot find any paper that show this - but I have found this to be the case clinically over and over again. There is some biologic plausability. Here is some “smoke” looking at the HR distributions with BB on-board, &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9996284/&quot;&gt;see this&lt;/a&gt;. I am sure we will see more on this topic in the future!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Jul 2023 20:23:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/computing/2023/07/09/Watch_the_beta-blockers.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/computing/2023/07/09/Watch_the_beta-blockers.html</guid>
+        
+        
+        <category>Computing</category>
+        
+      </item>
+    
+      <item>
+        <title>Computing</title>
+        <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Computing!
+Oh my how things have changed over the past few momnths.
+ChatGPT, GPT4 model, and the continuous improvements with VSCode, and implementation of GPT4 as co-pilot (limited to code).
+Overall these have been very positive developments.
+Also, as a lab colleague showed me - Docker! Game changer - what an excellent concept to virtualize key components of dependencies in containers and be able to run them fast and efficiently, at fairly low-level, without the usual drag of virtualization.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Jul 2023 20:23:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/computing/2023/07/09/Computing.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/computing/2023/07/09/Computing.html</guid>
+        
+        
+        <category>Computing</category>
+        
+      </item>
     
       <item>
         <title>Musings on ChatGPT and its future use case(s): medicine and beyond</title>
@@ -304,61 +350,6 @@ Patients with similar ICU severity of illness but worse frailty status tend to d
         <pubDate>Thu, 27 Feb 2014 23:00:00 -0600</pubDate>
         <link>http://0.0.0.0:4000/icu/2014/02/27/Frailty.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/icu/2014/02/27/Frailty.html</guid>
-        
-        
-        <category>ICU</category>
-        
-      </item>
-    
-      <item>
-        <title>Therapeutic Hypothermia – 4 weeks after protocol-changing studies</title>
-        <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;
-[posted earlier on old neuroccm wordpress site]&lt;/p&gt;
-
-&lt;p&gt;Nov. 17th saw the on-line publication of two important therapeutic hypothermia trials in the setting of cardiac arrest. These studies were well covered by several of the top intensive care blogs. Below is an organized (selected) summary, including Scott Weingart’s (emcrit.org) recent interview with Dr. Stephen Bernard who is one of the original protocol-establishing trial’s authors. Taken together, these studies are changing practice world-wide.&lt;/p&gt;
-
-&lt;p&gt;Overall, the message is that we should continue to cool patients, likely 36 deg C is sufficient for most patients, and probably, what is more important is the avoidance of fever. Some patients may still benefit from deeper cooling. Also very interesting that the PEA/Asystole group, now included Nielsen et al.’s study, did not see benefit (some say PEA is different than asystole in terms of perfusion and may respond differently to cooling).&lt;/p&gt;
-
-&lt;p&gt;Some commentators suggest that a brain “dose-response” curve exists – such that those with a suspected greater degree of neuronal injury may benefit from lower temperatures and/or longer cooling times – however, I think this will be difficult to show definitively while controlling for confounders. The post-arrest brain injury (and it’s extent) occurs acutely in a short amount of time and there are physiologic parameters that govern the secondary injury that ensues over the coming days – it will be challenging to assess those parameters in the acute setting. We likely need a focused physical exam (perhaps augmented by objective instruments such as pupillometry), brain imaging, and continuous EEG as parameters to study acutely that may provide us future insight on how to stratify patients.&lt;/p&gt;
-
-&lt;h1 id=&quot;reviewcommentary&quot;&gt;Review/Commentary&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.nejm.org/doi/full/10.1056/NEJMe1312700&quot;&gt;Rittenberger and Callaway’s NEJM commentary on Nielsen et al.’s article&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;interesting-blogs&quot;&gt;Interesting blogs&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Emcrit.org – [Scott’s wee on TTM] (https://emcrit.org/podcasts/emcrit-wee-targeted-temperature-trial-changes-everything/) and &lt;a href=&quot;https://emcrit.org/podcasts/post-arrest-care-2013-i/&quot;&gt;Interview with Dr. Stephen Bernard&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://medicalevidence.blogspot.com.au/2013/11/chill-out-homeopathic-hypothermia-after.html&quot;&gt;Medical Evidence Blog&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Intensive Care Network &lt;a href=&quot;https://intensivecarenetwork.com/index.php/icn-activities/icn-podcasts/796-niklas-nielsen-interview-1-week-post-ttm-publication&quot;&gt;interview&lt;/a&gt; with Dr. Nielsen&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Original research articles:*&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;a href=&quot;https://www.nejm.org/doi/full/10.1056/NEJMoa1310519?query=featured_home#t=article&quot;&gt;NEJM – Nielsen et al.&lt;/a&gt;&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;&lt;a href=&quot;https://jama.jamanetwork.com/article.aspx?articleid=1778673&quot;&gt;JAMA – Kim et al.&lt;/a&gt;&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Update [27 Dec. 2013]:* Excellent panel discussion by several leaders in ED/CCM on new perspectives on TTM. See the new [RAGE Podcast]{https://ragepodcast.com/rage-session-one/)&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 Jan 2014 23:00:00 -0600</pubDate>
-        <link>http://0.0.0.0:4000/icu/2014/01/23/TTM.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/icu/2014/01/23/TTM.html</guid>
         
         
         <category>ICU</category>

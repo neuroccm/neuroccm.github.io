@@ -1,2 +1,2 @@
 # neuroccm.github.io
-Welcome to SiLab (Stroke Innovation Lab) neuroccm.org – developed by Dr. Houman Khosravani. This site is the lab's site, also educational site and references to stroke and neurocritical care. All material is included for educational purposes only.
+Khosravani Lab, all material is included for educational purposes only; there is no duty-of-care.
