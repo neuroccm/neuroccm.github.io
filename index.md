@@ -16,3 +16,8 @@ The lab is also engaged in cutting-edge research in machine learning, where they
 Our lab has founded and is involved in several initiatves including NQIL (the Neurology Quality and Innovations Lab), along with Drs. Sara Mitchell and Charles Kassardjian, the Stroke FM Podcast, which is the official podcast of the Canadian Stroke Consortium, and SiLab (Simulation Lab), which is focused on all things resuscitation. Dr. Khosravani and Dr. Christine Hawkes co-founded the Neurovascular Innovations CollaborativE (NICE) - it is anticipated that NICE will contribute significantly to a joint mission of leveling-up education in neurovascular care. Dr. Khosravani is leading medical/neurocritical care efforts in NICE, Dr. Hawkes the neurovascular and catheter-based techniques.
 
 Disclaimer: Links, topics, and posts discussed on this site are for educational purposes only, there is no duty of care and not for medical advice or expert consultation. The site reflects personal opinions, and do not reflect or replace expert advice or the institution, place or work, or any other organization. Please get in touch if interested in machine learning, QI, human factors, and simulation, and collaborating on any stroke/neurovascular or neurocritical care initiatives.
+
+<a href="https://sites.google.com/nqil.ca/nqil/">
+    <img id="NQILTeam" src="NQIL_ver03.png" alt="logo for NQIL" style="width:50%; height:auto;">
+</a>
+
