@@ -14,7 +14,7 @@ Welcome to the Stroke Innovations / ML4QI Lab in Stroke, Dr. Khosravani's lab si
 * Dr. Khosravani and Dr. Christine Hawkes co-founded the Neurovascular Innovations CollaborativE (NICE), an initiative projected to contribute substantially to augmenting neurovascular care education.
 * Our lab's portion of focus is the medical/neurocritical care efforts within NICE, while Dr. Hawkes helms the neurovascular and catheter-based aspects of hyperacute care and techniques.
 
-**Machine Learning 4 QI (ML4QI) and the Neurology Quality and Innovations Lab (NQIL)**
+**Artificial Intelligence 4 QI (AI4QI) and the Neurology Quality and Innovations Lab (NQIL)**
 * We are also exploring the intersection of machine learning and quality improvement, utilizing voice-based technologies to refine our methods.
 * Our pursuit of excellence extends to the cutting-edge field of machine learning. Collaborating with T-CAIREM and SHSC, we are leveraging bedside physiologic recordings to improve the quality of acute stroke care.
 * We are proud to have founded several initiatives, including the Neurology Quality and Innovations Lab (NQIL), in collaboration with Drs. Sara Mitchell and Charles Kassardjian.
