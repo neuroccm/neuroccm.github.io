@@ -6,8 +6,8 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jul 2023 10:06:11 -0500</pubDate>
-    <lastBuildDate>Mon, 24 Jul 2023 10:06:11 -0500</lastBuildDate>
+    <pubDate>Sun, 30 Jul 2023 19:45:56 -0500</pubDate>
+    <lastBuildDate>Sun, 30 Jul 2023 19:45:56 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -20,7 +20,7 @@
 &lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;I tweeted about this previously - did not get much traction :)
+&lt;p&gt;I posted about this previously - did not get much traction :)
 I am sure someone will go ahead and refute or prove this in a trial or looking back at the data.&lt;/p&gt;
 
 &lt;p&gt;My clinical observation has been that the presence of beta-blockers, used for another indication (e.g. HTN), lowers the probability of detecting A Fib in a patient that presents with ESUS. Therefore, given the results of the recent ARCADIA trial &lt;a href=&quot;https://www.medscape.com/viewarticle/992525&quot;&gt;read more here&lt;/a&gt;, there is a suggestion that some markers of atrialcardiopathy may not be sufficient to detect the propensity of identifying those that may benefit from anticoagulation - note I don’t mean all biomarkers., some more useful than others, and some may cloud detection ability in a clinical trial. However, I suspect, the presence of BBs also modulates the detection of A Fib, and those with LA dilatation (best via the LAVI, volume index), and embolic stroke, who are on BB, I suspect these patients actually have a high probability of A fib, and thus the search should be on to find it. BB can reduce the probability of detection - I cannot find any papers that directly show this - but I have found this to be the case clinically over and over again. I also cannot reliably find reporting of BB use in A Fib large detection trials. There is some biologic plausability. Here is some “smoke” looking at the HR distributions with BB on-board, &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9996284/&quot;&gt;see this&lt;/a&gt;. The awesome point about this paper and other papers that are cited here are the fact that they show the complexity that we have with A Fib and how it is more than just atriopathy, but certainly involves HFpEF, chronic HTN, size and shape of the LAA, time in/out of A Fib, and even how medications used for HTN can modify intra-cardiac pressues to promote the development of A Fib - the cool-factor is that it is very intriguing and shows how no algebreic simple score can capture true risk of A Fib and risk of stroke from A Fib, as always, our models are approximations to what actually occures in nature. I am sure we will see more on this topic in the future! Given how complex A Fib is, it is not surprising its complexity cannot be captured via a simple algebreic sum of terms.&lt;/p&gt;

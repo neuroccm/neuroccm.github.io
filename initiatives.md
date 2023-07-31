@@ -4,14 +4,16 @@ title: Initiatives
 permalink: /initiatives/
 ---
 
-# Current Academic Projects/Activity
+# Quality Improvement Research and Academic Focus
 
 **Quality improvement in hyper-acute stroke care:** - seeking interested students and trainees in the below topics; if you are looking to collaborate or start an academic project please get in touch [houman {at} neurovascular.ca]. Current projects include:
 * **Crisis Resource Management and Simulation in Code Stroke, Collaboration between ED and Stroke Neurology - Co-leads: Dr. Khosravani (stroke) and Dr. Kester-Greene (ED)**
+    * we run 4 or more joint ED-Stroke Simulations per year, focusing on CRM, and improving the quality of care for hyperacute stroke care via simulation
+        * [Crisis Resource Management and High-Performing Teams in Hyperacute Stroke Care](https://dx.doi.org/10.1007/s12028-020-01057-4)
     * PGY 1s - Pre-residency start stroke simulation
         * 2021
         * 2022
-        * 2023
+        * 2023, NICE (Neurovascular Innovations CollaborativE), Drs. Khosravani and Hawkes
     * Joint ED (Dr. Kester-Greene) - Stroke (Dr. Khosravani) Simulations
         * Every 3-4 months, applying CRM in stroke care
 * **NICE, the Neurovascular Innovations CollaborativE (NICE), Drs. Hawkes and Khosravani**
@@ -19,31 +21,36 @@ permalink: /initiatives/
     * stroke education curriculum (CodeStroke website) and podcast:
     * [Stroke FM - Apple Podcasts](https://podcasts.apple.com/ca/podcast/stroke-fm/id1507174650)
     * [Stroke FM - Spotify](https://open.spotify.com/show/68E5WtnyWRHnLizKIKJDw8)
-* **QI for Computation - Machine learning as applied to quality improvement in stroke**
+* **AI4QI, Computational QI, Machine learning as applied to quality improvement in stroke**
     * 2023
         * Lab Members:
-            * Dr. A. Balachandar, Neurology, U of T, PGY4 Project
-            * R. Saab, U of T Med
-            * H. Mahdi, Western University, Med
-            * E. Nashnoush, U of T Data Science
+            * Dr. A. Balachandar, Neurology, U of T, PGY4 Project, AI4QI in Stroke
+            * Dr. B. Sivanandan, Neurology, U of T, PGY4 Project, Palliative Care in Stroke
+            * Dr. M. Mahendiran, U of T, Family Medicine (graduated), Palliative Care in Stroke
+            * Dr. E. Adegunna, Neurology, U of T, PGY2
+            * R. Saab, U of T Med, AI4QI in Stroke, Sunnybrook Research Institute
+            * H. Mahdi, Western University, Med, AI4QI in Stroke, Sunnybrook Research Institute
+            * E. Nashnoush, MSc, U of T Data Science, AI4QI in Stroke, Sunnybrook Research Institute, T-CAIREM
     * 2022
         * Lab Members:
             * Dr. A. Balachandar, Neurology, U of T
-            * R. Saab, U of T Med
-            * M. Panchal, U of T Med
-* **Palliative Care in Stroke**
-    * 2023
-        * Lab Members:
-            * Dr. B. Sivanandan, Neurology, U of T, PGY4 Project
-            * Dr. M. Mahendiran, U of T, Family Medicine (graduated)
-* **Enhanced Integration of Stroke and Thrombosis Training**
-    * [Stroke and Thrombosis](https://sites.google.com/strokeandthrombosis.org/theclotthickens/home/)
-    * Reference list and podcast
-    * ["The Clot Thickens"](https://pubmed.ncbi.nlm.nih.gov/34232455/)
+            * R. Saab, U of T Med, T-CAIREM
+            * M. Panchal, U of T Med, CREMS
+            
+* **Stroke and Thromobsis**
+    * We have a collaborative group on thrombosis, and we are full members of Thrombosis Canada.
+    * Enhanced integration of thrombosis fellowship into stroke training and vice-versa
+        * Dr. Stephanie Carlin (McMaster University) and Dr. Khosravani
+        * [Stroke and Thrombosis](https://sites.google.com/strokeandthrombosis.org/theclotthickens/home/)
+        * Reference list and podcast
+        * ["The Clot Thickens"](https://pubmed.ncbi.nlm.nih.gov/34232455/)
+    * Local and National Innitative on Thrombosis in Stroke
+        * Dr. Larry Robinson, Dr. Bill Geerts, and Dr. Khosravani, with a larger collaborative group.
 
-Additional areas of active interest:
-* Neurocritical care EEG - *status epileptius*, refractory SE, NORSE
-* Interface between computational solutions and medical challenges in caring for acute medically-ill and critically-ill patients. My specific interest, based on my PhD work, is time-series analysis and utilizing both linear and nonlinear tools to analyze physiologic signals for classifying and predicting disease processes.
+* **New Onset Refractory Status Epilepticus**
+    
+    * Neurocritical care EEG - *status epileptius*, refractory SE, NORSE
+    * Interface between computational solutions and medical challenges in caring for acute medically-ill and critically-ill patients. My specific interest, based on my PhD work, is time-series analysis and utilizing both linear and nonlinear tools to analyze physiologic signals for classifying and predicting disease processes.
 
 **[NQIL](https://sites.google.com/nqil.ca/nqil/?pli=1) the Neurology Quality and Innovation Lab**
 
