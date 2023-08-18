@@ -26,6 +26,8 @@ Please note: All content on this site, including links, topics, and posts, is in
 
 Get in touch if you are interested in collaborating on any of the above topics: machine learning, QI, human factors, and simulation in the realms of stroke/neurovascular or neurocritical care initiatives. We look forward to advancing stroke care together.
 
+<a rel="me" href="https://sigmoid.social/@neuroccm">neuroccm@sigmoid.social</a>
+
 <!-- <a href="https://sites.google.com/nqil.ca/nqil/">
     <img id="NQILTeam" src="NQIL_ver03.png" alt="logo for NQIL" style="width:50%; height:auto;">
 </a> -->
