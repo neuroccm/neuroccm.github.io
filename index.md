@@ -7,7 +7,7 @@ comments: FALSE
 
 </p>
 
-Welcome to the Stroke Innovations Lab/I4QI Lab in Stroke; Dr. Khosravani's lab site, as part of the Division of Neurology at the University of Toronto. Our lab's work is dedicated to Quality Improvement (QI) in acute stroke care. Our work focuses on several areas:
+Welcome to the Stroke Innovations Lab (SiLab)/AI4QI Lab in Stroke; Dr. Khosravani's lab site, as part of the Division of Neurology at the University of Toronto. Our lab's work is dedicated to Quality Improvement (QI) in acute stroke care. Our work focuses on several areas:
 
 * stroke resuscitation - our lab termed the work "stroke resuscitation", developed the protected code stroke protocol, defined the use of crisis resource management in stroke, and thus our focus is education and quality improvement during the code stroke process. We use CRM pricinples and have an active code stroke simulation program. This also includes our efforts within NICE (Neurovascular Innovations CollaborativE) as listed below.
 * AI4QI - machine learning for bolstering current standards of care. We are leveraging machine-learning to enhance QI within acute stroke care in the inpatient setting.
@@ -21,16 +21,17 @@ Dr. Khosravani also hosts the Stroke FM Podcast, the official podcast of the Can
 * Our lab's portion of focus is the medical/neurocritical care efforts within NICE, while Dr. Hawkes helms the neurovascular and catheter-based aspects of hyperacute care and techniques.
 
 **Artificial Intelligence 4 Quality Improvement (AI4QI) and the Neurology Quality and Innovations Lab (NQIL)**
-* We are also exploring the intersection of machine learning and quality improvement, utilizing voice-based technologies to refine our methods.
-* Our pursuit of excellence extends to the cutting-edge field of machine learning. Collaborating with T-CAIREM and SHSC, we are leveraging bedside physiologic recordings to improve the quality of acute stroke care.
+* We are also exploring the intersection of machine learning and quality improvement, utilizing voice-based technologies to refine our methods. We have expertise in deep-learning and processing of audio signals.
+* Our pursuit of excellence extends to the cutting-edge field of machine learning. With support from T-CAIREM and SHSC, we are leveraging bedside physiologic recordings to improve the quality of acute stroke care.
 * We are proud to have founded several initiatives, including the Neurology Quality and Innovations Lab (NQIL), in collaboration with Drs. Sara Mitchell and Charles Kassardjian.
 
 **Routine Integration of Palliative Care in Stroke**
 * Despite significant advancements in stroke care, a considerable number of patients still grapple with substantial morbidity and mortality. Recognizing this, we advocate for the routine integration of palliative care into stroke treatment. Compassionate and effective care forms the bedrock of the philosophy we advocate for in terms of expanding the confluence of palliative medicine and stroke care.
 
-Please note: All content on this site, including links, topics, and posts, is intended solely for educational purposes. This site does not constitute medical advice or consultation and does not establish a duty of care. Opinions expressed here are personal and do not reflect or replace expert advice from any institution, workplace, or organization.
+Interested in working in or with our lab, get in touch:
+[Get in touch](https://docs.google.com/forms/d/e/1FAIpQLSf9cr_X83Y9LKizY-xQ5ipav-r99H8RRPf_8c4Xh9E5XnIJkQ/viewform?usp=sf_link) or send an email, if you are interested in collaborating on any of the above topics: machine learning, QI, human factors, and simulation in the realms of stroke/neurovascular or neurocritical care initiatives. We look forward to advancing stroke care together.
 
-Get in touch if you are interested in collaborating on any of the above topics: machine learning, QI, human factors, and simulation in the realms of stroke/neurovascular or neurocritical care initiatives. We look forward to advancing stroke care together.
+Please note: All content on this site, including the blog, links, topics, and posts, is intended solely for educational purposes. This site does not constitute medical advice or consultation and does not establish a duty of care or any medical care/information/advice/or other obligations. Opinions expressed here are personal and do not reflect or replace expert advice from any institution, workplace, or organization. By using the site you agree to this.
 
 <a rel="me" href="https://sigmoid.social/@neuroccm">neuroccm@sigmoid.social</a>
 
