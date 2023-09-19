@@ -7,7 +7,7 @@
 
 # Site settings
 title: SiLab
-email: houman@neurovascular.ca
+email: houman[at]]neurovascular[dot]ca
 description: > # this means to ignore newlines until "baseurl:"
   Stroke Innovation Lab is the lab website of Dr. Khosravani, highlighting our initiatives, projects, and blog site related to stroke and critical care/neurocritical care.
 baseurl: "" # the subpath of your site, e.g. /blog

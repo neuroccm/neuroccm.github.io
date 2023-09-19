@@ -16,7 +16,7 @@ permalink: /initiatives/
         * 2023, NICE (Neurovascular Innovations CollaborativE), Drs. Khosravani and Hawkes
     * Joint ED (Dr. Kester-Greene) - Stroke (Dr. Khosravani) Simulations
         * Every 3-4 months, applying CRM in stroke care
-* **NICE, the Neurovascular Innovations CollaborativE (NICE), Drs. Hawkes and Khosravani**
+* **NICE, the Neurovascular Innovations CollaborativE (NICE), Dr. Khosravani and Dr. Hawkes (co-founders)**
 * **StrokeFM Podcast - Official CSC (Canadian Stroke Consortium) Podcast**
     * stroke education curriculum (CodeStroke website) and podcast:
     * [Stroke FM - Apple Podcasts](https://podcasts.apple.com/ca/podcast/stroke-fm/id1507174650)
