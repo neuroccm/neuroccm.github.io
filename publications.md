@@ -4,9 +4,13 @@ title: Publications
 permalink: /publications/
 ---
 
+The links below are updated automatically.
+
 The following are select publications reflecting my areas of interest and previous work. For a full listing please see the following (database) links:
 
 * [Google Scholar Profile](https://scholar.google.com/citations?user=qzhk98YAAAAJ&hl=en)
+
+* [Recent publications - PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=khosravani+h&sort=pubdate)
 
 * [PubMed.com][HKPubmed] – Medicine, Physiology, Neurobiology (Stroke, Epilepsy, Neurocritical care)
 
@@ -15,7 +19,7 @@ The following are select publications reflecting my areas of interest and previo
 ---
 <p></p>
 
-[** Recent publications - PubMed **](https://pubmed.ncbi.nlm.nih.gov/?term=khosravani+h&sort=pubdate)
+This page was last updated June 2023, for updated publications see above links.
 
 1. [Effect of Time to Thrombolysis on Clinical Outcomes in Patients with Acute Ischemic Stroke Treated with Tenecteplase Compared to Alteplase: Analysis from the AcT Randomized Controlled Trial](https://dx.doi.org/10.1101/2023.05.17.23290141) - Published on May 19, 2023.
 
