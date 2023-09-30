@@ -21,16 +21,16 @@ permalink: /initiatives/
     * stroke education curriculum (CodeStroke website) and podcast:
     * [Stroke FM - Apple Podcasts](https://podcasts.apple.com/ca/podcast/stroke-fm/id1507174650)
     * [Stroke FM - Spotify](https://open.spotify.com/show/68E5WtnyWRHnLizKIKJDw8)
-* **AI4QI, Computational QI, Machine learning as applied to quality improvement in stroke**
+* **ML4QI, Computational QI, Machine learning as applied to quality improvement in stroke**
     * 2023
         * Lab Members:
-            * Dr. A. Balachandar, Neurology, U of T, PGY4 Project, AI4QI in Stroke
+            * Dr. A. Balachandar, Neurology, U of T, PGY4 Project, ML4QI in Stroke
             * Dr. B. Sivanandan, Neurology, U of T, PGY4 Project, Palliative Care in Stroke
             * Dr. M. Mahendiran, U of T, Family Medicine (graduated), Palliative Care in Stroke
             * Dr. E. Adegunna, Neurology, U of T, PGY2
-            * R. Saab, U of T Med, AI4QI in Stroke, Sunnybrook Research Institute
-            * H. Mahdi, Western University, Med, AI4QI in Stroke, Sunnybrook Research Institute
-            * E. Nashnoush, MSc, U of T Data Science, AI4QI in Stroke, Sunnybrook Research Institute, T-CAIREM
+            * R. Saab, U of T Med, ML4QI in Stroke, Sunnybrook Research Institute
+            * H. Mahdi, Western University, Med, ML4QI in Stroke, Sunnybrook Research Institute
+            * E. Nashnoush, MSc, U of T Data Science, ML4QI in Stroke, Sunnybrook Research Institute, T-CAIREM
     * 2022
         * Lab Members:
             * Dr. A. Balachandar, Neurology, U of T
