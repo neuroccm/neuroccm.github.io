@@ -80,7 +80,7 @@ The following projects were aimed at quality improvement and education.
 
 **Medical Education – [torontocriticalcare.org](http://www.torontocriticalcare.org/) - Sr Resident and Fellow education in the intensive care unit at University of Toronto**
 
-Based on positive reception and uptake by users at Western and the increasing utilization of mobile devices for content consumption in medical education (and life in general!), we developed the Educational portal for the Interdepartmental Division of Critical Care at the University of Toronto. This website is being used for ICU Sr residents and clinical fellows for educational use and organization by the program.
+Based on positive reception and uptake by users at Western and the increasing utilization of mobile devices for content consumption in medical education (and life in general!), we developed the Educational portal for the Interdepartmental Division of Critical Care at the University of Toronto. This website is being used by ICU Sr residents and clinical fellows for educational use and organization of the program.
 
 **Extubation Pathway – [extubate](http://extubate.ecriticalcare.org/)**
 
@@ -93,4 +93,4 @@ The ICU rotation for junior and off-service residents can be challenging in many
 We developed ICU Boot Camp as a course and mobile-platform using Google Classroom for students so that they can start their rotation ready to start taking care of critically-ill patients.
 * this site is now retired - [ccw.ecriticalcare.org](http://ccw.ecriticalcare.org/)
 * Western University Critical Care Extubation Protocol [extubate](http://extubate.ecriticalcare.org/)
-* ICU BootCamp Videos, these can now by found on [silab.ca](https://sites.google.com/ncrit.org/silab/), see CRM tab
+* ICU BootCamp Videos, these can now be found on [silab.ca](https://sites.google.com/ncrit.org/silab/), see CRM tab
