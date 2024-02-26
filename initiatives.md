@@ -22,19 +22,33 @@ permalink: /initiatives/
     * [Stroke FM - Apple Podcasts](https://podcasts.apple.com/ca/podcast/stroke-fm/id1507174650)
     * [Stroke FM - Spotify](https://open.spotify.com/show/68E5WtnyWRHnLizKIKJDw8)
 * **ML4QI, Computational QI, Machine learning as applied to quality improvement in stroke**
-    * 2023
+    * 2024-2025 (academic years)
         * Lab Members:
-            * Dr. A. Balachandar, Neurology, U of T, PGY4 Project, ML4QI in Stroke
-            * Dr. B. Sivanandan, Neurology, U of T, PGY4 Project, Palliative Care in Stroke
-            * Dr. M. Mahendiran, U of T, Family Medicine (graduated), Palliative Care in Stroke
-            * Dr. E. Adegunna, Neurology, U of T, PGY2
+            * Rishit Dagli, Computer Science, U of T, T-CAIREM (2024 student award)
+            * Dr. A. Balachandar, Neurology, U of T, PGY5/Fellow(pursuing PhD in movement disorders and DBS) Project, ML4QI in Stroke
             * R. Saab, U of T Med, ML4QI in Stroke, Sunnybrook Research Institute
+            * E. Nashnoush, MSc, U of T Data Science, ML4QI in Stroke, Sunnybrook Research Institute, T-CAIREM, HealthQuality
+            * H. Mahdi, Western University, Med, ML4QI in Stroke
+            * Dr. E. Adegunna, Neurology, U of T, PGY2/3
+            * Dr. B. Tilley, Neurology, U of T, PGY1/2
+            * Diya Ahmed, U of T Medicine
+
+    * 2023-2024
+        * Lab Members:
+            * Dr. A. Balachandar, Neurology, U of T, PGY4/5 Project, ML4QI in Stroke
+            * R. Saab, U of T Med, ML4QI in Stroke, Sunnybrook Research Institute
+            * E. Nashnoush, MSc, U of T Data Science, ML4QI in Stroke, Sunnybrook Research Institute, T-CAIREM (2023 student award)
             * H. Mahdi, Western University, Med, ML4QI in Stroke, Sunnybrook Research Institute
-            * E. Nashnoush, MSc, U of T Data Science, ML4QI in Stroke, Sunnybrook Research Institute, T-CAIREM
-    * 2022
+            * Dr. B. Sivanandan, Neurology, U of T, PGY4/5 Project, Palliative Care in Stroke
+            * Dr. M. Mahendiran, U of T, Family Medicine (graduated), Palliative Care research, Hospital Medicine Fellow (Orange Team)
+            * Dr. E. Adegunna, Neurology, U of T, PGY2
+            * Dr. B. Tilley, Neurology, U of T, PGY1
+            * Diya Ahmed, U of T Medicine
+
+    * 2022-2023
         * Lab Members:
             * Dr. A. Balachandar, Neurology, U of T
-            * R. Saab, U of T Med, T-CAIREM
+            * R. Saab, U of T Med, T-CAIREM (2022 student award)
             * M. Panchal, U of T Med, CREMS
             
 * **Stroke and Thromobsis**
