@@ -14,7 +14,43 @@ comments: FALSE
 
 **Deep Learning and Voice Analysis: New Frontiers in Stroke Diagnosis Insights from the Stroke Innovation Lab**
 
-**Manuscript accepted at [CHIL 2024](https://chilconference.org/)**
+Our first paper, work led by: Rami Saab and Arjun Balachandar
+
+Stroke is a leading cause of mortality and can result in long-term functional changes. A frequent and serious complication of stroke is dysphagia, or swallowing dysfunction, which occurs in around 55% of stroke patients. Dysphagia increases the risk of aspiration pneumonia, which can be fatal. Thus, screening for swallowing issues is a critical part of stroke patient care. Current screening methods have limitations, such as subjectivity and resource requirements, so there is a need for more efficient and objective tools.
+
+A new study published in *Frontiers in Neuroscience* explores using **machine learning to screen for post-stroke dysphagia** using vocal samples. This innovative approach uses deep learning to analyze voice changes, a key indicator of dysphagia.
+
+Here's a breakdown of how the study was conducted and its key findings:
+
+*   **Data Collection**: Researchers recorded the speech of 68 patients who had experienced a stroke, including sustained vowel sounds and speech samples from the National Institutes of Health Stroke Scale (NIHSS). The NIHSS is a validated tool for assessing neurological deficits in stroke patients.
+*   **Audio Processing**: The audio was segmented into 0.5-second clips and transformed into Mel-spectrogram images, which represent sound frequencies over time, and are designed to mimic the human ear's perception of sound.
+*   **Deep Learning Models**: The team used convolutional neural networks (CNNs) including DenseNet and ConvNext, which are effective for image-based classification tasks. They used transfer learning, which means the models were pre-trained on large image datasets and then fine-tuned to classify the audio-based spectrogram images. An ensemble approach was used to combine the results of both models.
+*   **Outcomes**: The models were trained to classify patients as either "pass" or "fail" based on the Toronto Bedside Swallowing Screening Test (TOR-BSST©).
+    *   At the audio clip level, the ensemble model achieved a **sensitivity of 71% and specificity of 77%**.
+    *   At the participant level, the ensemble model achieved a **sensitivity of 89% and a specificity of 79%**.
+*   **Key Findings:** The study showed that deep learning can classify vocalizations to detect post-stroke dysphagia. The use of both vowel sounds and the speech components of the NIHSS improved classification performance.
+
+**Why This Matters**
+
+This study is the first to show the feasibility of using deep learning to classify vocalizations for post-stroke dysphagia detection. This technology could improve dysphagia screening in several ways:
+
+*   **Reduced Subjectivity:** Machine learning can provide a more objective assessment compared to traditional methods.
+*   **Improved Access:** This technology could allow for screening in settings with limited access to specialists, such as speech language pathologists (SLPs).
+*   **Remote Screening**: The use of voice analysis opens up the possibility of telehealth applications, which are especially relevant for remote patient care.
+
+**Limitations and Future Directions**
+
+The authors note some limitations to the study including the small dataset size, which could limit the generalizability of the models. However, the data was collected in a real-world clinical setting, which enhances its applicability to other centers. The code developed for the project is also open source, which will facilitate wider use. Future work will involve using larger and more diverse datasets and also exploring automated methods for segmenting the audio data.
+
+**Conclusion**
+
+This research demonstrates that machine learning, using deep learning models, offers a promising avenue for the development of non-invasive, objective, and rapid tools for post-stroke dysphagia screening. This technology has the potential to improve patient care and increase the availability of dysphagia screening.
+
+This blog post summarizes the key points of the research using information from the sources you provided, highlighting the importance and potential impact of this work in an accessible manner.
+
+[Machine-learning assisted swallowing assessment: a deep learning-based quality improvement tool to screen for post-stroke dysphagia](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1302132/full)
+
+**CHIL 2024 ACCEPTED PAPER**
 
 Post By: Eptehal Nashnoush, Hamza Mahdi, Rishit Dagli, Houman Khosravani
 
@@ -39,6 +75,8 @@ The ConvNeXt and DenseNet models outperformed other models like ViT and SWIN Tra
 The research from the Stroke Innovation Lab not only demonstrates the effectiveness of CNN architectures in clinical audio classification but also opens up new avenues for using voice as a diagnostic tool across a range of medical conditions. Our findings represent a step towards more non-invasive, efficient, and accessible diagnostic methods, offering hope for both patients and healthcare professionals.
 
 [Read the full arXiv paper](https://arxiv.org/abs/2402.10100).
+
+**Manuscript accepted at [CHIL 2024](https://chilconference.org/)**
 
 *Next Steps*
 The Stroke Innovation Lab is committed to further exploring the potential of audio classification in clinical settings. Our goal is to deepen our understanding of diseases and improve diagnostic accuracy through ongoing innovation in deep learning. We believe that voice analysis can play a crucial role in the future of healthcare diagnostics.

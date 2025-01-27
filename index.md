@@ -9,9 +9,13 @@ comments: FALSE
 
 **About**
 
-Welcome to **Stroke Innovations-Machine Learning for Quality Improvement (ML4QI) Lab**. We focus on the discipline of clinical neurology with a focus on neurovascular care. Our Quality Improvement (QI) lab for stroke care leverages machine learning as applied to datasets and time-series data in stroke care. Lab PI: Dr. Houman Khosravani, Division of Neurology at the University of Toronto. Our lab's QI foci are the following:
+Welcome to the **Stroke Innovation Lab (#AI4QI) (#ML4QI)**. We focus on the discipline of clinical neurology with a focus on neurovascular care. Our Quality Improvement (QI) lab for stroke care leverages machine learning as applied to datasets and time-series data in stroke care.
 
-* **Stroke Resuscitation** - our lab termed the work "stroke resuscitation", developed the protected code stroke protocol, defined the use of crisis resource management in stroke, and thus our focus is education and quality improvement during the code stroke process. We use CRM principles and have an active code stroke simulation program. This also includes our efforts within NICE (Neurovascular Innovations CollaborativE) as listed below.
+Lab PI: Dr. Houman Khosravani, Division of Neurology at the University of Toronto.
+
+Our lab's QI foci are the following:
+
+* **Stroke Resuscitation and Simulation** - our lab termed the work "stroke resuscitation", developed the protected code stroke protocol, defined the use of crisis resource management in stroke, and thus our focus is education and quality improvement during the code stroke process. We use CRM principles and have an active code stroke simulation program. This also includes our efforts within NICE (Neurovascular Innovations CollaborativE) as listed below.
 * **AI4QI - ML4QI** - machine learning for bolstering current standards of care. We are leveraging machine-learning to enhance QI within acute stroke care in the inpatient setting. Our current work is focused on using voice as a biomarker - we call this Sonic Diagnosis.
 * **Palliative Care in Acute Stroke** - we are passionate about providing maximal effective care and that includes integration of palliative care within stroke treatment; our lab works on the development of protocols for routine integration of palliative care as we define the scope of palliative medicine in acute stroke care.
 

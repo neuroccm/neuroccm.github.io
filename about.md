@@ -6,9 +6,9 @@ permalink: /about/
 
 # About the site #
 
-neuroccm.org [ncrit.org] is a resource site, blog site, and research laboratory site of Dr. Houman Khosravani. The aim of neuroccm.org is to enhance discussion around topics related to stroke, neurointesive care, and critical care. Associated topics within neurology include status epilepticus.
+neuroccm.org [ncrit.org] is a resource site, blog site, and QI research laboratory site of Dr. Houman Khosravani. The aim of neuroccm.org is to enhance discussion around topics related to stroke, neurointesive care, and critical care. Associated topics within neurology include status epilepticus.
 
-I have an interest in medical education. In the ICU setting, I have developed the on-line educational portal for Western University (formerly ecriticalcare.org - now achieved) and most recently for University of Toronto's Critical Care program.
+I have an interest in medical education. In the Stroke and (Neuro)ICU setting, I have developed the on-line educational portal for Western University (formerly ecriticalcare.org - now achieved) and most recently for University of Toronto's Critical Care program.
 
 * Checkout the web-portal: [torontocriticalcare.org](http://www.torontocriticalcare.org/)
 * checkout the web-portal: [ccw.ecriticalcare.org](http://ccw.ecriticalcare.org/)

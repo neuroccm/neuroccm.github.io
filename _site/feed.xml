@@ -6,8 +6,8 @@
 </description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Jan 2025 18:05:49 -0600</pubDate>
-    <lastBuildDate>Sun, 26 Jan 2025 18:05:49 -0600</lastBuildDate>
+    <pubDate>Sun, 26 Jan 2025 22:08:29 -0600</pubDate>
+    <lastBuildDate>Sun, 26 Jan 2025 22:08:29 -0600</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -15,6 +15,8 @@
         <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;See-2-Sound: How Spatial Audio has potential for clincial applications&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Work led by: Rishit Dagli, CS, University of Toronto&lt;/p&gt;
 
 &lt;p&gt;The world of generative AI is constantly expanding, with models now capable of creating high-resolution content across multiple modalities, including images, text, speech, and video. However, one area that has lagged behind is the generation of high-quality spatial audio that complements these visuals. This is where SEE-2-SOUND comes in, a novel approach that generates spatial audio from images, animated images, and videos.&lt;/p&gt;
 
@@ -98,7 +100,9 @@
 
 &lt;p&gt;&lt;strong&gt;Tuning In: How Audio Analysis is Revolutionizing Clinical Diagnostics&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Post By: (NotebookLM, summarized) work by team MASA:&lt;/p&gt;
+&lt;p&gt;Main contributors: Hamza Mahdi * , Eptehal Nashnoush * , Rishit Dagli (*Authors contributed equally)&lt;/p&gt;
+
+&lt;p&gt;Post By: (NotebookLM, summarized) work by team MASA&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2402.10100&quot;&gt;Read the full arXiv paper&lt;/a&gt;.&lt;/p&gt;
 
@@ -212,7 +216,50 @@ Admission from another acute care hospital and lower Glasgow Coma Scale scores (
 
 &lt;p&gt;&lt;strong&gt;Deep Learning and Voice Analysis: New Frontiers in Stroke Diagnosis Insights from the Stroke Innovation Lab&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Manuscript accepted at &lt;a href=&quot;https://chilconference.org/&quot;&gt;CHIL 2024&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Our first paper, work led by: Rami Saab and Arjun Balachandar&lt;/p&gt;
+
+&lt;p&gt;Stroke is a leading cause of mortality and can result in long-term functional changes. A frequent and serious complication of stroke is dysphagia, or swallowing dysfunction, which occurs in around 55% of stroke patients. Dysphagia increases the risk of aspiration pneumonia, which can be fatal. Thus, screening for swallowing issues is a critical part of stroke patient care. Current screening methods have limitations, such as subjectivity and resource requirements, so there is a need for more efficient and objective tools.&lt;/p&gt;
+
+&lt;p&gt;A new study published in &lt;em&gt;Frontiers in Neuroscience&lt;/em&gt; explores using &lt;strong&gt;machine learning to screen for post-stroke dysphagia&lt;/strong&gt; using vocal samples. This innovative approach uses deep learning to analyze voice changes, a key indicator of dysphagia.&lt;/p&gt;
+
+&lt;p&gt;Here’s a breakdown of how the study was conducted and its key findings:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Data Collection&lt;/strong&gt;: Researchers recorded the speech of 68 patients who had experienced a stroke, including sustained vowel sounds and speech samples from the National Institutes of Health Stroke Scale (NIHSS). The NIHSS is a validated tool for assessing neurological deficits in stroke patients.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio Processing&lt;/strong&gt;: The audio was segmented into 0.5-second clips and transformed into Mel-spectrogram images, which represent sound frequencies over time, and are designed to mimic the human ear’s perception of sound.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Deep Learning Models&lt;/strong&gt;: The team used convolutional neural networks (CNNs) including DenseNet and ConvNext, which are effective for image-based classification tasks. They used transfer learning, which means the models were pre-trained on large image datasets and then fine-tuned to classify the audio-based spectrogram images. An ensemble approach was used to combine the results of both models.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Outcomes&lt;/strong&gt;: The models were trained to classify patients as either “pass” or “fail” based on the Toronto Bedside Swallowing Screening Test (TOR-BSST©).
+    &lt;ul&gt;
+      &lt;li&gt;At the audio clip level, the ensemble model achieved a &lt;strong&gt;sensitivity of 71% and specificity of 77%&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;At the participant level, the ensemble model achieved a &lt;strong&gt;sensitivity of 89% and a specificity of 79%&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Key Findings:&lt;/strong&gt; The study showed that deep learning can classify vocalizations to detect post-stroke dysphagia. The use of both vowel sounds and the speech components of the NIHSS improved classification performance.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Why This Matters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This study is the first to show the feasibility of using deep learning to classify vocalizations for post-stroke dysphagia detection. This technology could improve dysphagia screening in several ways:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Reduced Subjectivity:&lt;/strong&gt; Machine learning can provide a more objective assessment compared to traditional methods.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Improved Access:&lt;/strong&gt; This technology could allow for screening in settings with limited access to specialists, such as speech language pathologists (SLPs).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Remote Screening&lt;/strong&gt;: The use of voice analysis opens up the possibility of telehealth applications, which are especially relevant for remote patient care.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Limitations and Future Directions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The authors note some limitations to the study including the small dataset size, which could limit the generalizability of the models. However, the data was collected in a real-world clinical setting, which enhances its applicability to other centers. The code developed for the project is also open source, which will facilitate wider use. Future work will involve using larger and more diverse datasets and also exploring automated methods for segmenting the audio data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This research demonstrates that machine learning, using deep learning models, offers a promising avenue for the development of non-invasive, objective, and rapid tools for post-stroke dysphagia screening. This technology has the potential to improve patient care and increase the availability of dysphagia screening.&lt;/p&gt;
+
+&lt;p&gt;This blog post summarizes the key points of the research using information from the sources you provided, highlighting the importance and potential impact of this work in an accessible manner.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1302132/full&quot;&gt;Machine-learning assisted swallowing assessment: a deep learning-based quality improvement tool to screen for post-stroke dysphagia&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CHIL 2024 ACCEPTED PAPER&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Post By: Eptehal Nashnoush, Hamza Mahdi, Rishit Dagli, Houman Khosravani&lt;/p&gt;
 
@@ -237,6 +284,8 @@ We explored several spectrogram preprocessing techniques, including Mel RGB, Mel
 The research from the Stroke Innovation Lab not only demonstrates the effectiveness of CNN architectures in clinical audio classification but also opens up new avenues for using voice as a diagnostic tool across a range of medical conditions. Our findings represent a step towards more non-invasive, efficient, and accessible diagnostic methods, offering hope for both patients and healthcare professionals.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/2402.10100&quot;&gt;Read the full arXiv paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Manuscript accepted at &lt;a href=&quot;https://chilconference.org/&quot;&gt;CHIL 2024&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Next Steps&lt;/em&gt;
 The Stroke Innovation Lab is committed to further exploring the potential of audio classification in clinical settings. Our goal is to deepen our understanding of diseases and improve diagnostic accuracy through ongoing innovation in deep learning. We believe that voice analysis can play a crucial role in the future of healthcare diagnostics.&lt;/p&gt;
@@ -289,7 +338,7 @@ I am sure someone will go ahead and refute or prove this in a trial or looking b
         <description>&lt;p&gt;&lt;a href=&quot;/posts/index.html&quot;&gt;Back to posts…&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Computing!
-Oh my how things have changed over the past few momnths.
+Oh my how things have changed over the past few months.
 ChatGPT, GPT4 model, and the continuous improvements with VSCode, and implementation of GPT4 as co-pilot (limited to code).
 Overall these have been very positive developments.
 Also, as a lab colleague showed me - Docker! Game changer - what an excellent concept to virtualize key components of dependencies in containers and be able to run them fast and efficiently, at fairly low-level, without the usual drag of virtualization.&lt;/p&gt;
