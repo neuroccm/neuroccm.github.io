@@ -11,11 +11,15 @@ permalink: /initiatives/
     * we run 4 or more joint ED-Stroke Simulations per year, focusing on CRM, and improving the quality of care for hyperacute stroke care via simulation
         * [Crisis Resource Management and High-Performing Teams in Hyperacute Stroke Care](https://dx.doi.org/10.1007/s12028-020-01057-4)
     * PGY 1s - Pre-residency start stroke simulation
-        * 2021
-        * 2022
-        * 2023, NICE (Neurovascular Innovations CollaborativE), Drs. Khosravani and Hawkes
-    * Joint ED (Dr. Kester-Greene) - Stroke (Dr. Khosravani) Simulations
-        * Every 3-4 months, applying CRM in stroke care
+        * 2021 Stroke Bootcamp
+        * 2022 Stroke Bootcamp
+        * 2023 Neurology and Stroke Bootcamp
+        * 2024 Neurology and Stroke Bootcamp
+    * 2023, NICE (Neurovascular Innovations CollaborativE), Drs. Khosravani and Hawkes
+    * April 2024 - Stroke Resuscitation Course Toronto "SRC T.O."
+    * January 2025 - Stroke Resuscitation Course Toronto "SRC T.O. FU" (follow-up)
+    * Joint ED (Dr. Gerhard Dashi, Dr. Kester-Greene) - Stroke (Dr. Khosravani) Simulations
+        * Every 3-4 months, applying CRM in stroke care in the ED
 * **NICE, the Neurovascular Innovations CollaborativE (NICE), Dr. Khosravani and Dr. Hawkes (co-founders)**
 * **StrokeFM Podcast - Official CSC (Canadian Stroke Consortium) Podcast**
     * stroke education curriculum (CodeStroke website) and podcast:
@@ -25,13 +29,15 @@ permalink: /initiatives/
     * 2024-2025 (academic years)
         * Lab Members:
             * Rishit Dagli, Computer Science, U of T, T-CAIREM (2024 student award)
-            * Dr. A. Balachandar, Neurology, U of T, PGY5/Fellow(pursuing PhD in movement disorders and DBS) Project, ML4QI in Stroke
+            * Dr. E. Adegunna, Neurology, U of T, PGY3
+            * Dr. B. Tilley, Neurology, U of T, PGY2
+            * Diya Ahmed, U of T Medicine
+            * Georges Khalaf, U uf T Medicine, CREMS 2024 student
+            * Dr. A. Balachandar, Neurology, U of T, completed adult Neurology FRCPC, now Movement Disorders fellow (PhD in movement disorders and DBS) Project, ML4QI in Stroke
             * R. Saab, U of T Med, ML4QI in Stroke, Sunnybrook Research Institute
             * E. Nashnoush, MSc, U of T Data Science, ML4QI in Stroke, Sunnybrook Research Institute, T-CAIREM, HealthQuality
             * H. Mahdi, Western University, Med, ML4QI in Stroke
-            * Dr. E. Adegunna, Neurology, U of T, PGY2/3
-            * Dr. B. Tilley, Neurology, U of T, PGY1/2
-            * Diya Ahmed, U of T Medicine
+            
 
     * 2023-2024
         * Lab Members:

@@ -8,44 +8,42 @@ The links below are updated automatically.
 
 The following are select publications reflecting my areas of interest and previous work. For a full listing please see the following (database) links:
 
-* [Google Scholar Profile](https://scholar.google.com/citations?user=qzhk98YAAAAJ&hl=en)
+* [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=qzhk98YAAAAJ&view_op=list_works&sortby=pubdate)
 
 * [Recent publications - PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=khosravani+h&sort=pubdate)
-
-* [PubMed.com][HKPubmed] – Medicine, Physiology, Neurobiology (Stroke, Epilepsy, Neurocritical care)
 
 * [SAO/NASA Astrophysics Data System (ADS)][HKADS] – Astrophysics and Computation
 
 ---
 <p></p>
 
-This page was last updated June 2023, for updated publications see above links.
+Below listing is not up-to-date: this page was last updated June 2023, for updated publications see above links.
 
-1. [Effect of Time to Thrombolysis on Clinical Outcomes in Patients with Acute Ischemic Stroke Treated with Tenecteplase Compared to Alteplase: Analysis from the AcT Randomized Controlled Trial](https://dx.doi.org/10.1101/2023.05.17.23290141) - Published on May 19, 2023.
+* [Effect of Time to Thrombolysis on Clinical Outcomes in Patients with Acute Ischemic Stroke Treated with Tenecteplase Compared to Alteplase: Analysis from the AcT Randomized Controlled Trial](https://dx.doi.org/10.1101/2023.05.17.23290141) - Published on May 19, 2023.
 
-2. [Early identification of NORSE and transfer to care setting with appropriate supports: A proposed algorithm](https://dx.doi.org/10.3389/fneur.2023.1072020) - Published on April 11, 2023.
+* [Early identification of NORSE and transfer to care setting with appropriate supports: A proposed algorithm](https://dx.doi.org/10.3389/fneur.2023.1072020) - Published on April 11, 2023.
 
-3. [AcT Trial: Protocol for a Pragmatic Registry-Linked Randomized Clinical Trial](https://dx.doi.org/10.1161/svin.122.000447) - Published on September 1, 2022.
+* [AcT Trial: Protocol for a Pragmatic Registry-Linked Randomized Clinical Trial](https://dx.doi.org/10.1161/svin.122.000447) - Published on September 1, 2022.
 
-4. [Alteplase Compared to Tenecteplase in patients with Acute Ischemic Stroke (AcT) Trial: Protocol for a Pragmatic Registry linked Randomized Clinical Trial](https://dx.doi.org/10.1161/svin.121.000447) - Published on May 6, 2022.
+* [Alteplase Compared to Tenecteplase in patients with Acute Ischemic Stroke (AcT) Trial: Protocol for a Pragmatic Registry linked Randomized Clinical Trial](https://dx.doi.org/10.1161/svin.121.000447) - Published on May 6, 2022.
 
-5. [Team debriefs during the COVID-19 pandemic in long-term care homes](https://dx.doi.org/10.46747/cfp.6712908) - Published on December 1, 2021.
+* [Team debriefs during the COVID-19 pandemic in long-term care homes](https://dx.doi.org/10.46747/cfp.6712908) - Published on December 1, 2021.
 
-6. [Frequency selective neuronal modulation triggers spreading depolarizations in the rat endothelin-1 model of stroke](https://dx.doi.org/10.1177/0271678X211013656) - Published on May 9, 2021.
+* [Frequency selective neuronal modulation triggers spreading depolarizations in the rat endothelin-1 model of stroke](https://dx.doi.org/10.1177/0271678X211013656) - Published on May 9, 2021.
 
-7. [Integrating New Staff into Endovascular Stroke-Treatment Workflows in the COVID-19 Pandemic](https://dx.doi.org/10.3174/ajnr.A6854) - Published on October 8, 2020.
+* [Integrating New Staff into Endovascular Stroke-Treatment Workflows in the COVID-19 Pandemic](https://dx.doi.org/10.3174/ajnr.A6854) - Published on October 8, 2020.
 
-8. [Crisis Resource Management and High-Performing Teams in Hyperacute Stroke Care](https://dx.doi.org/10.1007/s12028-020-01057-4) - Published on August 13, 2020.
+* [Crisis Resource Management and High-Performing Teams in Hyperacute Stroke Care](https://dx.doi.org/10.1007/s12028-020-01057-4) - Published on August 13, 2020.
 
-9. [The Dysfunction is in the Details: Neurovascular Changes in COVID-19](https://dx.doi.org/10.1017/cjn.2020.150) - Published on July 15, 2020.
+* [The Dysfunction is in the Details: Neurovascular Changes in COVID-19](https://dx.doi.org/10.1017/cjn.2020.150) - Published on July 15, 2020.
 
-10. [Pandemic Guidance for Stroke Centers Aiding COVID-19 Treatment Teams](https://dx.doi.org/10.1161/STROKEAHA.120.030749) - Published on June 23, 2020.
+* [Pandemic Guidance for Stroke Centers Aiding COVID-19 Treatment Teams](https://dx.doi.org/10.1161/STROKEAHA.120.030749) - Published on June 23, 2020.
 
-11. [Modification to Neurology Residency Training: The Toronto Neurology COVID-19 Pandemic Experience](https://dx.doi.org/10.1212/cpj.0000000000000894) - Published on June 19, 2020.
+* [Modification to Neurology Residency Training: The Toronto Neurology COVID-19 Pandemic Experience](https://dx.doi.org/10.1212/cpj.0000000000000894) - Published on June 19, 2020.
 
-12. [The Virtual Neurologic Exam: Instructional Videos and Guidance for the COVID-19 Era](https://dx.doi.org/10.1017/cjn.2020.96) - Published on May 21, 2020.
+* [The Virtual Neurologic Exam: Instructional Videos and Guidance for the COVID-19 Era](https://dx.doi.org/10.1017/cjn.2020.96) - Published on May 21, 2020.
 
-13. [Protected Code Stroke](https://dx.doi.org/10.1161/STROKEAHA.120.029838) - Published on April 1, 2020.
+* [Protected Code Stroke](https://dx.doi.org/10.1161/STROKEAHA.120.029838) - Published on April 1, 2020.
 
 * The following are a series of highlighted previous publications (with their titles, see above PubMed link for details)
 
@@ -69,7 +67,6 @@ This page was last updated June 2023, for updated publications see above links.
             * commentary: Prions show their good side
             * commentary: All quiet on the neuronal front – NMDA receptor inhibition by prion protein
             * Cellular prion protein null mice display normal AMPA receptor mediated long term depression
-
 
 * Critical Care Medicine
     * Occurrence and adverse effect on outcome of hyperlactatemia in the critically ill, designated highly accessed on Critical Care; commentary: The Riddle of Hyperlactatemia
