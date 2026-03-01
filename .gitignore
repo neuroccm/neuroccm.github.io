@@ -1,0 +1,38 @@
+# Jekyll / GitHub Pages
+
+# Build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
+
+# Sass cache
+.sass-cache/
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+\#*\#
+
+# Backup files
+*.bak
+*.orig
+
+# Docker
+.docker/
+
+# Environment
+.env
