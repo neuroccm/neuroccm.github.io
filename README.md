@@ -21,7 +21,7 @@ This is the personal GitHub of Dr. Houman Khosravani, principal investigator of 
 Applying deep learning and spectral analysis of audio signals to clinical assessments -- what we call **Sonic Diagnosis**. Our flagship project, **MASA** (Machine Learning Assisted Swallowing Assessment), uses voice biomarkers and CNNs to improve **dysphagia screening** in acute stroke patients. In 2025, **Pal-MASA** expanded this work to dysphagia screening across all clinical contexts.
 
 ### Stroke Resuscitation and Simulation
-Originators of the **stroke resuscitation** concept, the **Protected Code Stroke** protocol (>30,000 downloads, AHA *Stroke*), and the first reframing of **Crisis Resource Management (CRM) for stroke care**. We run an active **code stroke simulation program** and co-founded **NICE** (Neurovascular Innovations CollaborativE) in 2023.
+Originators of the **stroke resuscitation** concept, the **Protected Code Stroke** protocol (>47,000 downloads, AHA *Stroke*), and the first reframing of **Crisis Resource Management (CRM) for stroke care**. We run an active **code stroke simulation program** and co-founded **NICE** (Neurovascular Innovations CollaborativE) in 2023.
 
 ### Palliative Care in Acute Stroke
 Developing evidence-based protocols for routine integration of palliative medicine into stroke treatment.
