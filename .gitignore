@@ -36,3 +36,10 @@ Thumbs.db
 
 # Environment
 .env
+
+# Claude AI assistant
+CLAUDE.md
+.claude/
+
+# Docker
+.dockerignore

@@ -1,0 +1,29 @@
+services:
+  jekyll:
+    build: .
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll
+      - jekyll-cache:/srv/jekyll/.jekyll-cache
+      - bundle-cache:/usr/local/bundle
+    environment:
+      - JEKYLL_ENV=development
+    command: >
+      bash -c "bundle install &&
+      bundle exec jekyll serve
+      --watch
+      --port=4000
+      --host=0.0.0.0
+      --livereload
+      --livereload-port=35729
+      --force_polling
+      --drafts
+      --trace"
+    stdin_open: true
+    tty: true
+
+volumes:
+  jekyll-cache:
+  bundle-cache:

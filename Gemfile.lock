@@ -60,6 +60,10 @@ GEM
 
 PLATFORMS
   x86_64-linux-musl
+  x86_64-linux
+  aarch64-linux
+  arm64-darwin
+  x86_64-darwin
 
 DEPENDENCIES
   jekyll (~> 4.2.2)
