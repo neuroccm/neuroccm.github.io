@@ -10,8 +10,8 @@
 - link: /posts/index.html
   name: Posts
 
-- link: /podcasts/index.html
-  name: Podcasts
+- link: /podcasts/
+  name: Education
 
 - link: /contact/
   name: Contact
