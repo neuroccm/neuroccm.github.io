@@ -81,7 +81,6 @@ Developing evidence-based protocols for routine integration of palliative medici
 
 - Contact: [ncrit.org/contact](https://www.ncrit.org/contact/)
 - Lab: [strokeinnovationlab.ca](https://strokeinnovationlab.ca)
-- Mastodon: [@neuroccm@sigmoid.social](https://sigmoid.social/@neuroccm)
 - Google Scholar: [Profile](https://scholar.google.com/citations?user=qzhk98YAAAAJ)
 - ORCID: [0000-0002-4059-9420](https://orcid.org/0000-0002-4059-9420)
 
