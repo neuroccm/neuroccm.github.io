@@ -79,7 +79,7 @@ Developing evidence-based protocols for routine integration of palliative medici
 
 ## Contact
 
-- Email: houman [at] neurovascular [dot] ca
+- Contact: [ncrit.org/contact](https://www.ncrit.org/contact/)
 - Lab: [strokeinnovationlab.ca](https://strokeinnovationlab.ca)
 - Mastodon: [@neuroccm@sigmoid.social](https://sigmoid.social/@neuroccm)
 - Google Scholar: [Profile](https://scholar.google.com/citations?user=qzhk98YAAAAJ)

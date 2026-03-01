@@ -31,6 +31,10 @@ Thumbs.db
 *.bak
 *.orig
 
+# Dropbox metadata
+*Zone.Identifier
+*com.dropbox.attrs
+
 # Docker
 .docker/
 

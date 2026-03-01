@@ -50,7 +50,7 @@ Members of the lab are also involved in educational initiatives, including a pod
 
 Members of the lab also are involved in educational initiatives, a podcast on stroke education: Stroke FM Podcast, the official podcast of the Canadian Stroke Consortium.
 
-If you are a student with an interest in QI and experienced in research, or if you are an engineering or CS or MD student interested in clinical applications of machine learning in neurology please reach out. [Get in touch](https://docs.google.com/forms/d/e/1FAIpQLSf9cr_X83Y9LKizY-xQ5ipav-r99H8RRPf_8c4Xh9E5XnIJkQ/viewform?usp=sharing) or send an email (houman[at]neurovascular[dot]ca), if you are interested in collaborating on any of the above topics: machine learning, QI, human factors, and simulation in the realms of stroke/neurovascular or neurocritical care initiatives. 
+If you are a student with an interest in QI and experienced in research, or if you are an engineering or CS or MD student interested in clinical applications of machine learning in neurology, please visit our [Contact the Lab](/contact/) page to get in touch if you are interested in collaborating on any of the above topics: machine learning, QI, human factors, and simulation in the realms of stroke/neurovascular or neurocritical care initiatives.
 
 Please note: All content on this site, including blogs, links, topics, and posts, is intended solely for educational purposes. This site does not constitute medical advice or consultation and does not establish a duty of care or any medical care/information/advice/or other obligations. Opinions expressed here are personal and do not reflect or replace expert advice from any institution, workplace, or organization. By using the site you agree to this.
 

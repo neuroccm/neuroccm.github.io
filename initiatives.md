@@ -4,40 +4,39 @@ title: Initiatives
 permalink: /initiatives/
 ---
 
-# Quality Improvement Research and Academic Focus
+Welcome to the **Stroke Innovation (& Machine learning) Lab [SiLab]**
 
-**Quality improvement in hyper-acute stroke care:** - seeking interested students and trainees in the below topics; if you are looking to collaborate or start an academic project please get in touch [houman {at} neurovascular.ca]. Current projects include:
-* **Crisis Resource Management and Simulation in Code Stroke, Collaboration between ED and Stroke Neurology - Co-leads: Dr. Khosravani (stroke) and Dr. Kester-Greene (ED)**
-    * we run 4 or more joint ED-Stroke Simulations per year, focusing on CRM, and improving the quality of care for hyperacute stroke care via simulation
-        * [Crisis Resource Management and High-Performing Teams in Hyperacute Stroke Care](https://dx.doi.org/10.1007/s12028-020-01057-4)
-    * PGY 1s - Pre-residency start stroke simulation
-        * 2021 Stroke Bootcamp
-        * 2022 Stroke Bootcamp
-        * 2023 Neurology and Stroke Bootcamp
-        * 2024 Neurology and Stroke Bootcamp
-    * 2023, NICE (Neurovascular Innovations CollaborativE), Drs. Khosravani and Hawkes
-    * April 2024 - Stroke Resuscitation Course Toronto "SRC T.O."
-    * January 2025 - Stroke Resuscitation Course Toronto "SRC T.O. FU" (follow-up)
-    * Joint ED (Dr. Gerhard Dashi, Dr. Kester-Greene) - Stroke (Dr. Khosravani) Simulations
-        * Every 3-4 months, applying CRM in stroke care in the ED
-* **NICE, the Neurovascular Innovations CollaborativE (NICE), Dr. Khosravani and Dr. Hawkes (co-founders)**
-* **StrokeFM Podcast - Official CSC (Canadian Stroke Consortium) Podcast**
-    * stroke education curriculum (CodeStroke website) and podcast:
-    * [Stroke FM - Apple Podcasts](https://podcasts.apple.com/ca/podcast/stroke-fm/id1507174650)
-    * [Stroke FM - Spotify](https://open.spotify.com/show/68E5WtnyWRHnLizKIKJDw8)
-* **ML4QI, Computational QI, Machine learning as applied to quality improvement in stroke**
+Transforming Neurovascular & Stroke Care Through Machine Learning Intelligence: #AI4QI; Our lab focuses on Quality Improvement in stroke and neurologic care. Our research domain is clinical neurology, with a particular emphasis on neurovascular care. In my quality improvement (QI) lab, we concentrate on stroke care and utilize machine learning techniques applied to datasets and time-series data. Recently, our focus has shifted to exploring sound as a biomarker. I am the Principal Investigator, Dr. Khosravani, from the Division of Neurology at the University of Toronto.
+
+Areas of academic focus:
+
+* **#AI4QI** or ML4QI - We pioneer machine learning applications to elevate quality improvement in acute stroke care. Our flagship initiative, Project MASA (Machine Learning Assisted Swallowing Assessment), analyzes voice biomarkers to revolutionize swallowing assessments and enhance patient outcomes.
+
+* **[Stroke Resuscitation Innovation](https://sites.google.com/ncrit.org/silab)** - As originators of the "stroke resuscitation" concept and Protected Code Stroke protocol, we lead the integration of Crisis Resource Management (CRM) principles into acute stroke care. Our simulation program advances team performance and patient safety during critical moments of stroke intervention, complementing our broader work with the Neurovascular Innovations CollaborativE (NICE).
+
+* **Integrative Stroke Palliative Care** - We champion comprehensive stroke care by developing evidence-based protocols that seamlessly integrate palliative medicine into acute stroke treatment. Our research defines best practices for incorporating palliative approaches while maintaining aggressive intervention when appropriate, ensuring optimal patient-centered outcomes across the care spectrum.
+
+Members of the lab are also involved in educational initiatives, including a podcast on stroke education: Stroke FM Podcast, the official podcast of the Canadian Stroke Consortium.
+
+**Stroke Innovation-machine learning Lab (SiLab) machine learning for quality improvement**
+* My lab is part of the [NQIL](https://www.nqil.ca/) group, at the University of Toronto; a hub for QI for neurology.
+* We also are exploring the intersection of machine learning and quality improvement, utilizing voice-based technologies to refine our methods. We have expertise in deep-learning and processing of audio signals.
+* Our pursuit of excellence extends to the cutting-edge field of machine learning. With support from [T-CAIREM](https://tcairem.utoronto.ca/) and SHSC, we are leveraging bedside physiologic recordings to improve the quality of acute stroke care.
+
+* **Machine learning as applied to quality improvement in stroke**
     * 2024-2025 (academic years)
         * Lab Members:
-            * Rishit Dagli, Computer Science, U of T, T-CAIREM (2024 student award)
-            * Dr. E. Adegunna, Neurology, U of T, PGY3
-            * Dr. B. Tilley, Neurology, U of T, PGY2
-            * Diya Ahmed, U of T Medicine
-            * Georges Khalaf, U uf T Medicine, CREMS 2024 student
-            * Dr. A. Balachandar, Neurology, U of T, completed adult Neurology FRCPC, now Movement Disorders fellow (PhD in movement disorders and DBS) Project, ML4QI in Stroke
-            * R. Saab, U of T Med, ML4QI in Stroke, Sunnybrook Research Institute
-            * E. Nashnoush, MSc, U of T Data Science, ML4QI in Stroke, Sunnybrook Research Institute, T-CAIREM, HealthQuality
-            * H. Mahdi, Western University, Med, ML4QI in Stroke
-            
+            * Rishit Dagli, Computer Science, U of T, T-CAIREM (2024 student award), now at NVIDIA doing a 1-year studentship, worked on ML4QI in Stroke in project MASA (machine learing assisted swallowing assessment), and pioneered and developed SEE2SOUND
+            * Dr. A. Balachandar, Neurology, U of T, Movement disorders Fellow and pursuing PhD in movement disorders and DBS, worked on ML4QI in Stroke in project MASA (machine learing assisted swallowing assessment)
+            * R. Saab, U of T Med, ML4QI in Stroke, works on ML4QI in Stroke in project MASA (machine learing assisted swallowing assessment)Sunnybrook Research Institute
+            * E. Nashnoush, MSc, U of T Data Science, ML4QI in Stroke, Sunnybrook Research Institute, T-CAIREM, HealthQuality, part of Project MASA
+            * H. Mahdi, Western University, Medicine, ML4QI in Stroke, part of project MASA
+            * Dr. B. Tilley, Neurology, PGME Neurology, University of Toronto - working on the use LLMs in EHRs, and project 1stroke.org
+            * Dr. E. Adegunna, Neurology, PGME Neurology, University of Toronto - working on palliative care in stroke, and project Pal-MASA
+            * Diya Ahmed, UGME, U of T Medicine, working on QI in Neurology and future project on LLMs in Neurology
+            * Rebecca Wu, UGME, U of T Medicine, working on LLMs in Neurology
+            * Sofia Berrada, UG, U of T
+            * Jake Lance, UG, U of T
 
     * 2023-2024
         * Lab Members:
@@ -47,70 +46,25 @@ permalink: /initiatives/
             * H. Mahdi, Western University, Med, ML4QI in Stroke, Sunnybrook Research Institute
             * Dr. B. Sivanandan, Neurology, U of T, PGY4/5 Project, Palliative Care in Stroke
             * Dr. M. Mahendiran, U of T, Family Medicine (graduated), Palliative Care research, Hospital Medicine Fellow (Orange Team)
+            * Georges Khalaf, CREMS, Summer 2024, UGME, U of T Medicine
             * Dr. E. Adegunna, Neurology, U of T, PGY2
             * Dr. B. Tilley, Neurology, U of T, PGY1
-            * Diya Ahmed, U of T Medicine
+            * Diya Ahmed, UGME, U of T Medicine
 
     * 2022-2023
         * Lab Members:
             * Dr. A. Balachandar, Neurology, U of T
             * R. Saab, U of T Med, T-CAIREM (2022 student award)
             * M. Panchal, U of T Med, CREMS
-            
-* **Stroke and Thromobsis**
-    * We have a collaborative group on thrombosis, and we are full members of Thrombosis Canada.
-    * Enhanced integration of thrombosis fellowship into stroke training and vice-versa
-        * Dr. Stephanie Carlin (McMaster University) and Dr. Khosravani
-        * [Stroke and Thrombosis](https://sites.google.com/strokeandthrombosis.org/theclotthickens/home/)
-        * Reference list and podcast
-        * ["The Clot Thickens"](https://pubmed.ncbi.nlm.nih.gov/34232455/)
-    * Local and National Innitative on Thrombosis in Stroke
-        * Dr. Larry Robinson, Dr. Bill Geerts, and Dr. Khosravani, with a larger collaborative group.
 
-* **New Onset Refractory Status Epilepticus**
-    
-    * Neurocritical care EEG - *status epileptius*, refractory SE, NORSE
-    * Interface between computational solutions and medical challenges in caring for acute medically-ill and critically-ill patients. My specific interest, based on my PhD work, is time-series analysis and utilizing both linear and nonlinear tools to analyze physiologic signals for classifying and predicting disease processes.
+**Simulation in Code Stroke - Neurovascular Resuscitation - Neurovascular Innovations CollaborativE (NICE)**
+* Our lab championed the framework of crisis resource management in stroke simulation to optimize critical intervention metrics such as "door-to-needle" times. We are proud to be pioneers in the field and published the first reframing of Crisis Resource Management (CRM) for stroke care. We also developed the "protected code stroke" during the COVID-19 pandemic, which was integrated into national and international guidelines and downloaded over 30,000 times from the American Heart Association and Stroke journal's website. Our research aims to enhance care pathways and human performance factors for acute stroke patients through the simulation of neurovascular resuscitation. We have introduced the concept of "neurovascular resuscitation," applying principles from medical and trauma resuscitation to stroke treatment—thereby reinstating the 'code' in code stroke.
+* In 2023, Dr. Khosravani and Dr. Hawkes co-founded the Neurovascular Innovations CollaborativE (NICE) @neuroresuslab, an initiative projected to contribute substantially to augmenting neurovascular care education. Our Lab's focus at SiLab is the medical/neurocritical care aspects of hyperacute care and techniques.
 
-**[NQIL](https://sites.google.com/nqil.ca/nqil/?pli=1) the Neurology Quality and Innovation Lab**
+**Routine Integration of Palliative Care in Stroke**
+* Despite significant advancements in stroke care, a considerable number of patients still grapple with substantial morbidity and mortality. Recognizing this, we advocate for the routine integration of palliative care into stroke treatment. Compassionate and effective care forms the bedrock of the philosophy we advocate for in terms of expanding the confluence of palliative medicine and stroke care.
 
-* The Neurology Quality and Innovation Lab (NQIL) was founded by three U of T Neurologists (Dr. Charles Kassardjian, Dr. Sara Mitchell, and Dr. Houman Khosravani) as a hub for collaboration and implementation of city-wide quality improvement, patient safety, and innovation projects. The recently published videos on the Virtual Neurologic Examination can be found on this website as well.
-    * [Empowering Clinical Neurosciences for Optimal Patient Care - Quality improvement and Advocacy Workshop](https://www.eventscribe.net/2023/cnsfcongress/fsPopup.asp?Mode=sessionInfo&PresentationID=1257771)
-    * [Virtual Neurologic Exam](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7347716/)
+**Prospective Students**
+* Each year my lab typically takes 1 student from T-CAIREM. In some or alternate years, we also take a student via SRI or CREMS.
 
-**Advocacy for better outcomes in NORSE**
-
-NORSE (New Onset Refractory Status Epilepticus) - [NORSEINSTITUTE.ORG](https://norseinstitute.org)
-
-Serving as a member of the [Advisory Board](https://www.norseinstitute.org/medical-advisory-board/) at the NORSE Institute. We are a group of individuals spanning families, physicians (Pediatric & Adult Neurology, Neurocritical Care) dedicated to raising awareness for NORSE. We are building a foundation where other providers are able to diagnose, treat, and seek consultation from expert and expert-centers when managing NORSE patients. In addition, we have developed a registry for these pateints and soon their families. Our goal is to raise awareness of NORSE and associated conditions and to work toward a cure.
-
-Vision of the NORSE Institute:
-
-"Effective treatment for this rare and poorly understood disorder is currently elusive. Finding it requires new thinking from multiple medical disciplines and integration of these ideas and research. We hope to stimulate this thinking and explore both the conceptual boundaries of NORSE as well as the practical boundaries of NORSE treatment: long-term critical care, ICU and epilepsy coordination, palliative care, and immune treatments."
-
-# Previous initiatives and completed projects
-
-The following projects were aimed at quality improvement and education.
-
-**Door-to-Needle/Door-to-Intervention quality improvement project**
-   * Winner of our institution's QI project 2019 - we have put into practice a durable process for QI in hyperacute stroke with a multidisciplinary and collaborative team, with our colleagues in our departments as stakeholders.
-   * Stroke and quality of care/improvement in stroke pathways; specifically peri-thrombolysis and EVT, and critical care interaction
-   * Collaborative project with multiple members of the stroke program and the regional stroke program where we have improved the door to needle time at our local center, with change ideas that are focused on human factors, checklists, and direct to CT scanner, with measurable and durable improvements and/or intervention time.
-   * This work continues but the key ingredients are in place and showing durable benefit.
-
-**Medical Education – [torontocriticalcare.org](http://www.torontocriticalcare.org/) - Sr Resident and Fellow education in the intensive care unit at University of Toronto**
-
-Based on positive reception and uptake by users at Western and the increasing utilization of mobile devices for content consumption in medical education (and life in general!), we developed the Educational portal for the Interdepartmental Division of Critical Care at the University of Toronto. This website is being used by ICU Sr residents and clinical fellows for educational use and organization of the program.
-
-**Extubation Pathway – [extubate](http://extubate.ecriticalcare.org/)**
-
-There are many excellent airway management strategies, checklists, and guidelines. The same cannot be said about extubation pathways and preparedness for acute extubation failure in general medical/surgical ICUs. I am working with Dr. John Fuller at Western University where we have developed and evidence-informed extubation pathway that can be utilized by Respiratory Therapists to assist in safe extubation practices. We are studying extubation safety pre- and post- pathway introduction to assess its impact on aspects of patient safety.
-
-**Medical Education – [eCriticalCare.org] - Junior/off-service resident education in the intensive care unit at Western University**
-
-For a full description of this project, please see eCriticalCare.org (see Education and ICU Boot Camp).
-The ICU rotation for junior and off-service residents can be challenging in many ways. These include: ICU as a complex environment with multiple teams and multi-modal monitoring, there are competing schedules (call,vacation,teaching schedules), there are different knowledge gaps and starting points for the residents, and there is significant anxiety associated with managing acute situations and procedures.
-We developed ICU Boot Camp as a course and mobile-platform using Google Classroom for students so that they can start their rotation ready to start taking care of critically-ill patients.
-* this site is now retired - [ccw.ecriticalcare.org](http://ccw.ecriticalcare.org/)
-* Western University Critical Care Extubation Protocol [extubate](http://extubate.ecriticalcare.org/)
-* ICU BootCamp Videos, these can now be found on [silab.ca](https://sites.google.com/ncrit.org/silab/), see CRM tab
+* If you are a student with an interest in QI and experienced in research, or if you are an engineering, CS, or MD student interested in clinical applications of machine learning in neurology, please visit our [Contact the Lab](/contact/) page to get in touch.
