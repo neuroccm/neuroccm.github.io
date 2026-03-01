@@ -54,9 +54,6 @@ If you are a student with an interest in QI and experienced in research, or if y
 
 Please note: All content on this site, including blogs, links, topics, and posts, is intended solely for educational purposes. This site does not constitute medical advice or consultation and does not establish a duty of care or any medical care/information/advice/or other obligations. Opinions expressed here are personal and do not reflect or replace expert advice from any institution, workplace, or organization. By using the site you agree to this.
 
-* <a rel="me" href="https://sigmoid.social/@neuroccm">neuroccm@sigmoid.social</a>
-* <a rel="me" href="https://bsky.app/profile/neuroccm.bsky.social">neuroccm.bsky.social</a>
-
 <!-- <a href="https://sites.google.com/nqil.ca/nqil/">
     <img id="NQILTeam" src="NQIL_ver03.png" alt="logo for NQIL" style="width:50%; height:auto;">
 </a> -->
