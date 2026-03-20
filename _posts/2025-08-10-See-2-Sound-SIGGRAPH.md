@@ -2,7 +2,7 @@
 layout: post
 title:  "See-2-Sound @ SIGGRAPH 2025"
 date: 2025-08-10 10:00:00 -0400
-categories: ML, Tech, Stroke
+categories: News, ML, Tech, Stroke
 comments: FALSE
 ---
 

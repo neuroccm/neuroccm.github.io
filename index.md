@@ -50,6 +50,15 @@ Members of the lab are also involved in educational initiatives, including a pod
 
 Members of the lab also are involved in educational initiatives, a podcast on stroke education: Stroke FM Podcast, the official podcast of the Canadian Stroke Consortium.
 
+**[News](/news/)**
+
+{% assign news_posts = site.posts | where_exp: "post", "post.categories contains 'News'" %}
+{% for post in news_posts limit:5 %}
+* **{{ post.date | date: "%b %-d, %Y" }}** - [{{ post.title }}]({{ post.url | prepend: site.baseurl }})
+{% endfor %}
+
+For more news and updates, visit [Stroke Innovation Lab](https://www.strokeinnovationlab.ca/).
+
 If you are a student with an interest in QI and experienced in research, or if you are an engineering or CS or MD student interested in clinical applications of machine learning in neurology, please visit our [Contact the Lab](/contact/) page to get in touch if you are interested in collaborating on any of the above topics: machine learning, QI, human factors, and simulation in the realms of stroke/neurovascular or neurocritical care initiatives.
 
 Please note: All content on this site, including blogs, links, topics, and posts, is intended solely for educational purposes. This site does not constitute medical advice or consultation and does not establish a duty of care or any medical care/information/advice/or other obligations. Opinions expressed here are personal and do not reflect or replace expert advice from any institution, workplace, or organization. By using the site you agree to this.
