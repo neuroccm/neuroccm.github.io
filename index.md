@@ -2,7 +2,7 @@
 layout: page
 comments: FALSE
 ---
-<p><img id="khosravanilab" src="NQIL_ver04.png" alt="logo for khosravani lab">
+<p><img id="khosravanilab" src="Khosravani_Lab05.png" alt="Khosravani Lab logo">
 <!-- <img id="ncrit" src="neuroccm_ver02.png" alt="logo for neuroccm" width="150" height="50"> -->
 
 </p>
