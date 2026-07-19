@@ -17,6 +17,8 @@ github_username:  neuroccm
 
 # Build settings
 markdown: kramdown
+include:
+  - _headers
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.

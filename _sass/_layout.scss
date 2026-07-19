@@ -217,6 +217,27 @@
 .post-content {
     margin-bottom: $spacing-unit;
 
+    .contact-email-button {
+        display: inline-block;
+        padding: 0.6rem 1.1rem;
+        border: 1px solid darken($brand-color, 8%);
+        border-radius: 4px;
+        background-color: $brand-color;
+        color: #fff;
+        font-weight: 600;
+
+        &:visited {
+            color: #fff;
+        }
+
+        &:hover,
+        &:focus {
+            background-color: darken($brand-color, 10%);
+            color: #fff;
+            text-decoration: none;
+        }
+    }
+
     h2 {
         font-size: 32px;
 
