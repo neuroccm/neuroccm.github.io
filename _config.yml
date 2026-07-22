@@ -14,6 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://neuroccm.org" # the base hostname & protocol for your site
 twitter_username: neuroccm
 github_username:  neuroccm
+last_updated: true # set to true if you want to display last updated in the footer
 
 # Build settings
 markdown: kramdown
